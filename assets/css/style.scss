@@ -1,0 +1,356 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+/* Global Site Variables */
+:root {
+  --primary-sans-font: jaf-bernino-sans-condensed, sans-serif;
+  --primary-serif-font: ff-meta-serif-web-pro, serif;
+}
+
+body {
+  font-style: normal;
+  font-weight: 500;
+  font-family: var(--primary-sans-font);
+  font-size: 14px;
+  line-height: 20px;
+  color: #000;
+  background-color: #fff;
+  margin: 0 ;
+  padding: 0;
+  text-align: center; 
+} 
+ 
+.site-mast {
+  width: 860px;
+  height: 400px;
+  margin-bottom: 60px;
+  text-indent: -9999px;
+  background-color: white;
+}
+ 
+.site-mast a:link {
+  width: 554px;
+  height: 400px;
+  margin-left: 60px;
+  background-image: url(/assets/img/airbag-mast.png);
+  border: 0;
+  display: block;
+}
+
+.all-of-it {
+  width: 860px;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+ 
+ul {
+  list-style: square;
+  padding: 0 0 0 0;
+}
+ 
+li {
+  padding: 6px;
+  border-top: 1px solid #EFEFEF;
+}
+    
+#nobullets ul {
+  list-style: none;
+  padding: 0 0 0 0;
+}
+ 
+#nobullets li {
+  padding: 8px 0px;
+}
+   
+ 
+/*      Hyperlinks to Cyberspace      */
+ 
+.site-established {
+  font-style: normal;
+  font-size: 13px;
+  line-height: 17px;
+  width: 130px;
+  margin-bottom: 48px;
+  padding-top: 40px;
+}
+
+.site-nav {
+  width: 130px;
+  float: left;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 15px; 
+}
+ 
+.site-nav ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 24px;
+}
+ 
+.site-nav li {
+  padding: 6px 0 5px 0;
+  border-top: 1px solid #CCC
+}
+
+.site-nav li.active a {
+  font-weight: bold;
+}
+
+.topofads {
+  font-weight: 700;
+  padding: 6px 0 0 0;
+  border-top: 1px solid #CCC  
+}
+
+.site-introspective {
+  font-style: normal;
+  font-size: 13px;
+  line-height: 17px;
+  width: 130px;
+  margin-bottom: 48px;
+  padding-top: 40px;
+}
+
+#shutterthumb img {
+  width: 150px;
+  height: 150px;
+}    
+ 
+.site-content {
+  width: 500px;
+  float: right;
+}
+ 
+/*      Main Event      */
+   
+.article {
+  width: 500px;
+  padding: 0;
+  font-family: var(--primary-serif-font);
+  font-size: 17px;
+  line-height: 21px;
+  }    
+   
+.article h1 {
+  font-family: var(--primary-sans-font);
+  font-size: 20px;
+  letter-spacing: -.5px;
+  line-height: 23px;
+  margin-bottom: 24px;
+  margin-top: 0px;
+  color: #4b6c95;
+  }
+ 
+.article h3 {
+  font-family: var(--primary-sans-font);
+  font-size: 15px;
+  line-height: 23px;
+  margin-top: 0px;
+  color: #3D3D3D;
+  }
+   
+.article blockquote {
+  border-left: 1px solid #CCC;
+  padding: 0 0 0 24px;
+  margin: 24px 0;
+  }
+   
+.quote {
+  background: url(http://airbagindustries.com/images/quote.gif) no-repeat;
+  padding-left: 26px;
+  margin: 0;
+  }  
+   
+.caps {
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 4px;
+  }  
+   
+.caption {
+  font-size: 14px;
+  line-height: 18px;
+  padding: 0 0 18px 0;
+  font-style: italic;
+  }  
+   
+.articleend {
+  font-family: var(--primary-sans-font);
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  margin: 28px 0px 48px 0;
+  }
+   
+   
+/*      All Things Considered      */
+ 
+.linkentry h3 {
+  font-size: 17px;
+  line-height: 25px;
+  margin-bottom: 50px;
+  font-style: normal;
+  margin-top: 0px;
+  color: #3D3D3D;
+  }
+ 
+.linkentrydate {
+  width: 100px;
+  padding-right: 20px;
+  line-height: 19px;  
+  }
+ 
+.linkentry {
+  width: 480px;
+  margin: 0 0 60px 0;
+  padding: 0 20px 60px 0;
+  border-bottom: 1px solid #bebebe;
+  }
+   
+.followlinkafterentry {
+  width: 480px;
+  margin: 0 0 60px 0;
+  padding: 0 0 60px 0;
+  font-size: 14px;
+  line-height: 19px;
+  border-bottom: 1px solid #bebebe;
+  clear: both;
+  }  
+   
+.otherlinkentries {
+  width: 480px;
+  font-size: 13px;
+  line-height: 18px;  
+  }
+   
+.otherlinkentries p {
+  margin-bottom: 30px;
+  }  
+ 
+   
+/*        Fin     */
+ 
+ 
+.site-fin {
+  width: 860px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 120px 0 60px 0;
+  clear: both;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 16px;
+  background-image: url(/assets/img/fin.png);
+  background-position: bottom;
+  background-position-x: 280px;
+  background-repeat: no-repeat;
+  }
+   
+#thanks {
+  height: 48px;  
+  text-align: center;
+  }
+   
+.site-made {
+  float: left;
+  text-align: left;    
+  }
+ 
+.site-copyright {
+  float: right;
+  text-align: right;
+  }  
+   
+a:link {
+  color: #b51b1b;
+  text-decoration: none;
+  }
+   
+a:hover {
+  color: #863535;
+  }  
+   
+a:visited {
+  color: #b51b1b;
+  }  
+   
+   
+.article a:link {
+  color: #b51b1b;
+  text-decoration: none;
+  border-bottom: 1px dotted  #b51b1b;
+  }
+   
+.article a:hover {
+  color: #863535;
+  border-bottom: 1px dotted  #863535;  
+  }  
+   
+.article a:visited {
+  color: #863535;
+  }    
+ 
+.indexprevnext {
+  font-family: var(--primary-sans-font);
+  font-weight: 700;  
+  font-size: 13px;
+  height: 24px;
+  margin-bottom: 36px;
+  }  
+   
+.indexprevnext a:link {
+  padding: 6px 9px 5px 9px;
+  border: 1px solid #c3c3c3;
+  }  
+   
+.indexprevnext a:hover {
+  padding: 6px 9px 5px 9px;
+  border: 1px solid #b51b1b;
+  }
+   
+.indexprevnext a:visited {
+  padding: 6px 9px 5px 9px;
+  border: 1px solid #c3c3c3;
+  }  
+ 
+.ipn-left {
+  float: left;
+  }  
+   
+.ipn-right {
+  float: right;
+  }
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+/*
+@import 'variables';
+@import 'normalize';
+@import 'fonts';
+@import 'fontawesome';
+@import 'base';
+@import 'buttons';
+@import 'forms';
+@import 'tables';
+@import 'code';
+@import 'structure';
+// @import 'grid-float';
+@import 'grid-flex';
+@import 'header';
+@import 'headings';
+@import 'navigation';
+@import 'article';
+@import 'widgets';
+@import 'images';
+@import 'home';
+@import 'archive';
+@import 'pagination';
+@import 'sidebar';
+@import '404';
+@import 'footer-widgets';
+@import 'footer';
+*/

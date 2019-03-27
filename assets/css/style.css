@@ -1,0 +1,393 @@
+@font-face{
+        font-family:'FranziskaWeb Regular';
+        src:url('/-/_webfonts/franziska-regular/franziska-regular.eot?#iefix');
+        src:url('/-/_webfonts/franziska-regular/franziska-regular.eot?#iefix') format('eot'),
+        url('/-/_webfonts/franziska-regular/franziska-regular.woff2') format('woff2'),
+        url('/-/_webfonts/franziska-regular/franziska-regular.woff') format('woff'),
+        url('/-/_webfonts/franziska-regular/franziska-regular.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        }
+             
+@font-face{
+        font-family:'FranziskaWeb Italic';
+        src:url('/-/_webfonts/1472470/80273eb5-4147-4fb5-a928-15823295ce71.eot?#iefix');
+        src:url('/-/_webfonts/1472470/80273eb5-4147-4fb5-a928-15823295ce71.eot?#iefix') format('eot'),
+        url('/-/_webfonts/1472470/449a8c70-8390-4843-a08e-4504f740f546.woff2') format('woff2'),
+        url('/-/_webfonts/1472470/20830a20-d070-4d27-8888-f0c74dfa323c.woff') format('woff'),
+        url('/-/_webfonts/1472470/dfbb643f-d9bc-4b30-92de-1aeefaa262ad.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        }   
+                 
+@font-face{
+        font-family:'FranziskaWeb Demibold';
+        src:url('/-/_webfonts/1472454/3c725cef-702f-4f2d-a38e-8566f43a0d05.eot?#iefix');
+        src:url('/-/_webfonts/1472454/3c725cef-702f-4f2d-a38e-8566f43a0d05.eot?#iefix') format('eot'),
+        url('/-/_webfonts/1472454/619e86ca-09dc-407e-a868-72770406b648.woff2') format('woff2'),
+        url('/-/_webfonts/1472454/ac9b69c8-d866-4b2f-b9b6-3832e0e15d4d.woff') format('woff'),
+        url('/-/_webfonts/1472454/86fdda75-1377-4b9a-938a-4ca66bb6ebb2.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        }
+ 
+@font-face{
+        font-family:'FranziskaWeb Extrabold';
+        src:url('/-/_webfonts/1472460/174d8473-3b2b-41d3-acb3-a5ee377030de.eot?#iefix');
+        src:url('/-/_webfonts/1472460/174d8473-3b2b-41d3-acb3-a5ee377030de.eot?#iefix') format('eot'),
+        url('/-/_webfonts/1472460/38863ba9-4bca-463c-92f1-986a632a65ae.woff2') format('woff2'),
+        url('/-/_webfonts/1472460/60ad0578-d984-4336-811e-73eac6ba2c68.woff') format('woff'),
+        url('/-/_webfonts/1472460/05d17d41-f158-4e1f-9fef-e5a1c7ac755e.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        }
+         
+@font-face{
+        font-family:'FranziskaWeb ExtraboldIt';
+        src:url('/-/_webfonts/1472462/2528e40b-8d44-4577-972e-d8f11c7f9de0.eot?#iefix');
+        src:url('/-/_webfonts/1472462/2528e40b-8d44-4577-972e-d8f11c7f9de0.eot?#iefix') format('eot'),
+        url('/-/_webfonts/1472462/bdd3cb86-ad5a-4776-a551-e1626f692876.woff2') format('woff2'),
+        url('/-/_webfonts/1472462/5e51cf6c-ab71-460c-97bc-d681fbda4b19.woff') format('woff'),
+        url('/-/_webfonts/1472462/d2455a78-3efd-4d70-a4cb-cd2f6382c724.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        }   
+ 
+body {
+    font-style: normal;
+    font-weight: 500;
+    font-family: jaf-bernino-sans-condensed;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000;
+    background-color: #fff;
+    margin: 0 ;
+    padding: 0;
+    text-align: center; 
+    } 
+ 
+#mast {
+    width: 860px;
+    height: 400px;
+    margin-bottom: 60px;
+    text-indent: -9999px;
+    background-color: white;
+}
+ 
+#mast a:link {
+    width: 554px;
+    height: 400px;
+    margin-left: 60px;
+    background-image: url(/-/_img/airbag-mast.png);
+    border: 0;
+    display: block;
+}
+ 
+ 
+#allofit {
+    width: 860px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    }
+ 
+ul {
+    list-style: square;
+    padding: 0 0 0 0;
+    }
+ 
+li {
+    padding: 6px;
+    border-top: 1px solid #EFEFEF;
+    }
+ 
+     
+#nobullets ul {
+    list-style: none;
+    padding: 0 0 0 0;
+    }
+ 
+#nobullets li {
+    padding: 8px 0px;
+    }
+     
+ 
+/*          Hyperlinks to Cyberspace            */
+ 
+ 
+#left {
+    width: 130px;
+    float: left;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 15px; 
+    }
+ 
+#left ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 24px;
+    }
+ 
+#left li {
+    padding: 6px 0 5px 0;
+    border-top: 1px solid #CCC
+    }
+ 
+.topofads {
+    font-weight: 700;
+    padding: 6px 0 0 0;
+    border-top: 1px solid #CCC  
+    }
+ 
+#linkstotheoutside {
+    width: 130px;
+    margin-right: 20px;
+    float: left;    
+    }
+ 
+#takingcareofbusiness {
+    width: 130px;
+    margin-right: 20px;
+    float: left;
+    }
+ 
+#ad {
+    clear: both;
+    width: 130px;
+    padding: 45px 0 35px 0;
+    margin-bottom: 24px;
+    }
+     
+#ad img {
+    padding-bottom: 8px
+    }
+     
+#shutterthumb img {
+    width: 150px;
+    height: 150px;
+    }       
+ 
+#right {
+    width: 500px;
+    float: right;
+    }
+ 
+#established {
+    font-style: normal;
+    font-size: 13px;
+    line-height: 17px;
+    width: 130px;
+    margin-bottom: 48px;
+    padding-top: 40px;
+    }
+     
+     
+/*          Main Event          */
+     
+.article {
+    width: 500px;
+    padding: 0;
+    font-family: ff-meta-serif-web-pro;  "FranziskaWeb Regular";
+    font-size: 17px;
+    line-height: 21px;
+    }       
+ 
+/** .article {
+    width: 500px;
+    padding: 0;
+    font-family: ff-meta-serif-web-pro; 
+    font-size: 16px;
+    line-height: 24px;
+    }   **/
+     
+.article h1 {
+    font-family: jaf-bernino-sans-condensed; "FranziskaWeb Extrabold";
+    font-size: 20px;
+    letter-spacing: -.5px;
+    line-height: 23px;
+    margin-bottom: 24px;
+    margin-top: 0px;
+    color: #4b6c95;
+    }
+ 
+.article h3 {
+    font-family: jaf-bernino-sans-condensed;
+    font-size: 15px;
+    line-height: 23px;
+    margin-top: 0px;
+    color: #3D3D3D;
+    }
+     
+.article blockquote {
+    border-left: 1px solid #CCC;
+    padding: 0 0 0 24px;
+    margin: 24px 0;
+    }
+     
+.quote {
+    background: url(http://airbagindustries.com/images/quote.gif) no-repeat;
+    padding-left: 26px;
+    margin: 0;
+    }   
+     
+.caps {
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 4px;
+    }   
+     
+.caption {
+    font-size: 14px;
+    line-height: 18px;
+    padding: 0 0 18px 0;
+    font-style: italic;
+    }   
+     
+.articleend {
+    font-family: jaf-bernino-sans-condensed;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    margin: 28px 0px 48px 0;
+    }
+     
+     
+/*          All Things Considered           */
+ 
+.linkentry h3 {
+    font-size: 17px;
+    line-height: 25px;
+    margin-bottom: 50px;
+    font-style: normal;
+    margin-top: 0px;
+    color: #3D3D3D;
+    }
+ 
+.linkentrydate {
+    width: 100px;
+    padding-right: 20px;
+    line-height: 19px;  
+    }
+ 
+.linkentry {
+    width: 480px;
+    margin: 0 0 60px 0;
+    padding: 0 20px 60px 0;
+    border-bottom: 1px solid#bebebe;
+    }
+     
+.followlinkafterentry {
+    width: 480px;
+    margin: 0 0 60px 0;
+    padding: 0 0 60px 0;
+    font-size: 14px;
+    line-height: 19px;
+    border-bottom: 1px solid#bebebe;
+    clear: both;
+    }   
+     
+.otherlinkentries {
+    width: 480px;
+    font-size: 13px;
+    line-height: 18px;  
+    }
+     
+.otherlinkentries p {
+    margin-bottom: 30px;
+    }   
+ 
+     
+/*              Fin         */
+ 
+ 
+#scrollbackupthispartisboring {
+    width: 860px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 120px 0 60px 0;
+    clear: both;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16px;
+    background-image: url(../_img/fin.png);
+    background-position: bottom;
+    background-position-x: 280px;
+    background-repeat: no-repeat;
+    }
+     
+#thanks {
+    height: 48px;   
+    text-align: center;
+    }
+     
+#made {
+    float: left;
+    text-align: left;       
+    }
+ 
+#copyright {
+    float: right;
+    text-align: right;
+    }   
+     
+a:link {
+    color: #b51b1b;
+    text-decoration: none;
+    }
+     
+a:hover {
+    color: #863535;
+    }   
+     
+a:visited {
+    color: #b51b1b;
+    }   
+     
+     
+.article a:link {
+    color: #b51b1b;
+    text-decoration: none;
+    border-bottom: 1px dotted   #b51b1b;
+    }
+     
+.article a:hover {
+    color: #863535;
+    border-bottom: 1px dotted   #863535;    
+    }   
+     
+.article a:visited {
+    color: #863535;
+    }       
+ 
+.indexprevnext {
+    font-family: jaf-bernino-sans-condensed;
+    font-weight: 700;   
+    font-size: 13px;
+    height: 24px;
+    margin-bottom: 36px;
+    }   
+     
+.indexprevnext a:link {
+    padding: 6px 9px 5px 9px;
+    border: 1px solid #c3c3c3;
+    }   
+     
+.indexprevnext a:hover {
+    padding: 6px 9px 5px 9px;
+    border: 1px solid #b51b1b;
+    }
+     
+.indexprevnext a:visited {
+    padding: 6px 9px 5px 9px;
+    border: 1px solid #c3c3c3;
+    }   
+ 
+.ipn-left {
+    float: left;
+    }   
+     
+.ipn-right {
+    float: right;
+    }

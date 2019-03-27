@@ -1,1 +1,68 @@
+# Site Settings
+title: Airbag Industries 
+description: Airbag Industries created by Greg Storey
+url: https://airbagindustries.com
 
+# Locations
+source:         .
+destination:    ./_site
+collection_dir: .
+plugins_dir:    _plugins
+layouts_dir:    _layouts
+includes_dir:   _includes
+collections:
+  posts:
+    output: true
+
+# Jekyll Configuration
+encoding: UTF-8
+# permalink: /:title/
+permalink: pretty
+paginate: 5
+paginate_path: "/page/:num/"
+
+# Markdown Processing
+markdown: kramdown
+kramdown:
+  input:                GFM
+  entity_output:        as_char
+  toc_levels:           1..6
+  syntax_highlighter:   rouge
+  smart_quotes:         lsquo,rsquo,ldquo,rdquo
+
+# Sass/SCSS Settings - unused (for now)
+# sass:
+#   sass_dir: _sass
+#   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Collection Defaults
+defaults:
+- scope:
+    type: posts
+  values:
+    layout: post
+- scope:
+    type: pages
+  values:
+    layout: page
+
+# File Handling
+include: [.htaccess, _pages]
+exclude: [lib, config.rb, .sass-cache, Capfile, config, log, Rakefile, Rakefile.rb, tmp, Gemfile, Gemfile.lock, README.md, LICENSE.md, node_modules, gulpfile.js, package.json]
+
+# Plugins
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-redirect-from
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  permalinks:
+    categories: '/category/:name/'
+    tags: '/tag/:name/'

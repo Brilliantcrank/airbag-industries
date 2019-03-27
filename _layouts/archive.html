@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<article class="page">
+
+  <div class="archive-description">
+    <h1 class="archive-title">
+      {{ page.title }}
+      {% if page.type == 'category' %} Category Archives{% endif %}
+      {% if page.type == 'tag' %} Tag Archives{% endif %}
+    </h1>
+  </div>
+
+  {% for post in page.posts %}
+
+  <article class="post entry" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <header class="entry-header">
+      <h1 class="entry-title" itemprop="headline"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h1>
+    </header>
+
+    <div class="entry-content" itemprop="text">
+      {{ post.content }}
+    </div>
+
+    <footer class="entry-meta">
+        {% include post-time.html %}
+        {% include post-taxonomies.html %}
+    </footer>
+
+  </article>
+
+  {% endfor %}
+
+</article>

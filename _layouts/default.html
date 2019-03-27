@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body itemscope itemtype="http://schema.org/WebPage">
+
+    <div class="all-of-it">
+
+      {% include header.html %}
+
+      <main class="site-content">
+        {{ content }}
+      </main><!-- end .site-content -->
+
+      <aside class="site-nav">
+        {% include navigation.html %}          
+      </aside><!-- end .site-nav -->
+
+      {% include footer.html %}
+
+    </div><!-- end .all-of-it -->
+
+  </body>
+
+</html>
