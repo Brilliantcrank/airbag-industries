@@ -1,43 +1,12 @@
 ---
-title: Hello World
+title: That one time when technical difficulties, user error, and Murphy's Law walk
+  into a bar.
+
 ---
+Wouldn't you know it. I finally get my act together to get Airbag off thirteen-year-old technology and onto a modern, secure platform and the server dies right before the work begins. Literally the day before the engineer I hired finally had a window to start work and the hard drive spins down for the last time. Zero chance of recovery.
 
-<p><strong>This is what blockquotes look like.</strong></p>
+There are a few times when I'm such a moron, and this one is it. The kind with a full, five-second-hold facepalm followed with the slow wipe down to the chin. And I use that word deliberately when there is nothing new to learn from the mistakes made because I was already well versed in the consequences if things go wrong. Ugh, so stupid.
 
-<blockquote>
-  <p>This is an example of a post containing HTML. You can have as many of these as you like, but if you get too many it might be easier to put them in a <code>_pages</code> directory. It'll help keep your root directory clear. Don't forget to add an includes for the <code>_pages</code> directory to your <code>_config.yml</code> file.</p>
-</blockquote>
+Yes, I have a backup of the database. And I had a full site backup from 2017 (which is what I got back up and running). That will have to do for now while we work on a new home for this site. So, if you see something that's not working right, you'll know why. I'm making this update by editing the static file for the homepage because trying to get MovableType up and running isn't worth the effort.
 
-<p><strong>Perhaps you'd like to see what an unordered list looks like?</strong></p>
-
-<ul>
-  <li>Unordered list item #1</li>
-  <li>Unordered list item #2</li>
-  <li>Unordered list item #3</li>
-</ul>
-
-<p><strong>Or you'd prefer to see what an ordered list looks like?</strong></p>
-
-<ol>
-  <li>Ordered list item #1</li>
-  <li>Ordered list item #2</li>
-  <li>Ordered list item #3</li>
-</ol>
-
-<p><strong>This is what the headings look like.</strong></p>
-
-<h1>Headline 1</h1>
-
-<h2>Headline 2</h2>
-
-<h3>Headline 3</h3>
-
-<h4>Headline 4</h4>
-
-<h5>Headline 5</h5>
-
-<h6>Headline 6</h6>
-
-<hr>
-
-<p>Colors and fonts are kept in variables to make things easy to change. Check the head of the <code>/assets/css/style.css</code> file for more detail.</p>
+Meanwhile, I hope some of you old site owners out there will learn from my mistakes. This project has been on my radar for a while, but I just let too many other things get in the way. And I almost lost it all.
