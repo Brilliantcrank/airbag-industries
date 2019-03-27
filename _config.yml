@@ -17,8 +17,8 @@ collections:
 # Jekyll Configuration
 encoding: UTF-8
 # permalink: /:title/
-permalink: pretty
-paginate: 5
+permalink: "/:title/"
+paginate: 2
 paginate_path: "/page/:num/"
 
 # Markdown Processing
@@ -51,7 +51,7 @@ include: [.htaccess, _pages]
 exclude: [lib, config.rb, .sass-cache, Capfile, config, log, Rakefile, Rakefile.rb, tmp, Gemfile, Gemfile.lock, README.md, LICENSE.md, node_modules, gulpfile.js, package.json]
 
 # Plugins
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-archives

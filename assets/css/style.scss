@@ -177,7 +177,7 @@ li {
   font-style: italic;
   }  
    
-.articleend {
+.entry-meta {
   font-family: var(--primary-sans-font);
   font-weight: 500;
   font-size: 14px;
@@ -302,28 +302,25 @@ a:visited {
   margin-bottom: 36px;
   }  
    
-.indexprevnext a:link {
+/* Entry Navigation */
+
+.entry-nav a:link {
   padding: 6px 9px 5px 9px;
   border: 1px solid #c3c3c3;
   }  
    
-.indexprevnext a:hover {
+.entry-nav a:hover {
   padding: 6px 9px 5px 9px;
   border: 1px solid #b51b1b;
   }
    
-.indexprevnext a:visited {
+.entry-nav a:visited {
   padding: 6px 9px 5px 9px;
   border: 1px solid #c3c3c3;
   }  
  
-.ipn-left {
-  float: left;
-  }  
-   
-.ipn-right {
-  float: right;
-  }
+.entry-nav .left { float: left; }  
+.entry-nav .right { float: right; }
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

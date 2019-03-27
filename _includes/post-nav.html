@@ -1,0 +1,11 @@
+    <div class="left">
+      <a href="{{ site.url }}" title="Home">Index</a> 
+    </div>
+    <div class="right">
+      {% if page.previous.url %}
+        <a class="prev" href="{{page.previous.url}}" title="{{page.previous.title | escape}}">&laquo; Previous</a>
+      {% endif %}
+      {% if page.next.url %}
+        <a class="next" href="{{page.next.url}}" title="{{page.next.title | escape}}">Next &raquo;</a>
+      {% endif %}
+    </div>
