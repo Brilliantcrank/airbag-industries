@@ -1,43 +1,13 @@
 ---
-title: Hello World
+title: C'est la Vie Austin?
+
 ---
+[UnderConsideration](http://underconsideration.com/), the force behind some of the best and longest running digital publications on design, organizers of amazing conferences, and fellow Austin residents have pulled stakes to move to Bloomington, Indiana. That's right, some incredibly creative, entrepreneurial, smart people just left one of the hottest cities in North America for a small town in Indiana, the type that was recently the subject of parody on television.
 
-<p><strong>This is what blockquotes look like.</strong></p>
+[Armin Vit](https://twitter.com/arminvit) (co-founder of UnderConsideration) [provided some rationale for this seemingly-crazy relocation.](http://www.underconsideration.com/brandnew/archives/we_are_moving.php)
 
-<blockquote>
-  <p>This is an example of a post containing HTML. You can have as many of these as you like, but if you get too many it might be easier to put them in a <code>_pages</code> directory. It'll help keep your root directory clear. Don't forget to add an includes for the <code>_pages</code> directory to your <code>_config.yml</code> file.</p>
-</blockquote>
+> One of the keys to doing what we do, which is an unconventional and highly unlikely way of earning an income—an income that is sufficient for a few extravagances like an HBO subscription (I know, living large!)—for two adults, two kids, and two dogs, is to have a low cost of living. The cost of living in Austin has increased, our property taxes are off the roof, and the traffic has become pretty insane. Even the Austin airport, which was super chill is now nearing JFK levels at peak hours.
 
-<p><strong>Perhaps you'd like to see what an unordered list looks like?</strong></p>
+As an Austin resident of six years I find myself nodding in agreement, especially at the last bit about the airport. Austin Bergstrom was one of the most chill airports in the country and now it's just as stressful as Oakland on a Monday morning—every day. I knew Austin was going to blow up, but I had no idea it would scale so big, so quickly. And it's still growing like crazy. The city and surrounding area is set to double in size in the next twenty years.
 
-<ul>
-  <li>Unordered list item #1</li>
-  <li>Unordered list item #2</li>
-  <li>Unordered list item #3</li>
-</ul>
-
-<p><strong>Or you'd prefer to see what an ordered list looks like?</strong></p>
-
-<ol>
-  <li>Ordered list item #1</li>
-  <li>Ordered list item #2</li>
-  <li>Ordered list item #3</li>
-</ol>
-
-<p><strong>This is what the headings look like.</strong></p>
-
-<h1>Headline 1</h1>
-
-<h2>Headline 2</h2>
-
-<h3>Headline 3</h3>
-
-<h4>Headline 4</h4>
-
-<h5>Headline 5</h5>
-
-<h6>Headline 6</h6>
-
-<hr>
-
-<p>Colors and fonts are kept in variables to make things easy to change. Check the head of the <code>/assets/css/style.css</code> file for more detail.</p>
+I don't know that Kitchen Storey and I could move to the middle-middle of the country, but we're certainly starting to consider that it's time to move back to the Pacific Time Zone. Airport lines be damned.
