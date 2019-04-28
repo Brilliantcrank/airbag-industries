@@ -8,15 +8,15 @@ title: Airbag Industries created by Greg Storey
 
   <article class="article" itemscope itemtype="http://schema.org/CreativeWork">
 
-    <header class="entry-header">
-      <h1 class="entry-title" itemprop="headline"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h1>
+    <header class="article-header">
+      <h1 class="article-title" itemprop="headline"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h1>
     </header>
 
-    <div class="entry-content" itemprop="text">
+    <div class="article-content" itemprop="text">
       {{ post.content }}
     </div>
 
-    <footer class="entry-meta">
+    <footer class="article-meta">
         {% include post-time.html %}
         {% include post-taxonomies.html %}
     </footer>

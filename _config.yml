@@ -18,7 +18,7 @@ collections:
 encoding: UTF-8
 # permalink: /:title/
 permalink: "/:title/"
-paginate: 2
+paginate: 10
 paginate_path: "/page/:num/"
 
 # Markdown Processing

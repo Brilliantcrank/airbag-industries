@@ -125,7 +125,7 @@ li {
 }
  
 /*      Main Event      */
-   
+     
 .article {
   width: 500px;
   padding: 0;
@@ -177,7 +177,7 @@ li {
   font-style: italic;
   }  
    
-.entry-meta {
+.article-meta {
   font-family: var(--primary-sans-font);
   font-weight: 500;
   font-size: 14px;
@@ -292,35 +292,35 @@ a:visited {
    
 .article a:visited {
   color: #863535;
-  }    
- 
-.indexprevnext {
+  }     
+   
+/* Entry Navigation */
+
+.article-nav {
   font-family: var(--primary-sans-font);
   font-weight: 700;  
   font-size: 13px;
   height: 24px;
   margin-bottom: 36px;
-  }  
-   
-/* Entry Navigation */
+  } 
 
-.entry-nav a:link {
+.article-nav a:link {
   padding: 6px 9px 5px 9px;
   border: 1px solid #c3c3c3;
   }  
    
-.entry-nav a:hover {
+.article-nav a:hover {
   padding: 6px 9px 5px 9px;
   border: 1px solid #b51b1b;
   }
    
-.entry-nav a:visited {
+.article-nav a:visited {
   padding: 6px 9px 5px 9px;
   border: 1px solid #c3c3c3;
   }  
  
-.entry-nav .left { float: left; }  
-.entry-nav .right { float: right; }
+.article-nav .left { float: left; }  
+.article-nav .right { float: right; }
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
