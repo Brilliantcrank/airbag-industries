@@ -296,6 +296,7 @@ a:visited {
    
 /* Entry Navigation */
 
+.archive-nav,
 .article-nav {
   font-family: var(--primary-sans-font);
   font-weight: 700;  
@@ -303,17 +304,17 @@ a:visited {
   height: 24px;
   margin-bottom: 36px;
   } 
-
+.archive-nav a:link,
 .article-nav a:link {
   padding: 6px 9px 5px 9px;
   border: 1px solid #c3c3c3;
   }  
-   
+.archive-nav a:hover,   
 .article-nav a:hover {
   padding: 6px 9px 5px 9px;
   border: 1px solid #b51b1b;
   }
-   
+.archive-nav a:visited,  
 .article-nav a:visited {
   padding: 6px 9px 5px 9px;
   border: 1px solid #c3c3c3;
@@ -322,7 +323,13 @@ a:visited {
 .article-nav .left { float: left; }  
 .article-nav .right { float: right; }
 
-
+.archive-nav ul {
+  list-style:none
+}
+.archive-nav li {
+  border: 0;
+  display: inline-block;
+}
 // Import partials from `sass_dir` (defaults to `_sass`)
 /*
 @import 'variables';
