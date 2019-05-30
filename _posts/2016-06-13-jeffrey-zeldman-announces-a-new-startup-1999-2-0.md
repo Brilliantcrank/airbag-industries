@@ -1,5 +1,5 @@
 ---
-title: Jeffrey Zeldman announces a new startup: 1999 2.0.
+title: Jeffrey Zeldman announces a new startup&#58; 1999 2.0.
 id: 5987
 date: Mon, 13 Jun 2016 09:53:13 +0000
 ---
