@@ -20,7 +20,7 @@ gulp.task('themejs', function() {
 
 
 //* Run Jekyll build and serve commands
-gulp.task('build', shell.task(['jekyll build --config "_config.yml,_config-dev.yml" --watch']));
+gulp.task('build', shell.task(['jekyll build --config "_config.yml,_config-dev.yml" --watch --incremental']));
 
 
 //* BrowserSync
