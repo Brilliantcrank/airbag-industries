@@ -9,4 +9,4 @@ fields:
   name: date
   label: date
 pages:
-- "./_posts/this-is-a-test-title.md"
+- "./_posts/2019-06-06-this-is-a-test-title.md"
