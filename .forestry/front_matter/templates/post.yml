@@ -1,0 +1,13 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: number
+  name: id
+  label: id
+- type: datetime
+  name: date
+  label: date
