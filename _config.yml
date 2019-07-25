@@ -58,11 +58,12 @@ exclude: [lib, config.rb, .sass-cache, Capfile, config, log, Rakefile, Rakefile.
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
   - jekyll-archives
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Archives
 jekyll-archives:
