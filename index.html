@@ -2,6 +2,12 @@
 title: Airbag Industries created by Greg Storey
 ---
 
+<hr>
+{% for link in site.links %}
+  {{ link.url }}<hr>
+{% endfor %}
+<hr>
+
 <div class="page">
 
   {% for post in paginator.posts %}
