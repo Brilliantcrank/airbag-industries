@@ -8,6 +8,3 @@ fields:
 - type: datetime
   name: date
   label: date
-pages:
-- "./_posts/2019-07-25-a-new-sample-post.md"
-- "./_posts/2019-06-06-this-is-a-test-title.md"
