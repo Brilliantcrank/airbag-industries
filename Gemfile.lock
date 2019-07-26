@@ -31,13 +31,12 @@ GEM
       jekyll (>= 3.6, < 5.0)
     jekyll-feed (0.12.1)
       jekyll (>= 3.7, < 5.0)
-    jekyll-paginate (1.1.0)
+    jekyll-paginate-v2 (2.0.0)
+      jekyll (~> 3.0)
     jekyll-redirect-from (0.15.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-seo-tag (2.6.1)
-      jekyll (>= 3.3, < 5.0)
     jekyll-sitemap (1.3.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
@@ -71,9 +70,8 @@ DEPENDENCIES
   jekyll
   jekyll-archives
   jekyll-feed
-  jekyll-paginate
+  jekyll-paginate-v2
   jekyll-redirect-from
-  jekyll-seo-tag
   jekyll-sitemap
 
 BUNDLED WITH

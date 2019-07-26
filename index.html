@@ -1,12 +1,9 @@
 ---
 title: Airbag Industries created by Greg Storey
+description: updated meta description goes here
+pagination: 
+  enabled: true
 ---
-
-<hr>
-{% for link in site.links %}
-  {{ link.url }}<hr>
-{% endfor %}
-<hr>
 
 <div class="page">
 
@@ -35,23 +32,16 @@ title: Airbag Industries created by Greg Storey
   {% if paginator.total_pages > 1 %}
   <div class="archive-nav pagination">
     <ul>
-      {% if paginator.previous_page %}
-        <li><a href="{{ paginator.previous_page_path | replace: '//', '/' }}">&laquo; Prev Page</a></li>
-      {% endif %}
-
-      {% for page in (1..paginator.total_pages) %}
-        {% if page == paginator.page %}
-          <li class="active">{{ page }}</li>
-        {% elsif page == 1 %}
-          <li><a href="{{ site.url }}/blog/">{{ page }}</a></li>
-        {% else %}
-          <li><a href="{{ site.paginate_path | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
-        {% endif %}
-      {% endfor %}
-
-      {% if paginator.next_page %}
-        <li><a href="{{ paginator.next_page_path | replace: '//', '/' }}">Next Page &raquo;</a></li>
-      {% endif %}
+    {% if paginator.previous_page %}
+    <li>
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+    </li>
+    {% endif %}
     </ul>
   </div><!-- end .archive-pagination .pagination -->
   {% endif %}
