@@ -6,7 +6,7 @@
   </div>
   <div class="site-introperspective">
     <ul>
-      {% for menu-item in site.data.navigation.nav-links %}
+      {% for menu-item in site.data.menus.nav-links %}
         <li class="{% if menu-item.url == page.url %}active{% endif %}">
           {% if menu-item.url == page.url %}
             <b>{{ menu-item.title }}</b>
@@ -18,7 +18,7 @@
     </ul>    
     <ul>
       <li><b>Brilliantcrank</b></li>
-      {% for menu-item in site.data.navigation.social-links %}
+      {% for menu-item in site.data.menus.social-links %}
         <li class="{% if menu-item.url == page.url %}active{% endif %}">
           <a href="{{ menu-item.url }}">{{ menu-item.title }}</a>
         </li>
@@ -26,7 +26,7 @@
     </ul>    
     <ul>
       <li><b>Work</b></li>
-      {% for menu-item in site.data.navigation.work-links %}
+      {% for menu-item in site.data.menus.work-links %}
         <li class="{% if menu-item.url == page.url %}active{% endif %}">
           <a href="{{ menu-item.url }}">{{ menu-item.title }}</a>
         </li>
