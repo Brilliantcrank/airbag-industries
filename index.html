@@ -16,7 +16,7 @@ pagination:
     </header>
 
     <div class="article-content" itemprop="text">
-      {{ post.content }}
+      {{ post.content | markdownify }}
     </div>
 
     <footer class="article-meta">
@@ -32,14 +32,14 @@ pagination:
   {% if paginator.total_pages > 1 %}
   <div class="archive-nav pagination">
     <ul>
-    {% if paginator.previous_page %}
-    <li>
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-    </li>
-    {% endif %}
     {% if paginator.next_page %}
     <li>
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+    </li>
+    {% endif %}
+    {% if paginator.previous_page %}
+    <li>
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
     </li>
     {% endif %}
     </ul>
