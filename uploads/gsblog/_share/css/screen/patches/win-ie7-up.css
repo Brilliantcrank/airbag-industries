@@ -1,0 +1,43 @@
+/*-  Layout
+----------------------------------------------------------------------*/
+#layout-wrap {
+	background-position: 13px 0;
+}
+
+/*
+	Listings
+*/
+/* Text listings (press releases, blog, etc) */
+.text-listings a {
+	font-size: 1.15em;
+}
+
+/*
+	Index
+*/
+#single table.index caption i {
+	margin-left: -95px;
+	top: 1.6em;
+}
+
+ul.breadcrumbs a {
+	line-height: 1.2;
+}
+
+/*-  Self-clearing floats
+----------------------------------------------------------------------*/
+#main,
+#layout,
+.column,
+.module,
+.module dl,
+ul.services,
+.entry,
+ul.paginate,
+.download,
+#recent-projects,
+#footer {
+	zoom: 1;
+}
+
+/* NB: ul.breadcrumbs should NOT have hasLayout triggered. Leave it out of the above list. */

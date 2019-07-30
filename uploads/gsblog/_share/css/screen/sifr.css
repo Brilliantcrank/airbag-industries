@@ -1,0 +1,41 @@
+/*-  Core sIFR styles
+----------------------------------------------------------------------*/
+.sIFR-flash {
+	visibility: visible !important;
+	margin: 0;
+	padding: 0;
+}
+
+.sIFR-replaced {
+	visibility: visible !important;
+}
+
+.sIFR-alternate {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 0;
+	height: 0;
+	display: block;
+	overflow: hidden;
+}
+
+.sIFR-replaced > div {
+	display: none !important;
+}
+
+
+/*-  Tuning/adjustments
+----------------------------------------------------------------------*/
+.sIFR-hasFlash #main-lead h4.main,
+.sIFR-hasFlash #article h2,
+.sIFR-hasFlash #single h2,
+.sIFR-hasFlash .module h4.title {
+	line-height: 1em;
+	visibility: hidden;
+}
+
+.sIFR-hasFlash #main-lead h4.main {
+	font-size: 35px;
+	line-height: .9em;
+}

@@ -1,0 +1,101 @@
+/*-  Layout
+----------------------------------------------------------------------*/
+#layout-wrap {
+	background-position: 13px 0;
+}
+
+
+/*-  Header
+----------------------------------------------------------------------*/
+#header h1 a {
+	background: none;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="_share/img/logo-gamespy.png", sizingMethod="scale");
+	z-index: 500;
+}
+
+/*
+	Navigation
+*/
+#navigation a {
+	line-height: 1.0;
+}
+
+#navigation a:hover {
+	background-position: 0 0;
+}
+
+/*-  Content
+----------------------------------------------------------------------*/
+#content {
+	background-image: url("../../../img/bg-content.gif");
+}
+
+p.note {
+	height: 1%;
+}
+
+/*
+	Projects
+*/
+#recent-projects li dl {
+	margin-left: 0;
+}
+
+/*
+	Index
+*/
+#single table.index caption i {
+	margin-left: -95px;
+	top: 1.6em;
+}
+
+/*
+	Breadcrumbs
+*/
+ul.breadcrumbs li {
+	background-position: 100% 50%;
+	line-height: 1.4;
+}
+
+ul.breadcrumbs li.last {
+	font-size: 1em;
+	font-weight: bold;
+}
+
+#content ul.breadcrumbs li a {
+	color: #000;
+	vertical-align: bottom;
+	text-decoration: none;
+}
+
+/*
+	Listings
+*/
+/* Text listings (press releases, blog, etc) */
+.text-listings a {
+	font-size: 1.15em;
+}
+
+/*
+	Generic module components
+*/
+.module h3 {
+	height: 1%;
+}
+
+/*-  Self-clearing floats
+----------------------------------------------------------------------*/
+#main,
+#layout,
+.column,
+.module,
+.module dl,
+ul.breadcrumbs,
+ul.services,
+.entry,
+ul.paginate,
+.download,
+#recent-projects,
+#footer {
+	height: 1%;
+}

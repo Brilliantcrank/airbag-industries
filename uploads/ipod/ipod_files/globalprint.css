@@ -1,0 +1,12 @@
+#printbar {
+	DISPLAY: block! important
+}
+#tabs {
+	DISPLAY: none
+}
+#footer {
+	DISPLAY: none
+}
+.hide {
+	DISPLAY: none
+}

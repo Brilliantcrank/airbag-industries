@@ -1,0 +1,210 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #fff; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: 12px 'Lucida Grande', Geneva, Arial, Verdana, sans-serif; COLOR: #000; PADDING-TOP: 0px; TEXT-ALIGN: center
+}
+TABLE {
+	FONT: 10px 'Lucida Grande', Geneva, Verdana, Arial, sans-serif; COLOR: #000
+}
+TD {
+	FONT: 10px 'Lucida Grande', Geneva, Verdana, Arial, sans-serif; COLOR: #000
+}
+#header {
+	MARGIN: 10px auto; WIDTH: 680px; TEXT-ALIGN: center
+}
+#main {
+	MARGIN: 1.5em auto; WIDTH: 680px; TEXT-ALIGN: left
+}
+#breadcrumb {
+	MARGIN: 1.5em auto; WIDTH: 680px; TEXT-ALIGN: left
+}
+#footer {
+	MARGIN: 1.5em auto; WIDTH: 680px; TEXT-ALIGN: left
+}
+#main DIV.column {
+	MARGIN-BOTTOM: 1em; TEXT-ALIGN: left
+}
+#main P {
+	MARGIN: 0px 0px 1em
+}
+#main P.last {
+	MARGIN: 0px
+}
+#main P.intro {
+	FONT-WEIGHT: bold
+}
+#main .lite {
+	COLOR: #79767c
+}
+#main H1 {
+	FONT-SIZE: 24px; MARGIN: 0px 0px 0.5em
+}
+#main H2 {
+	FONT-SIZE: 16px; MARGIN: 0px
+}
+#main H3 {
+	FONT-SIZE: 12px; MARGIN: 0px
+}
+#main H4 {
+	FONT-SIZE: 10px; MARGIN: 0px
+}
+#main .more {
+	TEXT-ALIGN: right
+}
+#main A.pdf {
+	DISPLAY: block; PADDING-LEFT: 20px; BACKGROUND: url(http://images.apple.com/main/elements/globaliconpdf12x12.gif) no-repeat left top
+}
+#main A.html {
+	DISPLAY: block; PADDING-LEFT: 20px; BACKGROUND: url(http://images.apple.com/main/elements/globaliconhtml12x12.gif) no-repeat left top
+}
+#main A.qt {
+	DISPLAY: block; PADDING-LEFT: 20px; BACKGROUND: url(http://images.apple.com/main/elements/globaliconqt12x12.gif) no-repeat left top
+}
+#main A.ical {
+	DISPLAY: block; PADDING-LEFT: 20px; BACKGROUND: url(http://images.apple.com/main/elements/globaliconical12x12.gif) no-repeat left top
+}
+#main A.dl {
+	DISPLAY: block; PADDING-LEFT: 20px; BACKGROUND: url(http://images.apple.com/main/elements/globalicondl11x10.gif) no-repeat left top
+}
+#main A.dmg {
+	DISPLAY: block; PADDING-LEFT: 20px; BACKGROUND: url(http://images.apple.com/main/elements/globalicondmg12x12.gif) no-repeat left top
+}
+#main A.zip {
+	DISPLAY: block; PADDING-LEFT: 20px; BACKGROUND: url(http://images.apple.com/main/elements/globaliconzip12x12.gif) no-repeat left top
+}
+#main A.keynote {
+	DISPLAY: block; PADDING-LEFT: 20px; BACKGROUND: url(http://images.apple.com/main/elements/globaliconkeynote12x12.gif) no-repeat left top
+}
+#main A.audio {
+	DISPLAY: block; PADDING-LEFT: 20px; BACKGROUND: url(http://images.apple.com/main/elements/globaliconaudio12x12.gif) no-repeat left top
+}
+#main .subcolumn1-2 {
+	FLOAT: left; WIDTH: 330px
+}
+#main .subcolumn2-2 {
+	FLOAT: right; WIDTH: 330px
+}
+#main .subcolumn1-3 {
+	FLOAT: left; WIDTH: 212px
+}
+#main .subcolumn2-3 {
+	FLOAT: left; WIDTH: 212px
+}
+#main .subcolumn3-3 {
+	FLOAT: left; WIDTH: 212px
+}
+#main .subcolumn1-3 {
+	MARGIN-RIGHT: 20px
+}
+#main .subcolumn2-3 {
+	MARGIN-RIGHT: 20px
+}
+#content {
+	FLOAT: left; WIDTH: 450px
+}
+#content .subcolumn1-2 {
+	FLOAT: left; WIDTH: 215px
+}
+#content .subcolumn2-2 {
+	FLOAT: right; WIDTH: 215px
+}
+#content .subcolumn1-3 {
+	FLOAT: left; WIDTH: 135px
+}
+#content .subcolumn2-3 {
+	FLOAT: left; WIDTH: 135px
+}
+#content .subcolumn3-3 {
+	FLOAT: left; WIDTH: 135px
+}
+#content .subcolumn1-3 {
+	MARGIN-RIGHT: 22px
+}
+#content .subcolumn2-3 {
+	MARGIN-RIGHT: 22px
+}
+#sidebar {
+	FLOAT: right; FONT: 10px 'Lucida Grande', Geneva, Verdana, Arial, sans-serif; WIDTH: 200px
+}
+#sidebar H2 {
+	FONT-SIZE: 12px; MARGIN: 0px
+}
+#sidebar H3 {
+	FONT-SIZE: 11px; MARGIN: 0px
+}
+#sidebar H4 {
+	FONT-SIZE: 10px; MARGIN: 0px
+}
+#main .box {
+	BORDER-RIGHT: #a1a5a9 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #a1a5a9 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 0px 0px 1.25em; BORDER-LEFT: #a1a5a9 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #a1a5a9 1px solid
+}
+#content .box H2 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 12px; BACKGROUND: #f2f2f2; PADDING-BOTTOM: 5px; MARGIN: 0px -5px 5px; PADDING-TOP: 5px; BORDER-BOTTOM: #a1a5a9 1px solid
+}
+#sidebar .box H2 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 10px; BACKGROUND: #f2f2f2; PADDING-BOTTOM: 5px; MARGIN: 0px -5px 5px; PADDING-TOP: 5px; BORDER-BOTTOM: #a1a5a9 1px solid
+}
+IMG.left {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FLOAT: left; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 2px 10px 5px 0px; BORDER-RIGHT-WIDTH: 0px
+}
+IMG.right {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FLOAT: right; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 2px 0px 5px 10px; BORDER-RIGHT-WIDTH: 0px
+}
+IMG.across {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px 0px 10px; BORDER-RIGHT-WIDTH: 0px
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LIST-STYLE-POSITION: outside; PADDING-BOTTOM: 1em; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+UL.square {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LIST-STYLE-POSITION: outside; PADDING-BOTTOM: 1em; MARGIN: 0px 0px 0px 16px; PADDING-TOP: 0px; LIST-STYLE-TYPE: square
+}
+UL.circle {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LIST-STYLE-POSITION: outside; PADDING-BOTTOM: 1em; MARGIN: 0px 0px 0px 16px; PADDING-TOP: 0px; LIST-STYLE-TYPE: circle
+}
+OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1em; MARGIN: 0px 0px 0px 2.8em; PADDING-TOP: 0px; LIST-STYLE-TYPE: decimal
+}
+LI {
+	PADDING-BOTTOM: 0.3em
+}
+UL UL.circle {
+	MARGIN-TOP: 0.3em
+}
+UL UL.square {
+	MARGIN-TOP: 0.3em
+}
+OL.last {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+UL.last {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+SUP {
+	FONT-SIZE: 1em; VERTICAL-ALIGN: baseline; COLOR: #76797c
+}
+.sosumi {
+	FONT-SIZE: 10px! important; COLOR: #76797c
+}
+OL.sosumi {
+	CLEAR: both; PADDING-LEFT: 1.5em; MARGIN-LEFT: 0px
+}
+#breadcrumb {
+	CLEAR: both; TEXT-ALIGN: center
+}
+#footer {
+	CLEAR: both; TEXT-ALIGN: center
+}
+#breadcrumb {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 10px; PADDING-BOTTOM: 1em; PADDING-TOP: 1em
+}
+#footer {
+	BORDER-TOP: #a1a5a9 1px solid; FONT-SIZE: 10px; PADDING-TOP: 1em
+}
+#footer FORM {
+	MARGIN-BOTTOM: 2em
+}
+#footer FORM INPUT {
+	VERTICAL-ALIGN: bottom
+}
+DIV.clearer {
+	CLEAR: both; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-SIZE: 1px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 1px; PADDING-TOP: 0px; HEIGHT: 0px
+}

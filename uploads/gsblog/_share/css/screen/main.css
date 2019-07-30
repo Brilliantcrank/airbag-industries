@@ -1,0 +1,20 @@
+/*	GameSpy.net: screen master
+	--------------------------
+	Author:		Ethan Marcotte (http://vertua.com/)
+	Version:	070226
+	Copyright:	(c) 2007 Vertua Studios until the contract is complete.
+			All rights reserved.
+*/
+
+
+/*-  Core, hack-free design
+----------------------------------------------------------------------*/
+@import url("core.css");
+@import url("sifr.css");
+
+
+/*-  Browser-specific hacks
+----------------------------------------------------------------------*/
+/*\*//*/
+@import url("patches/mac-ie5.css");
+/**/
