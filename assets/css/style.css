@@ -51,12 +51,12 @@ li {
   border-top: 1px solid #EFEFEF;
 }
     
-#nobullets ul {
+ul.nobullets {
   list-style: none;
   padding: 0 0 0 0;
 }
  
-#nobullets li {
+ul.nobullets li {
   padding: 8px 0px;
 }
    
