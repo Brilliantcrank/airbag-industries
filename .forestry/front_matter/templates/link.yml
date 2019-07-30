@@ -12,5 +12,3 @@ fields:
   config:
     required: false
   label: External URL
-pages:
-- "./_posts/this-should-be-an-external-link.md"
