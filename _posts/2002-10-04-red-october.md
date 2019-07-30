@@ -12,9 +12,9 @@ Tonight, in the man room, the game is being observed from the Grundig world band
 
 The sun is setting off the horizon, the air is cooling to exactly the right temperature, and seasonal trees are beginning to shed their leaves.  
 
-The world is civilized once again <span class="caps">â€¦</span>  
+The world is civilized once again <span class="caps">…</span>  
 
-<span class="caps">â€¦</span> at least for another six innings.
+<span class="caps">…</span> at least for another six innings.
 
 
 

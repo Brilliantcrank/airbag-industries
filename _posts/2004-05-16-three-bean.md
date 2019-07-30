@@ -12,7 +12,7 @@ In those days Movable Type was totally grass roots — you paid for licenses buy
 
 Ah, the salad days of blogging.  
 
-So when I saw that version 3.0 of Movable Type had been released, without hesitation I clicked the ‘Buy Now’ link and entered the required mailing and credit card information. Within seconds I was approved and then asked to login to a [Typekey](http://www.typekey.com/) account before I could download my purchase â€” because, you know, logging into a service that allows me to post comments to blogs is so necessary to complete a financial transaction.  
+So when I saw that version 3.0 of Movable Type had been released, without hesitation I clicked the ‘Buy Now’ link and entered the required mailing and credit card information. Within seconds I was approved and then asked to login to a [Typekey](http://www.typekey.com/) account before I could download my purchase – because, you know, logging into a service that allows me to post comments to blogs is so necessary to complete a financial transaction.  
 
 How irritating.  
 

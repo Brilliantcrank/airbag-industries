@@ -10,7 +10,7 @@ That’s how we roll. We care like that.
 
 This afternoon, we talked to a client who’s been working with our templates for about a week. When asked if they were still happy with the work that we had done, the client replied thusly:  
 
-<span class="quote">We’ve been tearing our hair out looking for things that you guys did wrong.</span>  
+> We’ve been tearing our hair out looking for things that you guys did wrong.
 
 That’s always nice to hear.
 

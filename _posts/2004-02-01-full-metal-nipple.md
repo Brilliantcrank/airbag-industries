@@ -16,7 +16,8 @@ What I don’t get (and this is what really bugs me) is why <span class="caps">C
 
 
 
-<div class="quote">I am sorry that anyone was offended by the wardrobe malfunction during the halftime performance of the Super Bowl,” Timberlake said in a statement. “It was not intentional and is regrettable.</div>Wardrobe malfunction? Dude, is that all you got?  
+> I am sorry that anyone was offended by the wardrobe malfunction during the halftime performance of the Super Bowl,” Timberlake said in a statement. “It was not intentional and is regrettable.
+Wardrobe malfunction? Dude, is that all you got?  
 
 Anyone who watched this on television could see that Justin was either trying to remove clothing or tear her arm off.  
 

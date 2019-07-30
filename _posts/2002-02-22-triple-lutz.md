@@ -6,7 +6,7 @@ date: Fri, 22 Feb 2002 04:15:21 +0000
 
 1.  Lately I’ve been listening to [µ-Ziq](http://www.amazon.com/exec/obidos/ASIN/B000003RYX/qid=1014350864/sr=1-2/ref=sr_1_2/103-3882766-2288613). It’s like a happier Art of Noise (no chainsaws) with peppy beats and cool sampling sound. With music like this who needs Jolt? If get-the-beat-down isn’t your style then might I recommend [Aaron Copland](http://search.yahoo.com/bin/search?p=Aaron+Copland). His great work, *Appalachian Spring* is easy to listen to any time of day.  
 
-2.  I’d like to think that [Tivo](http://www.tivo.com) cuts down on TV viewing habits but in fact, it’s more like a crack dealer in residence. Sure, I don’t channel surf anymore but I gotta watch all three Simpsonâ€™s re-runs on daily basis. I would have bought the Simpsonâ€™s: Season I <span class="caps">DVD</span> but with my crack dealer who needs it?  
+2.  I’d like to think that [Tivo](http://www.tivo.com) cuts down on TV viewing habits but in fact, it’s more like a crack dealer in residence. Sure, I don’t channel surf anymore but I gotta watch all three Simpson’s re-runs on daily basis. I would have bought the Simpson’s: Season I <span class="caps">DVD</span> but with my crack dealer who needs it?  
 
 3.  [More](http://dailynews.yahoo.com/h/ap/20020221/sp/oly_olympics_rdp_143.html) and [more](http://dailynews.yahoo.com/h/ap/20020221/ts/oly_russian_threats_3.html) controversy at the ‘lympic games. I think they should add two events to both Winter and Summer events: Combined Debate Relay and 1500m Freestyle Protesting.  
 

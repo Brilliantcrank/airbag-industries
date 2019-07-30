@@ -6,9 +6,9 @@ date: Sun, 21 Oct 2007 20:52:36 +0000
 
 Each month I receive questions relating to the field of website makery and/vs. post-secondary education. Instead of replying privately, as I have for years, these inquiries will be posted publicly. Here is the first:
 
+> What happens when you feel like you’re stuck at a place who refuses to go beyond what was done five years ago. However, you’re still in college, about to graduate, trying to find some experience, but worry that you won’t get work that will get you out of this place.”
 
-
-<div class="quote">What happens when you feel like you’re stuck at a place who refuses to go beyond what was done five years ago. However, you’re still in college, about to graduate, trying to find some experience, but worry that you won’t get work that will get you out of this place.”</div>Well for starters, count your lucky stars that you got to go to college instead of an indefinite camping trip inside a place called the Green Zone.  
+Well for starters, count your lucky stars that you got to go to college instead of an indefinite camping trip inside a place called the Green Zone.  
 
 If you’re really just getting out of school I wouldn’t worry too much about not having enough experience. Recognize that college is more about developing personal responsibility and improving your analytical and creative thinking skills. Going to school is not about resume building.  
 

@@ -12,9 +12,9 @@ So now that I am ten miles from Disneyland just having a major league home team 
 
 Last week my brother (now living near Oakland) gave me a hard time because I was getting excited over the Angels and baseball in general. He asked me when did I start liking baseball?  
 
-I didnâ€™t have a good answer for him then, but I do now.  
+I didn’t have a good answer for him then, but I do now.  
 
-I started liking baseball when the Angelâ€™s made it to the World Series and his Oakland Aâ€™s didnâ€™t.
+I started liking baseball when the Angel’s made it to the World Series and his Oakland A’s didn’t.
 
 
 

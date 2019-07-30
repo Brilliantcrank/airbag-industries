@@ -15,8 +15,3 @@ If you make things for the digital world (World Wide Web, mobile, etc.) then [yo
 If you use the Internet directly through a web browser or possibly indirectly through an iPhone app, you have Carolyn Wood to thank. She has worked to support the community that creates compelling arguments and supportive statements that foster curiosity, innovation, and conversation that lead to many of the delightful experiences that you and I enjoy.  
 
 There is a hard working, very smart, important, kind woman who has been there for all of us, albeit in a small, maybe obscure but impactful way and she now needs our help and support. I hope I have held your attention enough that you’ll click through and [help Carolyn Wood](https://www.youcaring.com/carolyn-wood-585895)—please contribute what you are able either financially or through sharing this story to your network. We have to get this done; we can’t fail those who’s hard work helped pave the way for us to enjoy better careers and experiences.
-
-
-
-
-

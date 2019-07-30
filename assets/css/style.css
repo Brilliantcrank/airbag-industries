@@ -148,12 +148,7 @@ ul.nobullets li {
   color: #3D3D3D;
   }
    
-.article blockquote {
-  border-left: 1px solid #CCC;
-  padding: 0 0 0 24px;
-  margin: 24px 0;
-  }
-   
+.article blockquote, 
 .quote {
   background: url(http://airbagindustries.com/images/quote.gif) no-repeat;
   padding-left: 26px;

@@ -10,11 +10,11 @@ Now I don’t care if you’re Republican, Democrat, or Communist — a politici
 
 So it came as little surprise when I found the following story:
 
+> It was July 4, 2001, and we were both at one of those things that the late historian Daniel Boorstin would have labeled a “pseudo-event”: A church picnic in Philadelphia, designed to help George W. Bush promote his faith-based policies. I was working at the time for a local nonprofit that had helped set it up, but I had some serious misgivings about the president’s performance up to that point, and being a part of the whole operation had left me feeling a bit like a pseudo-person. So when I had the chance to shake Bush’s hand, I said, “Mr. President, I’m very disappointed in your work so far. I hope you only serve four years.”  
+> 
+> His smiling response was swift: [“Who cares what you think?”](http://www.salon.com/opinion/feature/2004/03/19/bush_encounter/)
 
-
-<div class="quote">It was July 4, 2001, and we were both at one of those things that the late historian Daniel Boorstin would have labeled a “pseudo-event”: A church picnic in Philadelphia, designed to help George W. Bush promote his faith-based policies. I was working at the time for a local nonprofit that had helped set it up, but I had some serious misgivings about the president’s performance up to that point, and being a part of the whole operation had left me feeling a bit like a pseudo-person. So when I had the chance to shake Bush’s hand, I said, “Mr. President, I’m very disappointed in your work so far. I hope you only serve four years.”  
-
-His smiling response was swift: [“Who cares what you think?”](http://www.salon.com/opinion/feature/2004/03/19/bush_encounter/)</div>Nice.  
+Nice.  
 
 In his defense it’s possible he was suffering from another drug flashback at that moment. And who wouldn’t snap if you’re suffering one of those!  
 

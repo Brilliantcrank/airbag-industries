@@ -16,9 +16,9 @@ While I absolutely hate how bad product placement has crept into Hollywood films
 
 Finally, leave it to Hollywood to not get the point of this at all. [Minnie Driver](http://www.amazon.com/exec/obidos/tg/browse/-/13609391), looking through rainbows and puppy dog glasses, had this to say about her involvement in Amazon Theater’s second film, [Portrait](http://www.amazon.com/exec/obidos/tg/browse/-/13609391):
 
+> To be at the forefront of Amazon’s innovative program is something that I care passionately about. And for there to be a whole new generation of people being exposed in a whole new way to short films is so exciting — they may go out and make their own short films and see how they can put them on their own Web sites…. The possibilities are endless, and that’s maybe the greatest inspirational gift of a place like Amazon.com — that anything is possible.
 
-
-<div class="quote">To be at the forefront of Amazon’s innovative program is something that I care passionately about. And for there to be a whole new generation of people being exposed in a whole new way to short films is so exciting — they may go out and make their own short films and see how they can put them on their own Web sites…. The possibilities are endless, and that’s maybe the greatest inspirational gift of a place like Amazon.com — that anything is possible.</div>Minnie baby, I hate to break it to you, but Amazon is giant online store — they sell products shipped free in three to seven days, not dreams and inspiration. And in this case you are a mannequin, not a passionate innovator. Still, I have to say you did look convincing with that [Jabra FreeSpeak BT250 Headset for Bluetooth Phones](http://www.amazon.com/exec/obidos/ASIN/B000246XQE/airbag-20). Not everyone has the talent to pull that off.
+Minnie baby, I hate to break it to you, but Amazon is giant online store — they sell products shipped free in three to seven days, not dreams and inspiration. And in this case you are a mannequin, not a passionate innovator. Still, I have to say you did look convincing with that [Jabra FreeSpeak BT250 Headset for Bluetooth Phones](http://www.amazon.com/exec/obidos/ASIN/B000246XQE/airbag-20). Not everyone has the talent to pull that off.
 
 
 

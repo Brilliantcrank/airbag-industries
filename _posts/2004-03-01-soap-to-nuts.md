@@ -16,7 +16,9 @@ The result is a dish soap product that functions great but is designed so well t
 
 
 
-<div class="quote">[“Design is a fast way to make these products more high interest,”](http://www.nytimes.com/2004/02/29/magazine/29CONSUMED.html) Ryan says, to the target audience of ”progressive domestics.” Environmental safety was ”a goal,” one that he still sounds almost surprised to have achieved. But form is what really sells some $10 million of the stuff annually.</div>I’m not an expert in the soap market, but I know that when a three year old business starts giving well established corporations (remember where ‘soap operas’ come from) a run for their money and retail shelf space it’s a pretty big deal. What’s more remarkable to me is the success of this common household product is almost solely being credited to the packaging’s design.  
+> [“Design is a fast way to make these products more high interest,”](http://www.nytimes.com/2004/02/29/magazine/29CONSUMED.html) Ryan says, to the target audience of ”progressive domestics.” Environmental safety was ”a goal,” one that he still sounds almost surprised to have achieved. But form is what really sells some $10 million of the stuff annually.
+
+I’m not an expert in the soap market, but I know that when a three year old business starts giving well established corporations (remember where ‘soap operas’ come from) a run for their money and retail shelf space it’s a pretty big deal. What’s more remarkable to me is the success of this common household product is almost solely being credited to the packaging’s design.  
 
 Lately I keep reading about the plight of the designer trying to sell the importance of good design to a client, boss, or co-worker. Even I have a friend who keeps telling me that I am not affordable.  
 

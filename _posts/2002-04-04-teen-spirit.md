@@ -14,7 +14,7 @@ On Monday, the Fifthteenth of April in the Year of Our Lord, Two-Thousand and tw
 
 Did you know that Starbucks has a two drink minimum for “loitering” or they kick you out? Unless of course you would be willing to purchase one of their Hear Music CD’s, then you get the floor and an open mic. Because who in the world goes to a coffee shop to purchase music that you wouldn’t normally buy in a real music store? (see entry on convergence)  
 
-My wife, family, cat, and friends have all been very supportive telling me that turning 31 is ‘Ok’ and no different than 30. But that’s what they said about turning 21, only turning 21 came with a complete package of new privileges. Thirty-one comes complete with jack squat — holy cripes whatâ€™s 41 gonna be like?  
+My wife, family, cat, and friends have all been very supportive telling me that turning 31 is ‘Ok’ and no different than 30. But that’s what they said about turning 21, only turning 21 came with a complete package of new privileges. Thirty-one comes complete with jack squat — holy cripes what’s 41 gonna be like?  
 
 So this year when you give the sequined postal worker your tax return, just remember to drop by your local Starbucks and look for the preppy hanging at the bar and freaking out the green, apron-wearing staff. Just give him a hug and remind him that it’s gonna be Ok. Oh and an iced latte would help a lot too.  
 

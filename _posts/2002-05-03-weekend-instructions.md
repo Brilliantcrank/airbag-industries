@@ -12,7 +12,7 @@ Don’t worry about looking stupid. Chances are every reject from a high school 
 
 Now tomorrow, Saturday, May 4 is is [Free Comic Book Day](http://www.freecomicbookday.com/)! Celebrated across all 50 states and 29 countries, [Free Comic Book Day](http://www.freecomicbookday.com/) is to be spent reading with much joy.  
 
-Every store will be giving away copies of *Ultimate Spiderman #1*, *Star Wars Tales: A Jediâ€™s Weapon*, *Justice League Adventures #1*, and *Tomb Raider #1/2*. Most stores will also be giving away more comics including The *Matrix #1*, which has never felt the touch of paper and *Dragonball Z #1*, which is sure to be a big hit.  
+Every store will be giving away copies of *Ultimate Spiderman #1*, *Star Wars Tales: A Jedi’s Weapon*, *Justice League Adventures #1*, and *Tomb Raider #1/2*. Most stores will also be giving away more comics including The *Matrix #1*, which has never felt the touch of paper and *Dragonball Z #1*, which is sure to be a big hit.  
 
 Now, be nice to the geeks behind the counter, they are not used to this thing called “con-ver-sa-tion” or questions from the outside world. No sudden movements please, these people have either been the victim of high school hazing (and you might scare them) or they are taking a martial arts class so they can officially wear toed shoes and carry throwing stars.  
 

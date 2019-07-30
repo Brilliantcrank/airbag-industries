@@ -20,7 +20,7 @@ In the same article the “search engine” is used again, but as this time as t
 
 
 
-> “The spoof Google search doing the rounds in Washington, DC, runs: ‘Your searchâ€”French military victoriesâ€”did not match any documents. No pages were found. Did you mean French military defeats?'”
+> “The spoof Google search doing the rounds in Washington, DC, runs: ‘Your search–French military victories–did not match any documents. No pages were found. Did you mean French military defeats?'”
 
 
 

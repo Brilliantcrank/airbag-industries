@@ -16,7 +16,7 @@ There are millions of people screaming up and down, mad as hell about Iraq — b
 
 I’m not suggesting that if these non-voters had elected Al Gore four years ago we would all be living happier days, but I find it silly that these people, who have neglected their right to vote in the past now dare to tell me just how important democracy is.  
 
-Elections have always been important, itâ€™s just too bad that it took hundreds-of-thousands of dead people and lost jobs for citizens like Ted to get it.
+Elections have always been important, it’s just too bad that it took hundreds-of-thousands of dead people and lost jobs for citizens like Ted to get it.
 
 
 
