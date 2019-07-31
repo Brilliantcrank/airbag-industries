@@ -8,9 +8,10 @@ sections:
   label: Pages
   create: all
 - type: jekyll-posts
-  label: Links
+  label: Posts
   create: all
   templates:
+  - post
   - link
 upload_dir: uploads
 public_path: "/uploads"
