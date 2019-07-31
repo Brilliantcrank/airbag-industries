@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: External URL
+pages:
+- "./_posts/_posts/this-is-a-test-longboard-link.md"
