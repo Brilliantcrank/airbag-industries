@@ -9,6 +9,7 @@ fields:
   name: date
   label: date
 pages:
+- "./get-your-half-baked-social-media-strategy-off-my-followers-list.md"
 - "./_posts/i-made-an-internet-radio-program-and-it-s-called-sprints-milestones.md"
 - "./_posts/_posts/kitchen-storey-has-left-the-airport.md"
 - "./_posts/_posts/adios-muchachos-and-thanks-for-all-of-the-sun-downs.md"
