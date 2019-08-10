@@ -8,3 +8,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- "./_posts/_posts/adios-muchachos-and-thanks-for-all-of-the-sun-downs.md"
