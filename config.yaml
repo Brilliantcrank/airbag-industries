@@ -1,4 +1,4 @@
-title: Airbag Industries
+name: Airbag Industries
 baseURL: http://airbagindustries.org/
 languageCode: en-us
 
@@ -7,3 +7,34 @@ permalinks:
 
 params:
   DateForm: "2.1.2006"
+
+menu:
+  navlinks:
+  - name: Home
+    url: /
+  - name: About
+    url: /about/
+  - name: Archives
+    url: /archive/
+  - name: Contact
+    url: /contact/
+  - name: Subscribe
+    url: /subscribe/
+  sociallinks:
+  - name: Twitter
+    url: 'http://twitter.com/Brilliantcrank'
+  - name: Instagram
+    url: 'http://instagram.com/Brilliantcrank'
+  - name: Medium
+    url: 'https://medium.com/@Brilliantcrank'
+  - name: Flickr
+    url: 'http://www.flickr.com/photos/brilliantcrank'
+  - name: Dribbble
+    url: 'http://www.dribbble.com/players/Brilliantcrank'
+  - name: Playstation
+    url: 'https://www.playstation.com/en-us/my/public-trophies/?onlinename=Brilliantcrank'
+  worklinks:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/brilliantcrank
+  - name: Resume
+    url: /resume/gregstorey.pdf
