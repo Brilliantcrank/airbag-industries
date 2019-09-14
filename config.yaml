@@ -1,0 +1,9 @@
+title: Airbag Industries
+baseURL: http://airbagindustries.org/
+languageCode: en-us
+
+permalinks:
+  post: /archive/:slug/
+
+params:
+  DateForm: "2.1.2006"

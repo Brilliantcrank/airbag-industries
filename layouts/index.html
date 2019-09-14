@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+	{{ .Content }}
+	<div class="page">
+
+	{{ range .Paginator.Pages }}
+
+		<article class="article" itemscope itemtype="http://schema.org/CreativeWork">
+			<header class="article-header">
+				<h1 class="article-title"><a href="{{.Permalink}}" title="{{.Title | safeHTML}}">{{ .Title }}</a></h1>
+			</header>
+					
+			<div class="article-content" itemprop="text">
+				{{ .Content }}
+			</div>
+
+			<footer class="article-meta">
+				<time class="article-time" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "02 January 2006" }}</time>
+			</footer>
+
+		</article>
+
+	{{ end }}
+	</div>
+
+{{ end }}

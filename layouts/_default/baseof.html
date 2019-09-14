@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+
+	{{ partial "head" . }}
+
+	<body itemscope itemtype="http://schema.org/WebPage">
+
+		<div class="all-of-it">
+
+			{{ partial "header" . }}
+
+			<main class="site-content">
+
+				{{ block "main" . }}{{ end }}
+
+			</main><!-- end .site-content -->
+
+			<aside class="site-nav">
+
+				{{ partial "nav" . }}
+
+			</aside><!-- end .site-nav -->
+
+			{{ partial "footer" . }}
+
+		</div><!-- end .all-of-it ☠️ -->
+
+	</body>
+
+</html>
