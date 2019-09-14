@@ -1,4 +1,4 @@
-	<head>
+  <head>
 
     <title>{{ .Title }}</title>
 
@@ -8,19 +8,26 @@
     
     -->
 
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		
-		{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-		{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    {{ if .Description }}
+    <meta name="description" content="{{ .Description }}">
+    {{ else if .IsPage }}
+    <meta name="description" content="{{ .Summary | plainify }}">
+    {{ else }}
+    <meta name="description" content="{{ .Site.Params.SiteDescription }}">
+    {{ end }}
 
-		{{ with .OutputFormats.Get "RSS" -}}
-			{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
-		{{- end }}
+    {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+
+    {{ with .OutputFormats.Get "RSS" -}}
+      {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
+    {{- end }}
 
     <script src="//use.typekit.net/iwh5why.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
-		<link rel="stylesheet" href="{{ "/assets/css/style.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relURL }}">
 
-	</head>
+  </head>

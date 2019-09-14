@@ -3,6 +3,8 @@
 	{{ .Content }}
 	<div class="page">
 
+	{{ $pag := .Paginate (where .Site.RegularPages "Type" "in" (slice "posts" "links")) }}
+
 	{{ range .Paginator.Pages }}
 
 		<article class="article" itemscope itemtype="http://schema.org/CreativeWork">

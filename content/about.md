@@ -1,28 +1,18 @@
-+++
-title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
-+++
+---
+title: About Airbag Industries
+description: A blunt voice in the world of interactive design.
+---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+This site launched on January &#39;02, when blogging as a site format was in its earliest infancy. In those days, if you wanted to be a part of the conversation you had to blog yourself because blog comments--neither the idea nor the technology&#151;had been created yet. In the last eleven years, Airbag has earned a reputation for being a blunt voice in the world of interactive design though not always on the topic.
 
-Hugo makes use of a variety of open source projects including:
+In the summer of 2005 Greg started his studio and used the Airbag name for the company. Airbag Industries LLC had a good run from 2005 through 2009 when the company merged with long-time competitor and peer, [Happy Cog](http://www.airbagindustries.com/archives/airbag/memento.php).
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Today, Airbag is back to serve its original purpose.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+### About Greg
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Airbag is written by [Greg Storey](http://www.linkedin.com/in/brilliantcrank). In the last twenty years, he has hired, managed, and lead a number of design and development teams, creating websites for everything from NCAA sports tournaments to AAA game titles, telemedicine to Fortune 100 brands. His ideas and his work as a designer have been profiled in Communication Arts, The Wall Street Journal, <span class="caps">MSNBC</span>, Salon Magazine, and the Associated Press.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Greg grew up in Alaska and lived there for twenty years until moving gleefully to Southern California. After twelve years in the Golden State, Greg moved to Austin, Texas where he currently resides in Bouldin Creek community.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
-
-
+Greg serves as an advisor to Dribbble and Lexblog. He also co-founded the [Bureau of Digital](http://bureauofdigital.com), the company behind awesome digital industry events, [Owner Camp](http://www.ownercamp.com) and [Digital PM Summit](http://www.dpmsummit2013.com).

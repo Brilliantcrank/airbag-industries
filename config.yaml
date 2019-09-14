@@ -3,7 +3,7 @@ baseURL: http://airbagindustries.org/
 languageCode: en-us
 
 permalinks:
-  post: /archive/:slug/
+  posts: /archive/:slug/
 
 params:
   DateForm: "2.1.2006"
