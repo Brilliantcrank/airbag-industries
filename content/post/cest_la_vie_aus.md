@@ -1,5 +1,6 @@
 ---
 title: C'est la Vie Austin?
+date: Wed, 08 May 2017 07:31:19 +0000
 ---
 
 [UnderConsideration](http://underconsideration.com/), the force behind some of the best and longest running digital publications on design, organizers of amazing conferences, and fellow Austin residents have pulled stakes to move to Bloomington, Indiana. That's right, some incredibly creative, entrepreneurial, smart people just left one of the hottest cities in North America for a small town in Indiana, the type that was recently the subject of parody on television.

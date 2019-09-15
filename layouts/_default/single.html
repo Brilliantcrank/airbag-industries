@@ -10,7 +10,7 @@
 			</div>
 
 			<footer class="article-meta">
-				<time class="article-time" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "01 April 2001" }}</time>
+				<time class="article-time" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "01 January 2006" }}</time>
 				{{if .Params.tags}} 
 				<ul class="article-tags">
 					{{ range .Params.tags }}
@@ -20,19 +20,6 @@
 				{{end}}
 			</footer>
 
-			<nav class="article-nav">
-				<div class="left">
-					<a href="{{ .Site.BaseURL }}" title="Home">Index</a> 
-				</div>
-				<div class="right">
-					{{if .PrevInSection}}
-						<a class="prev" href="{{.PrevInSection.Permalink}}" title="{{.PrevInSection.Title | safeHTML}}">&laquo; Previous</a>
-					{{end}}
-					{{if .NextInSection}}
-						<a class="next" href="{{.NextInSection.Permalink}}" title="{{.NextInSection.Title | safeHTML}}">&laquo; Next</a>
-					{{end}}
-				</div>
-			</nav>
 
 		</article>
 

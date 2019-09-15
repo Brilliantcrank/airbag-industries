@@ -1,0 +1,39 @@
+{{ define "main" }}
+	
+		<article class="article" itemscope itemtype="http://schema.org/CreativeWork">
+			<header class="article-header">
+				<h1 class="article-title" itemprop="headline">{{ .Title }}</h1>
+			</header>
+					
+			<div class="article-content" itemprop="text">
+				{{ .Content }}
+			</div>
+
+			<footer class="article-meta">
+				<time class="article-time" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "01 April 1995" }}</time>
+				{{if .Params.tags}} 
+				<ul class="article-tags">
+					{{ range .Params.tags }}
+						<li class="article-tag"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+					{{ end }}
+				</ul>
+				{{end}}
+			</footer>
+
+			<nav class="article-nav">
+				<div class="left">
+					<a href="{{ .Site.BaseURL }}" title="Home">Index</a> 
+				</div>
+				<div class="right">
+					{{if .PrevInSection}}
+						<a class="prev" href="{{.PrevInSection.Permalink}}" title="{{.PrevInSection.Title | safeHTML}}">&laquo; Previous</a>
+					{{end}}
+					{{if .NextInSection}}
+						<a class="next" href="{{.NextInSection.Permalink}}" title="{{.NextInSection.Title | safeHTML}}">&laquo; Next</a>
+					{{end}}
+				</div>
+			</nav>
+
+		</article>
+
+{{end}}

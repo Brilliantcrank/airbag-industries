@@ -1,5 +1,6 @@
 ---
 title: That one time when technical difficulties, user error, and Murphy's Law walk into a bar.
+date: Wed, 25 Mar 2019 07:31:19 +0000
 ---
 
 Wouldn't you know it. I finally get my act together to get Airbag off thirteen-year-old technology and onto a modern, secure platform and the server dies right before the work begins. Literally the day before the engineer I hired finally had a window to start work and the hard drive spins down for the last time. Zero chance of recovery.

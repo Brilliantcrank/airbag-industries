@@ -1,7 +1,6 @@
 ---
 title: So Not Very Cool
-
-
+date: Wed, 21 Jan 2018 07:31:19 +0000
 ---
 
 Dean Allen, a very large inspiration earlier in my career, died last weekend. I didn't get to know him personally, but that didn't reduce the impact his creativity and innovations had on me earlier in the century. It was a time when software made it relatively easy to publish online without having to spend a lot of time on arduous repetitive tasks. The curious and creative nerds at the time flocked to new found capabilities, sandboxes that allowed us to play as producers and publishers. Dean was one of the few at the top.
