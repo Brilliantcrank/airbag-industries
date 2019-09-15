@@ -7,30 +7,10 @@
 
 	{{ range .Paginator.Pages }}
 
-    <article class="article" itemscope itemtype="http://schema.org/CreativeWork">
-			<header class="article-header">
-        <h1 class="article-title">
-          {{ if and (eq .Type "longboard") (.Param "target_url") }}
-          <a href='{{.Param "target_url"}}' title='{{.Title | safeHTML}}'>
-          {{ else }}
-          <a href='{{.Permalink}}' title='{{.Title | safeHTML}}'></a>
-          {{ end }}
-          {{ .Title }}
-          </a>
-        </h1>
-			</header>
-					
-			<div class="article-content" itemprop="text">
-				{{ .Content }}
-			</div>
+    {{ partial "summary" . }}
 
-			<footer class="article-meta">
-				<time class="article-time" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "02 January 2006" }}</time>
-			</footer>
-
-		</article>
-
-	{{ end }}
+  {{ end }}
+  
 	</div>
 
 {{ end }}

@@ -8,7 +8,7 @@
   {{ end }}
 
   {{ range .Pages }}
-  <li>{{ .Date.Format "02 Jan 06" }} / <a href="{{.Permalink}}" title="{{.Title | safeHTML}}">{{ .Title }}</a></li>
+    {{ partial "summary" . }}
   {{ end }}
 
 {{ end }}

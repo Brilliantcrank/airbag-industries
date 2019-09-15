@@ -1,5 +1,5 @@
 ---
-title: Panth&#232;re Rose
+title: Panthère Rose
 id: 1443
 date: Thu, 01 Jul 2004 16:24:33 +0000
 ---

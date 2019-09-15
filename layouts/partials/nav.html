@@ -2,13 +2,13 @@
 
   <div class="site-established">
     <b>Est. 2002</b><br />
-    Airbag has been around since Moveabletype beta and has enjoyed a reputation for being a blunt voice in the world of interactive design.
+    {{ $.Site.Params.description }}
   </div>
   <div class="site-introperspective">
     {{ $currentPage := . }}
     <ul>
       {{ range .Site.Menus.navlinks }}
-      <li><a href="{{ .URL }}">{{ .Pre }} {{ .Name }}</a></li>
+      <li class="{{if or ($currentPage.IsMenuCurrent "navlinks" .) ($currentPage.HasMenuCurrent "navlinks" .) }}active{{end}}"><a href="{{ .URL }}">{{ .Name }}</a></li>
       {{ end }}
     </ul>
     <ul>

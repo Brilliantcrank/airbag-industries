@@ -1,5 +1,5 @@
 ---
-title: Geek R&egrave;sume Redux.
+title: Geek Résumé Redux.
 id: 53
 date: Thu, 11 Apr 2002 21:16:06 +0000
 ---

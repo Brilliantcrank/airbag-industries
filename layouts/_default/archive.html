@@ -1,14 +1,14 @@
 {{ define "main" }}
 
   {{ if or .Title .Content }}
-  <div>
     {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
     {{ with .Content }}<div>{{ . }}</div>{{ end }}
-  </div>
   {{ end }}
 
-  {{ range (where .Site.Pages "Type" "in" (slice "post"))}}
-  <li>{{ .Date.Format "02 Jan 06" }} / <a href="{{.Permalink}}" title="{{.Title | safeHTML}}">{{ .Title }}</a></li>
+  <ul>
+  {{ range (where .Site.RegularPages "Type" "in" (slice "post"))}}
+    <li>{{ .Date.Format "2 Jan '06" }} / <a href="{{.Permalink}}" title="{{.Title | safeHTML}}">{{ .Title }}</a></li>
   {{ end }}
+  </ul>
 
 {{ end }}

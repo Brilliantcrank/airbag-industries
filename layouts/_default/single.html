@@ -1,5 +1,5 @@
 {{ define "main" }}
-	
+
 		<article class="article" itemscope itemtype="http://schema.org/CreativeWork">
 			<header class="article-header">
 				<h1 class="article-title" itemprop="headline">{{ .Title }}</h1>
@@ -10,16 +10,15 @@
 			</div>
 
 			<footer class="article-meta">
-				<time class="article-time" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "01 January 2006" }}</time>
+        <time class="article-time" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format .Site.Params.DateForm }}</time>
 				{{if .Params.tags}} 
 				<ul class="article-tags">
 					{{ range .Params.tags }}
-						<li class="article-tag"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+						<li class="article-tag"><a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a></li>
 					{{ end }}
 				</ul>
 				{{end}}
 			</footer>
-
 
 		</article>
 

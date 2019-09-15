@@ -1,5 +1,5 @@
 ---
-title: Rhein&uuml;bung
+title: Rheinübung
 id: 4800
 date: Mon, 29 May 2006 12:27:11 +0000
 ---

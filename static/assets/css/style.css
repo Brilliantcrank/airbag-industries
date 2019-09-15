@@ -321,3 +321,19 @@ a:visited {
   border: 0;
   display: inline-block;
 }
+.longboard .article-title {
+  position: relative;
+}
+.longboard .article-title a:after {
+  text-decoration: none;
+  position: absolute;
+  font-size: 66%;
+  content: "🔗";
+  display: inline-block;
+  padding-left: 6px;
+  opacity: 0.5;
+  transition: opacity 0.5s ease-in-out;
+}
+.longboard .article-title:hover a:after {
+  opacity: 1;
+}

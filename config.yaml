@@ -2,12 +2,12 @@ name: Airbag Industries
 title: Airbag Industries
 baseURL: http://airbagindustries.org/
 languageCode: en-us
-
+params:
+  author: Greg Storey
+  description: Airbag has been around since Moveabletype beta and has enjoyed a reputation for being a blunt voice in the world of interactive design.
+  DateForm: "2 January '06"
 permalinks:
   post: /archive/:slug/
-
-params:
-  DateForm: "12 Jan 2016"
 
 menu:
   navlinks:

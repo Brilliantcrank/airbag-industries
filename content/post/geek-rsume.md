@@ -1,5 +1,5 @@
 ---
-title: Geek R&egrave;sume.
+title: Geek Résumé.
 id: 25
 date: Mon, 25 Feb 2002 19:13:30 +0000
 ---
