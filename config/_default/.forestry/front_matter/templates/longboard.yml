@@ -23,3 +23,5 @@ fields:
     time_format: 
     display_utc: false
   label: Date
+pages:
+- content/longboard/another-external-link-goes-here.md
