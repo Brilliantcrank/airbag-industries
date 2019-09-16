@@ -15,4 +15,4 @@ fields:
 - type: text
   name: description
   label: Meta Description
-  description: Custom meta description
+  description: Custom meta description, used for search and social summaries
