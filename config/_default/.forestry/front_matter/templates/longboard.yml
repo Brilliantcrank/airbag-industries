@@ -1,6 +1,6 @@
 ---
 label: Longboard
-hide_body: true
+hide_body: false
 fields:
 - name: target_url
   type: text
