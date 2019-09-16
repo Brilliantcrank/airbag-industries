@@ -2,6 +2,12 @@
 label: Article
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: Article title, appears at the top of the article and in the HTML title
 - name: description
   type: textarea
   default: ''
