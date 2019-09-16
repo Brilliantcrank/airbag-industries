@@ -4,6 +4,11 @@ page_title: Historical Data
 date: 2011-11-16
 description: Airbag Industries archives.
 layout: archive
+menu:
+  navlinks:
+    identifier: archive
+    name: Archives
+    weight: 2
 ---
 
-**This is preliminary text that will be appended to the archive page.** First shalt thou take out the Holy Pin, then shalt thou count to three, no more, no less. Three shall be the number thou shalt count, and the number of the counting shall be three. Four shalt thou not count, neither count thou two, excepting that thou then proceed to three. Five is right out. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thy foe, who being naughty in My sight, shall snuff it.
+**This is preliminary text that gets appended to the archive page.** Add whatever you'd like here, or just remove it altogether.

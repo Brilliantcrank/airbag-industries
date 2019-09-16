@@ -1,7 +1,8 @@
 {{ define "main" }}
 
+  <article class="article">
     {{ if or .Title .Content }}
-      {{ with .Title }}<div class="article"><h1 class="article-title">{{ . }}</h1></div>{{ end }}
+      {{ with .Title }}<h1 class="article-title">{{ . }}</h1>{{ end }}
       {{ with .Content }}<div class="article-title-description">{{ . }}</div>{{ end }}
     {{ end }}
 
@@ -10,6 +11,6 @@
       <li>{{ .Date.Format "2 Jan '06" }} / <a href="{{.Permalink}}" title="{{.Title | safeHTML}}">{{ .Title }}</a></li>
     {{ end }}
     </ul>
-
+  </article>
 
 {{ end }}

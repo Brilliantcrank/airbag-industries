@@ -15,18 +15,6 @@ menu:
     name: Home
     url: /
     weight: 1
-  - identifier: about
-    name: About
-    url: /about/
-    weight: 2
-  - identifier: archives
-    name: Archives
-    url: /archive/
-    weight: 3
-  - identifier: contact
-    name: Contact
-    url: /contact/
-    weight: 4
   - identifier: subscribe
     name: Subscribe
     url: http://feeds.feedburner.com/airbag

@@ -3,14 +3,20 @@
 	{{ .Content }}
 	<div class="page">
 
-	{{ $pag := .Paginate (where .Site.RegularPages "Type" "in" (slice "post" "longboard")) }}
+		{{ $pag := .Paginate (where .Site.RegularPages "Type" "in" (slice "post" "longboard")) }}
 
-	{{ range .Paginator.Pages }}
+		{{ range .Paginator.Pages }}
 
-    {{ partial "summary" . }}
+			{{ partial "summary" . }}
 
-  {{ end }}
-  
+		{{ end }}
+
+		<nav class="article-nav">
+			<div class="left">
+				<a href="/archive/" title='Site Archive'>Index</a> 
+			</div>
+		</nav>  
+		
 	</div>
 
 {{ end }}
