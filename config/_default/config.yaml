@@ -1,5 +1,5 @@
 title: Airbag Industries
-baseURL: http://airbagindustries.org/
+baseURL: http://localhost:1313/
 languageCode: en-us
 params:
   author: Greg Storey

@@ -1,5 +1,11 @@
 <nav class="nav-primary" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Main navigation">
 
+  {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }} 
+    Environment is production.
+  {{ else }}
+    Environment is NOT production.
+  {{ end }}
+
   <div class="site-established">
     <b>Est. 2002</b><br />
     {{ $.Site.Params.description }}
@@ -29,8 +35,10 @@
       <li><a href="{{ .URL }}">{{ .Pre }} {{ .Name }}</a></li>
       {{ end }}
     </ul>
+    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }} 
 		<div id="shutterthumb">
-        <ul><li><b>Shutterthumb</b><br/>1:1 photography</li></ul>
-        <!-- <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=6&display=latest&size=m&layout=x&source=user&user=45716533@N00"></script>	-->
-      </div><!--end shutterthumb-->
+      <ul><li><b>Shutterthumb</b><br/>1:1 photography</li></ul>
+      <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=6&display=latest&size=m&layout=x&source=user&user=45716533@N00"></script>
+    </div><!--end shutterthumb-->
+    {{ end }} 
   </div>
