@@ -36,7 +36,7 @@ Still, it’s not fair that people who prefer people should get all the cool web
 
 I have a hunch that I’m not alone.  
 
-So for you and me, Joe Goaway, I present [Introvertster – The new way to get rid of people.](http://www.gregstorey.com/airbag/introvertster)
+So for you and me, Joe Goaway, I present [Introvertster – The new way to get rid of people.](https://www.airbagindustries.com/introvertster)
 
 
 

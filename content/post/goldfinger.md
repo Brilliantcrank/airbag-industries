@@ -18,7 +18,7 @@ There was a time (specifically during <span class="caps">SXSW</span>) that I wou
 
 And I would put more effort into caring if it wasn’t for the new [*Flaming Lips*](http://www.amazon.com/exec/obidos/tg/detail/-/B000068PQ0/ref=cm_wl_ovu-pg.1-pos.1/002-8135322-7863231?v=glance&coliid=I3MKDMX0R90AA4&me=ATVPDKIKX0DER) album I’m listening too. Have you heard these guys? I’m in that once-in-a-lifetime stage of hearing everything for the first time so everything is simply brilliant.  
 
-Instead, I’ll just go on assuming that this website is on track as it appeared next to other, wonderful, [nominated sites](http://www.gregstorey.com/airbag/bloggies.html) in the Best Designed category. All good company to be in.  
+Instead, I’ll just go on assuming that this website is on track as it appeared next to other, wonderful, [nominated sites](https://www.airbagindustries.com/bloggies.html) in the Best Designed category. All good company to be in.  
 
 That said, my name’s in the hat for another interactive award and you can bet the greenstuff that I’m sweating bullets: *American Idol* style.
 

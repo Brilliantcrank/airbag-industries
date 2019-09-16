@@ -4,7 +4,7 @@ id: 279
 date: Sat, 22 Feb 2003 08:40:51 +0000
 ---
 
-I’m a born and bred Christian American but when it comes to my cat [Ramses](http://www.gregstorey.com/airbag/archives/000128.shtml), I’m all Hindu.  
+I’m a born and bred Christian American but when it comes to my cat [Ramses](https://www.airbagindustries.com/archives/000128.shtml), I’m all Hindu.  
 
 I am certain, beyond a doubt, that my cat is really a full grown golden retriever trapped in a feline body. Modern day science can’t explain it so I must resort to believing in reincarnation (and that cows are gods) for any this to make sense.  
 

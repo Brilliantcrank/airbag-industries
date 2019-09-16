@@ -10,7 +10,7 @@ Go figure.
 
 I understand the plight of Google needing to make the search results relevant to what the user may be looking for. But instead of searching for an airbag why can’t a person search for the title airbag?  
 
-Why don’t search engines provide a way to [search by title, author, or subject?](http://www.gregstorey.com/airbag/aft/googlebysubject.gif)  
+Why don’t search engines provide a way to [search by title, author, or subject?](https://www.airbagindustries.com/aft/googlebysubject.gif)  
 
 Maybe I missed something, fell off the Google truck the day they unveiled this new feature, but I don’t even see options for this in the Advanced Search mode.  
 

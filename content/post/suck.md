@@ -14,7 +14,7 @@ Now they have removed my site from [search results for the word ‘Airbag’](ht
 
 This independent periodical is no where to be found in Google’s search results for the word Airbag – despite that it held at number one for more than a year.  
 
-You can’t give me crap about this site having nothing to do with vehicle safety because the number three slot is currently held by a German handbag company. And I have written extensively about safety issues with buying [used airbags](http://www.gregstorey.com/airbag/archives/000119.shtml).  
+You can’t give me crap about this site having nothing to do with vehicle safety because the number three slot is currently held by a German handbag company. And I have written extensively about safety issues with buying [used airbags](https://www.airbagindustries.com/archives/000119.shtml).  
 
 What’s the point in creating a personal site if people can’t find it by searching under the title?  
 

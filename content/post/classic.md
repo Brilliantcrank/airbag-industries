@@ -14,7 +14,7 @@ And Fray has to be the oldest independent website (not a blog, mind you) still r
 
 The original design worked. And it worked well enough not to need a redesign for almost seven years.  
 
-I wish more websites would have stuck with some of their older designs. Almost everything created by Clemet Mok and [Studio Archetype](http://www.gregstorey.com/airbag/nagano/) are gone now. Which is a shame because I think their creativity is leaps and bounds over the crap that passes for <span class="caps">MSNBC</span>, Adobe, and International Olympic web sites today. Only one of Archetypes original customers still uses their designs today, which provides more evidence that good design need only to be created once.  
+I wish more websites would have stuck with some of their older designs. Almost everything created by Clemet Mok and [Studio Archetype](https://www.airbagindustries.com/nagano/) are gone now. Which is a shame because I think their creativity is leaps and bounds over the crap that passes for <span class="caps">MSNBC</span>, Adobe, and International Olympic web sites today. Only one of Archetypes original customers still uses their designs today, which provides more evidence that good design need only to be created once.  
 
 [UPS](http://www.ups.com/?cookie=us_en_home&setCookie=no) has altered their site a little here and there but only to add more information or applications, never to tweak or alter the design. At least nothing near as bad as what has happened to [<span class="caps">KCRW</span>‘s](http://www.kcrw.org), Razorfish designed, web site. Take a look, it’s a good example of what happens When Frontpage Attacks.  
 

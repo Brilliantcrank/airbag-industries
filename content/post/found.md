@@ -22,7 +22,7 @@ After a 45 minute ordeal of waiting, dismantling the retaining wall, digging, av
 
 So welcome to the family, small-black-kitten aka Ramses (our other cat’s name is Icis). Cecily and I will take care of you for the rest of your life and you will never be lost again.  
 
-[Airbag readers, meet Ramses.](http://www.gregstorey.com/airbag/shutterthumb/ramses.html)
+[Airbag readers, meet Ramses.](https://www.airbagindustries.com/shutterthumb/ramses.html)
 
 
 

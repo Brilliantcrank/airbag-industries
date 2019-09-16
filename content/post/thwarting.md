@@ -4,7 +4,7 @@ id: 91
 date: Thu, 04 Jul 2002 07:59:07 +0000
 ---
 
-If there is any doubt that our society is ‘at war’ then take a [look at today’s cover](http://www.gregstorey.com/airbag/images/msnbc_july4.jpg) from <span class="caps">MSNBC</span>. The only thing missing is an appeal for young men to join the Army and something about rationing food.  
+If there is any doubt that our society is ‘at war’ then take a [look at today’s cover](https://www.airbagindustries.com/images/msnbc_july4.jpg) from <span class="caps">MSNBC</span>. The only thing missing is an appeal for young men to join the Army and something about rationing food.  
 
 Today I will ‘go fourth’ and not be hindered by terror. Nor by the idiots who are packing the highways and airports in order to get a glimpse of real freedom, the kind that doesn’t bind you to a 9 to 5.  
 

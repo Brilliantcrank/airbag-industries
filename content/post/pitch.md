@@ -20,7 +20,7 @@ But going to the ballpark is more than what’s happening on the field. It’s a
 
 Nine innings and three hours later we dusted off the bits of peanut shells and made our way to the car.  
 
-[ What a great night.](http://www.gregstorey.com/airbag/shutterthumb/halos.html)
+[ What a great night.](https://www.airbagindustries.com/shutterthumb/halos.html)
 
 
 

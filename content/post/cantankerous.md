@@ -30,7 +30,7 @@ So why are these two ballot monkeys the best candidates we can find in a state w
 
 To help with this new leader search I think Hollywood should develop a new show like *American Idol*, but call it *California Governor* and get Warren Beatty to fill the ‘Simon’ role.  
 
-Despite our candidate crisis, I will take comfort in a few things about the upcoming election. I know the little old ladies who volunteer to man the poles will be as cantankerous as ever, that <span class="caps">NPR</span> will broadcast all kinds of great election stories and results from around the country, and I will take comfort that at least in the state of California we know [*how to vote*](http://www.gregstorey.com/airbag/archives/000207.shtml).  
+Despite our candidate crisis, I will take comfort in a few things about the upcoming election. I know the little old ladies who volunteer to man the poles will be as cantankerous as ever, that <span class="caps">NPR</span> will broadcast all kinds of great election stories and results from around the country, and I will take comfort that at least in the state of California we know [*how to vote*](https://www.airbagindustries.com/archives/000207.shtml).  
 
 <span class="caps">**UPDATE:**</span> Seems the idea for an interactive television show for a political candidate was [not far from reality](http://www.msnbc.com/news/810727.asp). Thanks to [Griff](http://www.ultramicroscopic.com/) for the link.
 

@@ -8,7 +8,7 @@ Before diving head first into any long endeavor, selecting theme music is not on
 
 The miraculous powers of good music can help you through the tough times and make you want to dance during the good. And somewhere in-between, a great track will always afford a five minute and twenty seven second break between Photoshop layers.  
 
-For my next adventure (see *[Being Carl Spackler](http://www.gregstorey.com/airbag/archives/000646.shtml#000646)*) I headed to [EMusic](http://www.emusic.com) to check out their advertised 50 free songs trial.  
+For my next adventure (see *[Being Carl Spackler](https://www.airbagindustries.com/archives/000646.shtml#000646)*) I headed to [EMusic](http://www.emusic.com) to check out their advertised 50 free songs trial.  
 
 Soon after signing up for an account (which I can cancel within 30 days) I was thrown into the depth of their 200,000 plus song inventory of mostly independent artists.  
 

@@ -10,7 +10,7 @@ There are, of course, some rules and restrictions.
 
 
 
-> 1. The winning comment must be written in English. It must have something to do with the current thread. It must be coherent, gibberish will only get you a smack on the head, not free stuff from Amazon. Also, the winning comment must be made to the top 5 entries &#151 if I get one more person asking me if I know how to [hack into hotel television](http://www.gregstorey.com/airbag/archives/000109.shtml) I’m gonna find the nearest bell tower and ready the dear riffle.  
+> 1. The winning comment must be written in English. It must have something to do with the current thread. It must be coherent, gibberish will only get you a smack on the head, not free stuff from Amazon. Also, the winning comment must be made to the top 5 entries &#151 if I get one more person asking me if I know how to [hack into hotel television](https://www.airbagindustries.com/archives/000109.shtml) I’m gonna find the nearest bell tower and ready the dear riffle.  
 
 >  2. Have fun.
 

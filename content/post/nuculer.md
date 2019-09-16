@@ -26,7 +26,7 @@ Now keep in mind this is the guy who everyone thinks of as the posterchild for M
 
 Am I missing something? Did the President of the United States of America call sports utility vehicles a bad thing? If Bush stands to profit so much from the sale of oil, then why would he care how many giant, gas sucking, land yachts are speeding around the world?  
 
-I submit that G.W.B. might not be as big of a jerk as everyone, [including myself](http://www.gregstorey.com/airbag/archives/000194.shtml), has made him out to be. If the President is really this sharp — away from the cameras and reporters — then what do I care if he can’t pronounce the word nuclear correctly?
+I submit that G.W.B. might not be as big of a jerk as everyone, [including myself](https://www.airbagindustries.com/archives/000194.shtml), has made him out to be. If the President is really this sharp — away from the cameras and reporters — then what do I care if he can’t pronounce the word nuclear correctly?
 
 
 

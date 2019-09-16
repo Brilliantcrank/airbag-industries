@@ -4,7 +4,7 @@ id: 87
 date: Thu, 27 Jun 2002 13:37:03 +0000
 ---
 
-It’s easy to classify [yesterdays decision](http://www.gregstorey.com/airbag/archives/000172.shtml#000172) as us vs. them or Christians vs. Non-Christians but for me it’s not about that at all.  
+It’s easy to classify [yesterdays decision](https://www.airbagindustries.com/archives/000172.shtml#000172) as us vs. them or Christians vs. Non-Christians but for me it’s not about that at all.  
 
 The America I believe in has traditions and institutions that shouldn’t be altered so easily, or at least without a far amount of public discussion and debate. The America I believe in is simply not labeled unconstitutional with the ease that was done yesterday.  
 

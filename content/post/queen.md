@@ -16,7 +16,7 @@ Some of you have run to the side of our European ‘ally’, waving a history bo
 
 Not convinced that France matters much, I did a little research and came up with their war scorecard. The home of Inspector Clouseau, Dean Allen, and Jerry Lewis, has a win-tie-loss record of 2-3-12. There was the [successful attack on Greenpeace](http://www.kauricoast.co.nz/Feature.cfm?WPID=70) in July 1985, but it does not count as a war because the conflict lasted less than 24 hours. Instead the matter was merely labeled as just another Frenchie thing to do.  
 
-In fact, Amnesty International continues to be on alert status ‘Orange’ whenever [France](http://www.gregstorey.com/airbag/archives/000215.shtml) is concerned.
+In fact, Amnesty International continues to be on alert status ‘Orange’ whenever [France](https://www.airbagindustries.com/archives/000215.shtml) is concerned.
 
 
 

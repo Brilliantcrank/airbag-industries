@@ -4,7 +4,7 @@ id: 134
 date: Wed, 06 Nov 2002 09:04:40 +0000
 ---
 
-A comment from [yesterday’s entry](http://www.gregstorey.com/airbag/archives/000228.shtml#000228) yielded an often heard sigh of frustration regarding the importance of the single vote. The popular idea that one vote doesn’t matter.  
+A comment from [yesterday’s entry](https://www.airbagindustries.com/archives/000228.shtml#000228) yielded an often heard sigh of frustration regarding the importance of the single vote. The popular idea that one vote doesn’t matter.  
 
 It is true that one vote against many will end in defeat but I believe there are a lot of single votes (millions of them) that simply use this as an excuse for not casting their ballot. The result makes our democracy even worse.  
 

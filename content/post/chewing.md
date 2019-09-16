@@ -16,7 +16,7 @@ On the flipside, *The Simpsons* needs to go. It should have exited stage left ab
 
 5. Other media digestion: *Theodore Rex* by Edmund Morris, *Temple of Low Men* by Crowded House, *Charter of the New Urbanism* by Congress for the New Urbanism, *The Rants, Raves & Thoughts of Fidel Castro* by <span class="caps">OYO</span> Publications, *Songs Yet to Be Sung* by Perry Farrell, and *Vanity Fair* — April issue.  
 
-<span class="caps">ENCORE</span> — Amazon is so stinking slow. I just now tracked my order for *The Borne Identity* and see that [Jeff Bezos had to go back to December 31, 1969](http://www.gregstorey.com/airbag/aft/amazon.gif) to find a copy and bring it back for processing in Roseburg, Oregon. I hope the Delorian is okay?!
+<span class="caps">ENCORE</span> — Amazon is so stinking slow. I just now tracked my order for *The Borne Identity* and see that [Jeff Bezos had to go back to December 31, 1969](https://www.airbagindustries.com/aft/amazon.gif) to find a copy and bring it back for processing in Roseburg, Oregon. I hope the Delorian is okay?!
 
 
 

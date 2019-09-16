@@ -4,7 +4,7 @@ id: 508
 date: Tue, 03 Jun 2003 16:32:43 +0000
 ---
 
-Remember when I said I found the [perfect job](http://www.gregstorey.com/airbag/archives/000569.shtml)?  
+Remember when I said I found the [perfect job](https://www.airbagindustries.com/archives/000569.shtml)?  
 
 Yeah, well scratch that.  
 
