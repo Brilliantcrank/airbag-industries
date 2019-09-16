@@ -1,4 +1,14 @@
 ---
 label: Post
 hide_body: false
-fields: []
+fields:
+- name: date
+  type: datetime
+  label: Date
+  description: Publish date
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: false
