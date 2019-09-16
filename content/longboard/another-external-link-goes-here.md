@@ -1,6 +1,5 @@
 +++
 date = "2019-09-16T04:00:00+00:00"
-draft = true
 target_url = "https://www.clarityconf.com/"
 title = "Another external link goes here."
 
