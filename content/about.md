@@ -1,5 +1,6 @@
 ---
 title: About Airbag Industries
+page_title: Contact Information
 description: A blunt voice in the world of interactive design.
 ---
 

@@ -5,10 +5,17 @@
     {{ $.Site.Params.description }}
   </div>
   <div class="site-introperspective">
-    {{ $currentPage := . }}
     <ul>
+      {{ $current := . }}      
+      
       {{ range .Site.Menus.navlinks }}
-      <li class="{{if or ($currentPage.IsMenuCurrent "navlinks" .) ($currentPage.HasMenuCurrent "navlinks" .) }}active{{end}}"><a href="{{ .URL }}">{{ .Name }}</a></li>
+        
+        {{ $active := or ($current.IsMenuCurrent "navlinks" .) ($current.HasMenuCurrent "navlinks" .) }}
+        {{ $active = or $active (eq .Name $current.Title) }}
+        {{ $active = or $active (and (eq .Name "Blog") (eq $current.Section "post")) }}
+        <li{{if $active }} class='active'{{ end }}>
+            <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
       {{ end }}
     </ul>
     <ul>
