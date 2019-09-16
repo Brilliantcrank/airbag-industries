@@ -14,7 +14,7 @@
     
     {{ if .Description }}
     <meta name="description" content="{{ .Description }}">
-    {{ else if .IsPage }}
+    {{ else if eq .Section "post" }}
     <meta name="description" content="{{ .Summary | plainify }}">
     {{ else }}
     <meta name="description" content="{{ .Site.Params.SiteDescription }}">

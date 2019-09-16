@@ -10,14 +10,16 @@
 			</div>
 
 			<footer class="article-meta">
-        <time class="article-time" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format .Site.Params.DateForm }}</time>
-				{{if .Params.tags}} 
-				<ul class="article-tags">
-					{{ range .Params.tags }}
-						<li class="article-tag"><a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a></li>
-					{{ end }}
-				</ul>
-				{{end}}
+				{{ if eq .Section "post" }}
+					<time class="article-time" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format .Site.Params.DateForm }}</time>
+					{{if .Params.tags}} 
+					<ul class="article-tags">
+						{{ range .Params.tags }}
+							<li class="article-tag"><a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a></li>
+						{{ end }}
+					</ul>
+					{{end}}
+				{{ end }}
 			</footer>
 
 		</article>
