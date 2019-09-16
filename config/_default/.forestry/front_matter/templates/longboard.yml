@@ -1,4 +1,10 @@
 ---
 label: Longboard
 hide_body: true
-fields: []
+fields:
+- name: target_url
+  type: text
+  config:
+    required: true
+  label: Target URL
+  description: External URL this post will link to.
