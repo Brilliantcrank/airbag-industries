@@ -2,6 +2,8 @@
 
   {{ if eq hugo.Environment "development" }}
     <b>⚙ Development</b>
+  {{ else if eq hugo.Environment "staging" }}
+    <b>⚙ Staging</b>
   {{ end }}
 
   <div class="site-established">
