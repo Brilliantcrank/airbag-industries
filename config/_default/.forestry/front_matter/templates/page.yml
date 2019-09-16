@@ -3,11 +3,10 @@ label: Page
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
-- type: text
   name: page_title
-  label: page_title
+  label: Page Title
+  description: Override the title in the HTML title element
 - type: text
   name: description
-  label: description
+  label: Meta Description
+  description: Custom meta description
