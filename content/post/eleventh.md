@@ -4,7 +4,7 @@ id: 2261
 date: Wed, 29 Dec 2004 22:37:11 +0000
 ---
 
-[![](http://www.airbagindustries.com/images/help_88x31.gif)](http://s1.amazon.com/exec/varzea/ts/my-pay-page/PX3BEL97U9A4I) With Amazon’s move to help raise money for tsunami disaster I feel like attention and attitude towards the real need in that region is turning around for the better. As it’s the week in-between Christmas and New Years it’s really hard to raise awareness let alone monetary support. Something I learned firsthand working for a large non-profit for five years.  
+[![](https://www.airbagindustries.com/images/help_88x31.gif)](http://s1.amazon.com/exec/varzea/ts/my-pay-page/PX3BEL97U9A4I) With Amazon’s move to help raise money for tsunami disaster I feel like attention and attitude towards the real need in that region is turning around for the better. As it’s the week in-between Christmas and New Years it’s really hard to raise awareness let alone monetary support. Something I learned firsthand working for a large non-profit for five years.  
 
 It doesn’t take a whole lot from each of us to make a huge impact.  
 

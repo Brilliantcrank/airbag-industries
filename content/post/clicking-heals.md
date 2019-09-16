@@ -4,15 +4,15 @@ id: 1420
 date: Mon, 28 Jun 2004 19:46:47 +0000
 ---
 
-[![](http://www.airbagindustries.com/bucket/dashboard.gif)](http://www.airbagindustries.com/bucket/dashboardbig.jpg)
+[![](https://www.airbagindustries.com/bucket/dashboard.gif)](https://www.airbagindustries.com/bucket/dashboardbig.jpg)
 
 
 
-[![](http://www.airbagindustries.com/bucket/dashboard2.gif)
+[![](https://www.airbagindustries.com/bucket/dashboard2.gif)
 
 
 
-](http://www.airbagindustries.com/bucket/dashboardbig.jpg)
+](https://www.airbagindustries.com/bucket/dashboardbig.jpg)
 
 
 

@@ -14,7 +14,7 @@ I had already worked with the client at the end of September to create a tempora
 
 Thanks to the help of code-warrior [Ryan Irelan](http://www.irelan.net/becoming), I was able to flip the jolly green site within a week. It was a fun project and it served me well as [Zeldman](http://www.zeldman.com), upon seeing the site, asked me to come on-board and design the “real thing”.  
 
-[![](http://www.airbagindustries.com/bucket/mag_0_sm.jpg)](http://www.airbagindustries.com/bucket/mag_0.png)  
+[![](https://www.airbagindustries.com/bucket/mag_0_sm.jpg)](https://www.airbagindustries.com/bucket/mag_0.png)  
 
 <span style="font-size: 8px; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 3px;">Figure 0 — TEMPORARY SITE</span>  
 
@@ -26,13 +26,13 @@ Ma.gnolia wanted to create a social bookmarking application that would appeal to
 
 For the first comp my instructions were to continue the look and feel of the temporary site. Considering that design was created to hold short brochure-ware content for only a month, maybe two, I thought the design made for a nice fit on the full-scale application. It looked great but I had some reservations. Did it look different from other, similar types of websites out there: yes. Was it way too green to be used on a regular basis: probably so. Would it work better for an apple martini product site: most definitely.  
 
-[![](http://www.airbagindustries.com/bucket/mag_1_sm.jpg)](http://www.airbagindustries.com/bucket/mag_1.png)  
+[![](https://www.airbagindustries.com/bucket/mag_1_sm.jpg)](https://www.airbagindustries.com/bucket/mag_1.png)  
 
 <span style="font-size: 8px; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 3px;">Figure 1 — APPLE SOUR</span>  
 
 Wanting to depart from the apple-sour look I went the other way with the second comp, enlisting the help of a few earth tones — nothing brings a project back down to Earth like a good neutral palette. Some of the elements of the first design were dropped in favor of gradients to give the client an different approach (normally when presented with three comps a client will pick and chose the elements they like across all three and then these things are married together in the second round of design). I liked this version a lot, as did Happy Cog, and a few of us thought this was it, the version that would be used for the application. I think in hindsight we might have liked it mostly because it wasn’t day-glo green.  
 
-[![](http://www.airbagindustries.com/bucket/mag_2_sm.jpg)](http://www.airbagindustries.com/bucket/mag_2.png)  
+[![](https://www.airbagindustries.com/bucket/mag_2_sm.jpg)](https://www.airbagindustries.com/bucket/mag_2.png)  
 
 <span style="font-size: 8px; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 3px;">Figure 2 — CONTEMPORARY EARTH</span>  
 
@@ -40,7 +40,7 @@ By the time I launched Photoshop to begin working on the last design I was pushi
 
 The result was a cleaner, more sophisticated look that stood on its own while borrowing colors from the first two. Gradients are good and fun when used once and a while but there is a reason the drop-shadow fad fell from grace earlier in the decade. Object lesson: clean rules and boxes will beat overly designed shady backgrounds gradient fills every time. I bet Roger Black has said something similar but I don’t know the guy well enough to quote him.  
 
-[![](http://www.airbagindustries.com/bucket/mag_3_sm.jpg)](http://www.airbagindustries.com/bucket/mag_3.png)  
+[![](https://www.airbagindustries.com/bucket/mag_3_sm.jpg)](https://www.airbagindustries.com/bucket/mag_3.png)  
 
 <span style="font-size: 8px; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 3px;">Figure 3 — JUST RIGHT</span>  
 

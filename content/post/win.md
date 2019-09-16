@@ -20,11 +20,11 @@ LedgerPaper is the business name, but it will be followed by a “business unit�
 
 The company provides the following types of services: <span class="caps">SEC</span> Filings, Accounting Staffing/Screening, Audit Prep Work, Forecasting, Financial Modeling, Custom Excel Development, and Bookkeeping. Mike’s (LedgerPaper) clients need to see that he has experience in accounting from working inside a Fortune 500 company to feisty startup experience. He has taken a company to the New York Stock Exchange and has served as a corporate officer.  
 
-[![](http://www.airbagindustries.com/images/ledgerpaper_sm.jpg)](http://www.airbagindustries.com/images/ledgerpaper.jpg)**Ledger paper is real, it surrounds us…**  
+[![](https://www.airbagindustries.com/images/ledgerpaper_sm.jpg)](https://www.airbagindustries.com/images/ledgerpaper.jpg)**Ledger paper is real, it surrounds us…**  
 
 Mike was kind enough to describe what ledger paper is in a way only a loving accountant can:
 
-> [Ledger paper](http://www.airbagindustries.com/images/ledgerpaper.jpg) is specially ruled paper used by accountants before the proliferation of spreadsheets. I think the use of “LedgerPaper” as a brand invokes memories of a more trustworthy time in accounting — a time before Enron and Worldcom accounting fraud. Also, using ledger paper requires careful work, as it is all done by hand, and a miscalculation on a 13 column ledger paper requires the accountant to go back and “flow” through all the changes to subtotals and totals.
+> [Ledger paper](https://www.airbagindustries.com/images/ledgerpaper.jpg) is specially ruled paper used by accountants before the proliferation of spreadsheets. I think the use of “LedgerPaper” as a brand invokes memories of a more trustworthy time in accounting — a time before Enron and Worldcom accounting fraud. Also, using ledger paper requires careful work, as it is all done by hand, and a miscalculation on a 13 column ledger paper requires the accountant to go back and “flow” through all the changes to subtotals and totals.
 
 Dead sexy, eh?  
 

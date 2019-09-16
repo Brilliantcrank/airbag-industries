@@ -4,7 +4,7 @@ id: 3615
 date: Wed, 21 Sep 2005 16:13:12 +0000
 ---
 
-Just when I thought the local, state, and federal government had its head up its collective disaster management, I received an email from Bruce Lindsey, professor and co-director of [Rural Studio](http://www.airbagindustries.com/archives/008068.php). They are indeed working hard to respond to the damage done by Katrina:
+Just when I thought the local, state, and federal government had its head up its collective disaster management, I received an email from Bruce Lindsey, professor and co-director of [Rural Studio](https://www.airbagindustries.com/archives/008068.php). They are indeed working hard to respond to the damage done by Katrina:
 
 > “We are working through some ideas in addition to helping to repair houses in Hale County. The Rural Studio has also been contributing to a College wide effort. We are continuing with work, school wide and are also working with HUD to form an organization of 10 universities to bring their design and planning schools resources to bear on the problem from a bottom up perspective. It is being directed by an inspired White House fellow. I am optimistic.”
 

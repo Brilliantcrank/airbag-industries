@@ -24,7 +24,7 @@ To the vendors who support us all, don’t leave your customers and, ultimately,
 
 Let’s not go into this next year with blind enthusiasm or crushing anxiety, but with a great sense of kinsmanship and and eager promise. Let us all work together to do what we can to grow our network into a future titan of industry. One that contributes to the community and the economy, global and local.  
 
-Good luck to all of us in this coming year. If you have any questions or concerns, or you’re looking for good people to do great work [let me know](http://www.airbagindustries.com/contact.php). I’ll do what I can to help out.
+Good luck to all of us in this coming year. If you have any questions or concerns, or you’re looking for good people to do great work [let me know](https://www.airbagindustries.com/contact.php). I’ll do what I can to help out.
 
 
 

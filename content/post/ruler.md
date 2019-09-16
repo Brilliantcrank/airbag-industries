@@ -14,7 +14,7 @@ And then it dawned on me that any image can be placed in the background of almos
 
 
 
-<div style="width:402px;height:28px;background:url(http://www.airbagindustries.com/bucket/mini_tape.gif) no-repeat;"></div>[So here it is](http://www.airbagindustries.com/bucket/tape.gif.zip), here you have it, a simple image that can be applied as the background to most block level elements that will help you get an idea what’s going on between browsers and platforms without the need for another application. It has already saved me a bit of time and could do the same for you.
+<div style="width:402px;height:28px;background:url(https://www.airbagindustries.com/bucket/mini_tape.gif) no-repeat;"></div>[So here it is](https://www.airbagindustries.com/bucket/tape.gif.zip), here you have it, a simple image that can be applied as the background to most block level elements that will help you get an idea what’s going on between browsers and platforms without the need for another application. It has already saved me a bit of time and could do the same for you.
 
 
 

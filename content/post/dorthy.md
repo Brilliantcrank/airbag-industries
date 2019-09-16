@@ -4,7 +4,7 @@ id: 5886
 date: Tue, 11 Mar 2008 22:32:17 +0000
 ---
 
-I have a situation. [Ramses](http://www.airbagindustries.com/archives/airbag/found.php), our male cat, is uh, having problems containing his number-one game inside the rink. It all started months ago, suddenly and seemingly at random but as time has passed, and after a discussion with Bill the Cat Sitter (who has likely tended to more cats than the Egyptians did back when they built pointy buildings and walked around like they were all living in the game Lode Runner) it’s now apparent that this is has become regular thing.  
+I have a situation. [Ramses](https://www.airbagindustries.com/archives/airbag/found.php), our male cat, is uh, having problems containing his number-one game inside the rink. It all started months ago, suddenly and seemingly at random but as time has passed, and after a discussion with Bill the Cat Sitter (who has likely tended to more cats than the Egyptians did back when they built pointy buildings and walked around like they were all living in the game Lode Runner) it’s now apparent that this is has become regular thing.  
 
 Look, I know that cats age faster than humans but I didn’t think that after six years they turned into prunes with a need for a lap blanket and a colostomy bag. Still the problem exists and as there is no veterinary equivalent to House <span class="caps">M.D.</span> I am left to my own devices in coming up with a theory as to why this is happening.  
 

@@ -12,7 +12,7 @@ NOTES FROM THE COMMUTER TRAIN
 
 2. The train does not live by any schedule including the one published by the line. You would be kidding yourself if you think otherwise.  
 
-3. People who ride the train actually talk to one another. I’ve only witnessed this, not participated. (see [<span class="caps">INTROVERTSTER</span>](http://www.airbagindustries.com/introvertster))  
+3. People who ride the train actually talk to one another. I’ve only witnessed this, not participated. (see [<span class="caps">INTROVERTSTER</span>](https://www.airbagindustries.com/introvertster))  
 
 4. Using a trackpad on a laptop sucks, especially in the back of a 1970’s Buick.  
 

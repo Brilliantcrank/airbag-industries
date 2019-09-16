@@ -14,7 +14,7 @@ And speaking of navigating songs, I thought it would be a good idea to give pop 
 
 If only an iPod existed that would make lip syncing fool proof so we wouldn’t have to know that our musicians only pretend to sing live. And then we could go on with our lives without having to worry wether or not the person performing on television was lip syncing or not.  
 
-[That’s why I came up with the iPod Ashlee Simpson Karaoke Edition.](http://www.airbagindustries.com/bucket/ipod/)
+[That’s why I came up with the iPod Ashlee Simpson Karaoke Edition.](https://www.airbagindustries.com/bucket/ipod/)
 
 
 

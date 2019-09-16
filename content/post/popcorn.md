@@ -12,7 +12,7 @@ date: Tue, 26 Oct 2004 06:40:24 +0000
 
 
 
-<div class="caps" style="text-align: center;">Oxford Stateman</div>[Frankly, my dear, I don’t give a damn.](http://www.airbagindustries.com/images/damn.jpg)
+<div class="caps" style="text-align: center;">Oxford Stateman</div>[Frankly, my dear, I don’t give a damn.](https://www.airbagindustries.com/images/damn.jpg)
 
 
 

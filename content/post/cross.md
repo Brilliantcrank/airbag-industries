@@ -8,7 +8,7 @@ There are [six-hundred-and-eighty-three](http://panelpicker.sxsw.com/) proposal 
 
 How absolutely absurd.  
 
-[I didn’t like the crowdsourced voting last year](http://www.airbagindustries.com/archives/airbag/on.php) and with this astonishing amount of submissions I fail to see how the quality of the <span class="caps">SXSW</span> experience is going to improve. I heard a lot of complaints about the lack of quality in many of the panels so I don’t understand why the conference leadership is extending the program.  
+[I didn’t like the crowdsourced voting last year](https://www.airbagindustries.com/archives/airbag/on.php) and with this astonishing amount of submissions I fail to see how the quality of the <span class="caps">SXSW</span> experience is going to improve. I heard a lot of complaints about the lack of quality in many of the panels so I don’t understand why the conference leadership is extending the program.  
 
 The conference FAQ says:
 

@@ -6,7 +6,7 @@ date: Wed, 16 Jun 2004 19:23:50 +0000
 
 In approximately forty-eight hours the Rocket Scientist will don a black gown with orange colored cords and a funky hat — walk across a stage and become a Chemical Engineer.  
 
-[She is, without a doubt, the smartest, most talented and hard working person I have ever known.](http://www.airbagindustries.com/archives/002494.php) The Rocket Scientist could have easily mastered any other subject of study from culinary arts to biological science to civil engineering. Instead, She Who is Holy and True, took the road less traveled, by tackling the most difficult undergraduate degree in the modern university system.  
+[She is, without a doubt, the smartest, most talented and hard working person I have ever known.](https://www.airbagindustries.com/archives/002494.php) The Rocket Scientist could have easily mastered any other subject of study from culinary arts to biological science to civil engineering. Instead, She Who is Holy and True, took the road less traveled, by tackling the most difficult undergraduate degree in the modern university system.  
 
 For her the days have been long and the nights even longer. Only a Navy Seal could possibly know the stamina equal to that of my wife. She has also endured the pompous arrogance of some of the most self-appointed, high-and-mighty professors in the world, only to counter their endless pretentiousness with the highest marks possible.  
 

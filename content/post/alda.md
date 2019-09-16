@@ -4,7 +4,7 @@ id: 4533
 date: Mon, 10 Apr 2006 07:31:57 +0000
 ---
 
-Santos as President? Bah! According to this mornings NY Times [I called this “election” a year ago](http://www.airbagindustries.com/archives/007319.php) and [Vinick was supposed to be President Elect](http://www.nytimes.com/2006/04/10/arts/television/10wing.html).
+Santos as President? Bah! According to this mornings NY Times [I called this “election” a year ago](https://www.airbagindustries.com/archives/007319.php) and [Vinick was supposed to be President Elect](http://www.nytimes.com/2006/04/10/arts/television/10wing.html).
 
 > …the presidential election depicted last night on “The West Wing” on NBC would have had a different ending had it been held four months ago.  
 >

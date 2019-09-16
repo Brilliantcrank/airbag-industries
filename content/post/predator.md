@@ -16,7 +16,7 @@ Less than a week ago Obama said that we’re better than the last eight years an
 
 Not that Obama or any of his campaign people are going to read this but I’d like him to know that this kind of behavior—from the very core of his base—is not better than the last eight years, it’s not better than the last two-hundred and thiry-two years.  
 
-<span class="caps">REDACTION</span> Apparently I ragged way too early this morning when, in hindsight, [what I should have done was wait a few hours for a weird situation to get even more so.](http://www.airbagindustries.com/archives/airbag/mybad.php)
+<span class="caps">REDACTION</span> Apparently I ragged way too early this morning when, in hindsight, [what I should have done was wait a few hours for a weird situation to get even more so.](https://www.airbagindustries.com/archives/airbag/mybad.php)
 
 
 

@@ -8,7 +8,7 @@ Lots of chatter going around about Samuel Jackson’s career suicide mission whe
 
 I loved the [underground t-shirt](http://topatoco.com/snakes.htm) when it first appeared but it was always missing something. Last night it occurred to me what was needed to make it one-higher.  
 
-[![](http://www.airbagindustries.com/bucket/s_sotp.gif)](http://www.airbagindustries.com/bucket/sotp.gif)
+[![](https://www.airbagindustries.com/bucket/s_sotp.gif)](https://www.airbagindustries.com/bucket/sotp.gif)
 
 
 

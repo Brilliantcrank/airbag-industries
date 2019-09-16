@@ -12,7 +12,7 @@ Should diplomacy fail, this website will no longer be found at the current addre
 
 Hold no ill-will towards our fellow brethren in the North. They are good people and are entitled to their laws and the enforcement thereof.  
 
-Today I ask for your help in spreading word of an address change. If you will, please add a link to Airbag (or change the current one) with the new address, [airbagindustries.com](http://www.airbagindustries.com), to your website, blog, miniblog, <span class="caps">RSS</span> feed. Or paint it on the side of your car, that works too. By doing so it may be possible to squash future rumors of my demise and put an end to ‘page not found’ errors.  
+Today I ask for your help in spreading word of an address change. If you will, please add a link to Airbag (or change the current one) with the new address, [airbagindustries.com](https://www.airbagindustries.com), to your website, blog, miniblog, <span class="caps">RSS</span> feed. Or paint it on the side of your car, that works too. By doing so it may be possible to squash future rumors of my demise and put an end to ‘page not found’ errors.  
 
 It has been my pleasure to entertain you over these many years and I look forward to many more. Thank you for the support many of you have already shown.  
 

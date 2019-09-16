@@ -14,7 +14,7 @@ Oh, and be sure to include the <span class="caps">URL</span> to your own website
 
 <span class="caps">UPDATE</span>: Submissions have started to come in from Australia, United Kingdom and various time zones across the <span class="caps">US</span>. For example:  
 
-![](http://www.airbagindustries.com/bucket/24/24hrAirbag_thejamjar.jpg)  
+![](https://www.airbagindustries.com/bucket/24/24hrAirbag_thejamjar.jpg)  
 
 This lovely photo comes form Michelle Park who writes [The Jam Jar](http://thejamjar.com/) and lives in <span class="caps">GMT</span> +10 hours.  
 

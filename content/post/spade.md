@@ -4,7 +4,7 @@ id: 2325
 date: Wed, 05 Jan 2005 22:34:19 +0000
 ---
 
-[![](http://www.airbagindustries.com/images/help_88x31.gif)](http://s1.amazon.com/exec/varzea/ts/my-pay-page/PX3BEL97U9A4I) Russ, who is a friend and great former boss, [made a comment tonight](http://www.airbagindustries.com/archives/006837.php#15539) that is likely to get buried in the other responses of my previous post. After reading it I felt like what he said deserved better exposure.
+[![](https://www.airbagindustries.com/images/help_88x31.gif)](http://s1.amazon.com/exec/varzea/ts/my-pay-page/PX3BEL97U9A4I) Russ, who is a friend and great former boss, [made a comment tonight](https://www.airbagindustries.com/archives/006837.php#15539) that is likely to get buried in the other responses of my previous post. After reading it I felt like what he said deserved better exposure.
 
 > While all this banter about motivations and political aspirations is mildly amusing, it misses the main point… 150,000 and counting died, and hundreds of thousands need help now.  
 > 

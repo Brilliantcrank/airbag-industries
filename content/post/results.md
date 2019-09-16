@@ -4,7 +4,7 @@ id: 4808
 date: Wed, 31 May 2006 02:21:48 +0000
 ---
 
-It’s been a very quick thirteen days since I brought the DarthBook home, oh where has the time gone? As promised, here are a few more notes on the performance and durability of the new MacBook in response to questions that have come in from my [last post on the subject](http://www.airbagindustries.com/archives/009268.php).  
+It’s been a very quick thirteen days since I brought the DarthBook home, oh where has the time gone? As promised, here are a few more notes on the performance and durability of the new MacBook in response to questions that have come in from my [last post on the subject](https://www.airbagindustries.com/archives/009268.php).  
 
 I have yet to see any wear or tear on the black case and I see no evidence of chipping of flaking of any kind. I should state that I treat my things, laptops included, with the upmost care and that could make all the difference. I suppose time will tell but my guess is that if you don’t bang it around or pick at it, the black matte finish will last for a long, long time.  
 

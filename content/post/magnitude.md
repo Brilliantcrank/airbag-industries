@@ -20,7 +20,7 @@ I have been monitoring these sites for better information than what the American
 
 [WorldChanging](http://www.worldchanging.com/) has first person accounts from their members living in the affected areas. Their coverage seems to be in harmony with the <span class="caps">SEA-EAT</span> blog.  
 
-[2004 Indian Ocean earthquake Wikipedia entry.](http://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake) Great place to start for basic information about the event and regions affected including [a spectacular animation of the Tsunami’s course](http://en.wikipedia.org/wiki/Image:2004_Indonesia_Tsunami.gif). With it you can really see how Sri Lanka took a huge direct hit.</div>If you come across other resources [please let me know](http://www.airbagindustries.com/contact.php).
+[2004 Indian Ocean earthquake Wikipedia entry.](http://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake) Great place to start for basic information about the event and regions affected including [a spectacular animation of the Tsunami’s course](http://en.wikipedia.org/wiki/Image:2004_Indonesia_Tsunami.gif). With it you can really see how Sri Lanka took a huge direct hit.</div>If you come across other resources [please let me know](https://www.airbagindustries.com/contact.php).
 
 
 

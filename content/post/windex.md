@@ -4,7 +4,7 @@ id: 799
 date: Tue, 11 Nov 2003 14:25:27 +0000
 ---
 
-![](http://www.airbagindustries.com/images/rocketscience.gif)  
+![](https://www.airbagindustries.com/images/rocketscience.gif)  
 
 <span class="caps">**FIGURE 1.** NOT SURE WHAT THIS MEANS BUT IT HURTS MY HEAD.</span>  
 

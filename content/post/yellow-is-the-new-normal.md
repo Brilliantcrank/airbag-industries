@@ -4,7 +4,7 @@ id: 5992
 date: Mon, 06 Feb 2017 08:21:17 +0000
 ---
 
-Roughly fifteen years to the day, I published the [fourth blog post](http://www.airbagindustries.com/archives/airbag/superbore_sunda.php) on Airbag. It was a quick reaction to an exciting game Super Bowl between the St. Louis Rams and the New England Patriots. The Rams mounted a last-minute comeback that was surely going to force the game into overtime, but with one minute and thirty seconds on the clock, Tom Brady drove the team within field goal range, and the Patriots added three points to their scorecard and one the game.  
+Roughly fifteen years to the day, I published the [fourth blog post](https://www.airbagindustries.com/archives/airbag/superbore_sunda.php) on Airbag. It was a quick reaction to an exciting game Super Bowl between the St. Louis Rams and the New England Patriots. The Rams mounted a last-minute comeback that was surely going to force the game into overtime, but with one minute and thirty seconds on the clock, Tom Brady drove the team within field goal range, and the Patriots added three points to their scorecard and one the game.  
 
 The year was 2002, and everyone was still trying to process 9/11 and the aftermath–we were still processing shock. Due to national security concerns, the NFL season was pushed by a week while the country considered what security precautions were necessary for events like football games were potential future attacks could occur. Thus, the Super Bowl XXXVI was the first NFL game to be played in February.  
 

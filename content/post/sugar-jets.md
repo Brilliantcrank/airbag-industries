@@ -8,7 +8,7 @@ I am having communication problems with the good people of Canada. There is a pr
 
 The domain you all know and love may come to an abrupt end if I am unable to break the language barrier and smoke a peace pipe. Otherwise it’s curtains for this Canadian domain.  
 
-Should that unfortunate event occur you can find this site via a new domain: [airbagindustries.com](http://www.airbagindustries.com "New domain name! Tell everyone you know!") — an address I had set aside for an entirely different purpose, to be announced at a later date.
+Should that unfortunate event occur you can find this site via a new domain: [airbagindustries.com](https://www.airbagindustries.com "New domain name! Tell everyone you know!") — an address I had set aside for an entirely different purpose, to be announced at a later date.
 
 
 

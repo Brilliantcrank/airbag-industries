@@ -8,13 +8,13 @@ Is it news to anyone else that WordPress, Inc. has ceased to exist?
 
 I was under the impression that six months ago the application had reached a milestone of success that enabled Matt Mullenweg and Jonas Luster to form the corporation [WordPress, Inc.](http://www.wordpress.com)  
 
-Yesterday, Matt (known to many as photomatt) [posted this comment](http://www.airbagindustries.com/archives/008150.php#17782) in response to my entry criticizing the lack of design in the WordPress application and online presence:
+Yesterday, Matt (known to many as photomatt) [posted this comment](https://www.airbagindustries.com/archives/008150.php#17782) in response to my entry criticizing the lack of design in the WordPress application and online presence:
 
 > Greg, Jonas Luster is not associated with WordPress, there is no company called WordPress Inc.
 
 Pourquoi?  
 
-I must admit that I don’t follow every step of the WordPress community and after reading Matt’s comment I thought I had missed some big announcement but this appears to be new to others as well. In response to Matt’s casual announcement, [Bradley Sepos writes](http://www.airbagindustries.com/archives/008150.php#17783):
+I must admit that I don’t follow every step of the WordPress community and after reading Matt’s comment I thought I had missed some big announcement but this appears to be new to others as well. In response to Matt’s casual announcement, [Bradley Sepos writes](https://www.airbagindustries.com/archives/008150.php#17783):
 
 > …I have to ask you, what has become of WordPress, Inc.? Or does the company to which I refer go by another name? [I *watched* you on a stage announce this company!](http://theryanking.com/blog/archives/2005/03/23/a-wordpress-announcement) I was in another state, but I saw the video, and it was your face up there.  
 > 

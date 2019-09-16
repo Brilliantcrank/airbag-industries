@@ -22,7 +22,7 @@ That includes the following statement:
 
 Airbag Industries is a full-service provider of web services from information architecture to design and development to deployment. The company is based in Aliso Viejo, California with offices in Raleigh, North Carolina and Cambridge, Massachusetts.  
 
-Press may [contact](http://www.airbagindustries.com/contact.php) Greg Storey, Principal, Airbag Industries for more information or to inquire how people can wire money directly into Airbag’s international accounts. </div>It’s hard to convey how very cool it is to hand-select the people you get to work with. Both [Ryan](http://www.ryanirelan.com) and [Ethan](http://www.sidesh0w.com) bring their A-game to the job every day and continue to add to the Airbag culture. I’m the lucky one, that much I know.  
+Press may [contact](https://www.airbagindustries.com/contact.php) Greg Storey, Principal, Airbag Industries for more information or to inquire how people can wire money directly into Airbag’s international accounts. </div>It’s hard to convey how very cool it is to hand-select the people you get to work with. Both [Ryan](http://www.ryanirelan.com) and [Ethan](http://www.sidesh0w.com) bring their A-game to the job every day and continue to add to the Airbag culture. I’m the lucky one, that much I know.  
 
 So now we are three and our kung-fu is unbelievably strong. And yet despite this growth I have a feeling we’re going to need more ninjas real soon.
 

@@ -57,4 +57,4 @@ From now until 28 February, Airbag readers get fifteen percent off [FontBook](ht
 
 To get the special price use code <span class="caps">AIRBAGGERY</span> when purchasing FontBook and code <span class="caps">AIRBAGFF</span> when purchasing Made with FontFont.  
 
-And that’s it, I am spent. Perhaps one day I shall make my own Uncrate for things related to online design so that this kind of excitement happens all year. For now I shall retire my clerks apron and get back to [work in the mines](http://www.airbagindustries.com/book).
+And that’s it, I am spent. Perhaps one day I shall make my own Uncrate for things related to online design so that this kind of excitement happens all year. For now I shall retire my clerks apron and get back to [work in the mines](https://www.airbagindustries.com/book).

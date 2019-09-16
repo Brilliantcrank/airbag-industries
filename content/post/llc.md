@@ -10,7 +10,7 @@ About a month ago I received some email with questions about how Airbag got star
 > 
 > Well, I’d love to be able to say that yes my name, this Airbag brand, had reached such great heights that I had to leave the day job but that wasn’t necessarily the case.  
 > 
-> Almost two years ago I left employment because my wife and I had decided to move out of state. Then quite suddenly we reversed that decision and I found myself at a good time in life to take what money I had saved for a rainy day—not much mind you—and turn Airbag into a corporation ([read about it in now-agonizing detail](http://www.airbagindustries.com/archives/airbag/reboot.php)). That said, years of writing about design, web standards, iced lattes led to the creation of a brand that definitely helped make that transition from employee to principal a lot easier.  
+> Almost two years ago I left employment because my wife and I had decided to move out of state. Then quite suddenly we reversed that decision and I found myself at a good time in life to take what money I had saved for a rainy day—not much mind you—and turn Airbag into a corporation ([read about it in now-agonizing detail](https://www.airbagindustries.com/archives/airbag/reboot.php)). That said, years of writing about design, web standards, iced lattes led to the creation of a brand that definitely helped make that transition from employee to principal a lot easier.  
 > 
 > Another factor in that decision making process was a large group of family and friends who all thought it was time that I started my own company. Their excitement and enthusiasm was the icing on the cake and what finally convinced me to go out on my own.  
 > 
@@ -64,7 +64,7 @@ About a month ago I received some email with questions about how Airbag got star
 > 
 > I guess. If you don’t have work already coming in then I don’t see the sense in starting a business. Marketing and sales should only be brought in when you have the infrastructure to handle success. I want to add a sales process to Airbag sometime in the Fall to see how that might work for this type of company. Otherwise we’ll continue to enhance the methods we currently use to get the Airbag brand name out there (read: networking, writing, paying off the Federalizes, and making good use of an army of ninjas) until that’s tapped dry.
 
-If you have more questions about Airbag, the business of web design/development, or getting started [feel free to ask](http://www.airbagindustries.com/contact.php).
+If you have more questions about Airbag, the business of web design/development, or getting started [feel free to ask](https://www.airbagindustries.com/contact.php).
 
 
 

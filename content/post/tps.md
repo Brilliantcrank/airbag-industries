@@ -4,7 +4,7 @@ id: 4827
 date: Sun, 04 Jun 2006 08:31:09 +0000
 ---
 
-In response to my last rant pertaining developers and their curious ability to mangle turn-key templates into a train wreck [Mike writes](http://www.airbagindustries.com/archives/009360.php#19456):
+In response to my last rant pertaining developers and their curious ability to mangle turn-key templates into a train wreck [Mike writes](https://www.airbagindustries.com/archives/009360.php#19456):
 
 > If it came out butchered, they probably realized there wasn’t enough time and scrambled to finish whatever they were doing.
 

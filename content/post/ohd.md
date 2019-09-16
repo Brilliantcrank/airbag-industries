@@ -8,7 +8,7 @@ I suppose when you agree to subsidize the cost of a popular consumer product it 
 
 Ten to twelves minutes, per phone! Does anyone remember bread lines?  
 
-![](http://www.airbagindustries.com/images/line.jpg)  
+![](https://www.airbagindustries.com/images/line.jpg)  
 
 Whereas standing in line for a new Apple product in the past usually only took a few hours, this arrangement will usher in a new era of Soviet style queueing. Nevermind that last year I was able to activate it in three minutes in the comfort of my own home. Tens of thousands of us did this without any problems, but maybe that was just a fluke. After-all none of us are fully trained expert technicians who are skilled in the ways of turning a phone on for the first time. Only <span class="caps">AT&T</span> can provide that kind of experience and know-how.  
 

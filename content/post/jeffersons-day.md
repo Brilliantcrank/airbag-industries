@@ -8,7 +8,7 @@ Today marks the 228th birthday of the United States of America and I can think o
 
 
 
-<div style="float: right; padding-left: 8px;">![](http://www.airbagindustries.com/bucket/vote.jpg)</div>If you are not registered to vote, then [get off your complacent apathetic rear-end and fill out the form](https://electionimpact.votenet.com/declareyourself). This November is way too important for the masses to sit back and watch others take action — no matter what side of the fence you’re on.
+<div style="float: right; padding-left: 8px;">![](https://www.airbagindustries.com/bucket/vote.jpg)</div>If you are not registered to vote, then [get off your complacent apathetic rear-end and fill out the form](https://electionimpact.votenet.com/declareyourself). This November is way too important for the masses to sit back and watch others take action — no matter what side of the fence you’re on.
 
 
 

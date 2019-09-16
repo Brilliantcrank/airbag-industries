@@ -4,7 +4,7 @@ id: 5961
 date: Tue, 14 Aug 2012 15:40:04 +0000
 ---
 
-![](http://www.airbagindustries.com/bucket/airbaguncrate.jpg)  
+![](https://www.airbagindustries.com/bucket/airbaguncrate.jpg)  
 
 <span class="caps">GARB: BROOKLYN BETA</span>/>  
 

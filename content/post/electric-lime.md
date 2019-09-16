@@ -4,7 +4,7 @@ id: 1537
 date: Fri, 30 Jul 2004 10:43:49 +0000
 ---
 
-It’s not secret that on a regular routine [I have Vietnamese people rip hair off my forehead](http://www.airbagindustries.com/archives/002212.php), right between the eyes. I’ve been doing this long enough now to know that having it done professionally is the far superior option to the DIY solution. It’s not like I have a vat of wax doo-hicky constantly set at the right temperature and bubbling for optimum follicle removal.  
+It’s not secret that on a regular routine [I have Vietnamese people rip hair off my forehead](https://www.airbagindustries.com/archives/002212.php), right between the eyes. I’ve been doing this long enough now to know that having it done professionally is the far superior option to the DIY solution. It’s not like I have a vat of wax doo-hicky constantly set at the right temperature and bubbling for optimum follicle removal.  
 
 Still I have to say that eyebrow waxing has to be one of the best rackets in the modern world. For three minutes worth of labor I pay $10 plus tip — keep in mind I live in Southern California where even hour pets are tipped on your way out the door. I figure doing this full time a person can earn up to $1000-1200 a day (that’s about 7 hours of actual billable waxing time).  
 

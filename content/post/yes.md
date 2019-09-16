@@ -12,7 +12,7 @@ Benjamin Adam, inspired and agitated by comments for the design competition, too
 
 As [Andy](http://www.waxy.org) (who originally found Ben’s entry) told me this morning, the short answer to Ben’s question is: yes. Gee, who woulda thunk it?  ”
 
-As a side note to all of this, after going through all the comments left in response to [‘Win’](http://www.airbagindustries.com/archives/006882.php) I find it interesting that most of those who are opposed to this contest seem to be print designers, or have deep roots in the print world. Whereas persons who like or don’t mind the idea of a contest are mostly web or interactive designers.  
+As a side note to all of this, after going through all the comments left in response to [‘Win’](https://www.airbagindustries.com/archives/006882.php) I find it interesting that most of those who are opposed to this contest seem to be print designers, or have deep roots in the print world. Whereas persons who like or don’t mind the idea of a contest are mostly web or interactive designers.  
 
 In my experience there has always been a large gap between the two disciplines (print vs. web) and I continue to wonder if the Hatfields and McCoys will ever get along.
 
