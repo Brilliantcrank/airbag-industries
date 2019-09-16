@@ -9,10 +9,9 @@
       {{ $current := . }}      
       
       {{ range .Site.Menus.navlinks }}
-        
         {{ $active := or ($current.IsMenuCurrent "navlinks" .) ($current.HasMenuCurrent "navlinks" .) }}
-        {{ $active = or $active (eq .Name $current.Title) }}
-        {{ $active = or $active (and (eq .Name "Blog") (eq $current.Section "post")) }}
+        {{ $active = or $active (eq .Identifier $current.Slug) }}
+        {{ $active = or $active (and (eq .Name "Archives") (eq $current.Section "post")) }}
         <li{{if $active }} class='active'{{ end }}>
             <a href="{{ .URL }}">{{ .Name }}</a>
         </li>

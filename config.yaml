@@ -7,7 +7,7 @@ params:
   DateForm: "2 January '06"
 
 permalinks:
-  post: /archive/:slug/
+  post: /archive/:filename/
 
 menu:
   navlinks:
