@@ -4,7 +4,7 @@ id: 116
 date: Fri, 20 Sep 2002 10:47:19 +0000
 ---
 
-![](http://www.gregstorey.com/airbag/images/freefries.gif)  
+![](https://www.gregstorey.com/airbag/images/freefries.gif)  
 
 This is so wrong in so many ways: violent murder victims being ‘honored’ with free french fries, a $1.29 value.  
 

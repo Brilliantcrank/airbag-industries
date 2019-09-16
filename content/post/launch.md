@@ -18,7 +18,7 @@ Built using tried and true technologies, I “re-engineered” the code from all
 
 <div align="center" class="">**MiX v.000965c23** — Fundamental Layers  
 
-![](http://www.gregstorey.com/airbag/images/appmap.gif)</div>**Blue/Interface** — Mix will be fully compatible with Macintosh and Windows via the Netscpae 4.67 interface that was specially created by myself and a round-the-clock engineer group at Netscape. More importanty, with MiX, Nintendo Gamecube players will now be able to blog and share their favorite game codes, screen captures, and software via our beautiful liquid-like user interface also known as Auga (that’s spanish for water).  
+![](https://www.gregstorey.com/airbag/images/appmap.gif)</div>**Blue/Interface** — Mix will be fully compatible with Macintosh and Windows via the Netscpae 4.67 interface that was specially created by myself and a round-the-clock engineer group at Netscape. More importanty, with MiX, Nintendo Gamecube players will now be able to blog and share their favorite game codes, screen captures, and software via our beautiful liquid-like user interface also known as Auga (that’s spanish for water).  
 
 **Yellow/”Re-Engineered”** — MiX is born from the leading “best of” category in current weblog software. As God made Eve from Adam, so has MiX been made from all the cool features of these applications. My lawyer says that if you want more information about this layer please get a hold of him.  
 

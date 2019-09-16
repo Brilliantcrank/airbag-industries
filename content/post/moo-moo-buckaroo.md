@@ -4,7 +4,7 @@ id: 1113
 date: Fri, 26 Mar 2004 09:45:44 +0000
 ---
 
-![](http://www.airbag.ca/images/garst.gif)  
+![](https://www.airbag.ca/images/garst.gif)  
 
 It’s Friday, and a slow one at that.  
 

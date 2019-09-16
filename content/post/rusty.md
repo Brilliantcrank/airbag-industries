@@ -16,9 +16,9 @@ I’d say a good deal of us are as busy as we want to be, some of us are even bu
 
 
 
-<div style="float:right;padding:0 0 8px 16px;">[![](http://airbagindustries.com/wsdd/_img/wsdd.gif)](http://airbagindustries.com/wsdd)</div> A little more than twenty-four hours ago, while accepting requests to network on LinkedIn it occurred to me that we, as in industry, really ought to form a closer link to one another. We need to take advantage of that application and start paying attention to those around us who share our abilities; our desire to improve our craft and build a better, stronger industry. That doesn’t mean we’re all going to become Internet <span class="caps">BFF</span> but if executed properly this group can serve as a large platform for improving our craft, beyond the digital tools we use.  
+<div style="float:right;padding:0 0 8px 16px;">[![](https://www.airbagindustries.com/wsdd/_img/wsdd.gif)](https://www.airbagindustries.com/wsdd)</div> A little more than twenty-four hours ago, while accepting requests to network on LinkedIn it occurred to me that we, as in industry, really ought to form a closer link to one another. We need to take advantage of that application and start paying attention to those around us who share our abilities; our desire to improve our craft and build a better, stronger industry. That doesn’t mean we’re all going to become Internet <span class="caps">BFF</span> but if executed properly this group can serve as a large platform for improving our craft, beyond the digital tools we use.  
 
-The purpose of the [Web Standards Design + Development](http://airbagindustries.com/wsdd/) group is to form a strong network of individuals who have taken the initiative to become craftsmen of their trade. [I hope you’ll join.](http://www.linkedin.com/e/gis/91930/3D086F5D2272)
+The purpose of the [Web Standards Design + Development](https://www.airbagindustries.com/wsdd/) group is to form a strong network of individuals who have taken the initiative to become craftsmen of their trade. [I hope you’ll join.](http://www.linkedin.com/e/gis/91930/3D086F5D2272)
 
 
 

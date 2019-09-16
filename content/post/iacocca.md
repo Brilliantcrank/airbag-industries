@@ -14,7 +14,7 @@ At this years North American International Auto Show, Ford promised a “[produc
 
 The [Ford GT](http://www.fordvehicles.com/autoshow/upandcoming/gt/index.asp?bhcp=1) was brought back from retirement to attract (I assume) car collectors and people with a small penis. The new GT is visually stunning but we’ve seen this already — back in 1966.  
 
-![](http://www.airbag.ca/bucket/gt.jpg)  
+![](https://www.airbag.ca/bucket/gt.jpg)  
 
 Automotive design has come along way from the 1960’s yet Ford has simply cloned a former model. I can’t imagine how many design students and auto engineers could have come up with something better. Not in the manner that the Corvette and Thunderbird was massacred in the 1970’s and 80’s but at least put some tail fins on the damn thing, or use a different color racing stripe.  
 
@@ -22,7 +22,7 @@ It’s 2005 — time to move on and come up with new ideas. Where is the innovat
 
 The new [Ford Five Hundred](http://www.fordvehicles.com/autoshow/upandcoming/fivehundred/index.asp?bhcp=1) is a mid-size sedan that Slate magazine calls, “[the] [car that’s supposed to save ford](http://www.slate.com/id/2094068/).” With such an important job the Five Hundred should be quite a head turner. Instead it’s a Taurus crammed into a package that is a complete visual knock-off of the Audi A4 and Volkswagen Passat.  
 
-![](http://www.airbag.ca/bucket/hittheford.gif)  
+![](https://www.airbag.ca/bucket/hittheford.gif)  
 
 This is not by accident. In 1997, Ford hired auto designer [J Mays](http://www.designmuseum.org/designerex/j-mays.htm), who designed vehicles for Audi, BMW, and Volkswagen — where he designed the new VW Bug. Personally I like the look of this car but when comparing the list of features and quality of the Five Hundred next to an Audi or Volkswagen, it fails to compete. This model will only serve those people who feel the need to support American manufacturing but want to drive a car that looks more sophisticated than their cousin’s Pontiac Grand Prix.  
 

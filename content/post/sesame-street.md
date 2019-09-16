@@ -8,7 +8,7 @@ By now mostly everyone should be aware of the [awful situation in Fullujah, Iraq
 
 It’s sad and awful. But don’t cry, because sunshine is right around the corner.  
 
-![](http://www.airbag.ca/images/iraqolympicssymbols.gif)Just one day after the Fullujah uprising, Paul Bremer, The Administrator for the Coalition Provisional Authority or what I like to call “Puerto Rico of the Middle East,” was busy with another kind of liberation problem, [the future of Iraq’s Olympic Team](http://www.cpa.gov/pressreleases/20040403_olympic.html).
+![](https://www.airbag.ca/images/iraqolympicssymbols.gif)Just one day after the Fullujah uprising, Paul Bremer, The Administrator for the Coalition Provisional Authority or what I like to call “Puerto Rico of the Middle East,” was busy with another kind of liberation problem, [the future of Iraq’s Olympic Team](http://www.cpa.gov/pressreleases/20040403_olympic.html).
 
 > "Today's Olympic ceremony is truly another reminder that Iraq is back," said Ambassador Bremer. "Around the world, sport is a powerful and expedient way to transcend the many boundaries often created by complex issues like politics, race and gender equity. The recent success of the Iraqi Olympic Movement is a clear indication that people of Iraq have tremendous pride in their national identity and their ability to stand shoulder-to-shoulder with the world's greatest athletes on the Olympic stage. We are proud of them and wish them great success, under their new logo, in Athens."
 

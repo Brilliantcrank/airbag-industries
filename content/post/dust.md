@@ -20,7 +20,7 @@ Instead of drafting prose I spent a considerable amount of time in Photoshop tin
 
 As a result, [I posted this earlier to Dribbble today](http://dribbble.com/shots/368942-Float).  
 
-[![](http://dribbble.com/system/users/9/screenshots/368942/ayh.gif?1325454050)](http://dribbble.com/shots/368942-Float)  
+[![](https://dribbble.com/system/users/9/screenshots/368942/ayh.gif?1325454050)](http://dribbble.com/shots/368942-Float)  
 
 It is a sneak peek at what’s coming and soon. It’s not going to turn any heads. I could give a damn if it did but I’m happy with it and ready to move on. If anything I’ll beat Gruber with launching his redesign. That achievement ought to earn a few mojitos at the local realtors cougar bar.  
 

@@ -4,7 +4,7 @@ id: 5965
 date: Wed, 22 Jan 2014 11:41:59 +0000
 ---
 
-![](http://airbaginternational.com/images/dusty.gif)
+![](https://airbaginternational.com/images/dusty.gif)
 
 Fig. 1—The administrator panel as seen by the Airbag Dept. of Publishing
 

@@ -4,7 +4,7 @@ id: 5942
 date: Wed, 10 Feb 2010 12:24:28 +0000
 ---
 
-![](http://3.bp.blogspot.com/_nHk4eRE8Qbc/SBDsPJq0jYI/AAAAAAAAAtk/PG6f8jaK3n4/s400/tustinlta.jpg)  
+![](https://3.bp.blogspot.com/_nHk4eRE8Qbc/SBDsPJq0jYI/AAAAAAAAAtk/PG6f8jaK3n4/s400/tustinlta.jpg)  
 
 Time for a quick history lesson about the [Marine Corps Air Station Tustin](http://en.wikipedia.org/wiki/Marine_Corps_Air_Station_Tustin):
 
