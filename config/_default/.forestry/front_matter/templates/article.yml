@@ -2,6 +2,22 @@
 label: Article
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: Article title, appears at the top of the article and in the HTML title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Meta Description
+  description: Custom meta description, used for search and social summaries
 - name: date
   type: datetime
   label: Date

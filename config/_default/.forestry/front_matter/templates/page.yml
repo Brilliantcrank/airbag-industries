@@ -1,0 +1,18 @@
+---
+label: Page
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: Appears at the top of a page and in the HTML title element
+- type: text
+  name: page_title
+  label: Page Title
+  description: Override the title in the HTML title element
+- type: text
+  name: description
+  label: Meta Description
+  description: Custom meta description, used for search and social summaries

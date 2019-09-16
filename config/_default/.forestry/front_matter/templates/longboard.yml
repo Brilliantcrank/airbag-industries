@@ -1,7 +1,13 @@
 ---
 label: Longboard
-hide_body: true
+hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: Link title, appears on the home page list
 - name: target_url
   type: text
   config:
@@ -17,3 +23,5 @@ fields:
     time_format: 
     display_utc: false
   label: Date
+pages:
+- content/longboard/another-external-link-goes-here.md
