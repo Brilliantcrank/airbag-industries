@@ -1,6 +1,0 @@
----
-title: This guy built my site
-target_url: https://plasticmind.com
----
-
-Here's what's going to happen. I'm gonna read this, and you're gonna listen, and you're gonna stay on the line. And you're not gonna interrupt, and you're not gonna speak for any reason. Some of this you know. I'm gonna start at the top of the page. Meticulous, yes. Methodical, educated; they were these things. Nothing extreme. Like anyone, they varied. There were days of mistakes and laziness and in-fighting, and there were days, good days, when by anyone's judgment they would have to be considered clever. No one would say that what they were doing was complicated. It wouldn't even be considered new, except for maybe in the geological sense. They took from their surroundings what was needed and made of it something more.
