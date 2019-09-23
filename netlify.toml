@@ -1,0 +1,6 @@
+# Config for Netlify
+
+# Redirect for legacy permalinks
+[[redirects]]
+  from = "/archives/airbag/*.php"
+  to = "/:splat"
