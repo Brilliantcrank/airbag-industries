@@ -8,4 +8,3 @@ menu:
     name: Home
     weight: 1
 ---
-First shalt thou take out the Holy Pin, then shalt thou count to three, no more, no less. Three shall be the number thou shalt count, and the number of the counting shall be three.
