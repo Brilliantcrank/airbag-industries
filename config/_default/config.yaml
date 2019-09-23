@@ -10,7 +10,7 @@ params:
   languageCode: en-us
   
 permalinks:
-  post: /archive/:filename/
+  post: /:filename/
 
 menu:
   navlinks:
