@@ -13,11 +13,6 @@
   from = "/images/*"
   to = "/uploads/:splat"
 
-# Test redirect
-[[redirects]]
-  from = "/foo/"
-  to = "/archive/"
-
 # Test redirect 2
 [[redirects]]
   from = "/foobar/*"
