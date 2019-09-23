@@ -11,4 +11,4 @@ menu:
     weight: 2
 ---
 
-**This is preliminary text that gets appended to the archive page.** Add whatever you'd like here, or just remove it altogether.
+This is preliminary text that gets appended to the archive page. Add whatever you'd like here, or just remove it altogether.

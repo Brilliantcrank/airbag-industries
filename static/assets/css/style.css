@@ -129,7 +129,12 @@ ul.nobullets li {
   font-size: 17px;
   line-height: 21px;
   }    
-   
+.article-title-description {
+  margin-bottom: 48px;
+  font-style: italic;
+  font-size: 133%;
+  line-height: 1.33;
+}
 .article h1 {
   font-family: var(--primary-sans-font);
   font-size: 20px;

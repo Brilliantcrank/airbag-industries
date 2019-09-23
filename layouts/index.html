@@ -1,6 +1,14 @@
 {{ define "main" }}
 
-	{{ .Content }}
+	{{ if .Content }}
+	<article class="article" itemscope="" itemtype="http://schema.org/CreativeWork">
+		<div class="article-title-description" itemprop="text">
+			{{ .Content }}
+		</div>
+	</article>
+	{{ end }}
+	
+
 	<div class="page">
 
 		{{ $pag := .Paginate (where .Site.RegularPages "Type" "in" (slice "post" "longboard")) }}
