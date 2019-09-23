@@ -4,3 +4,13 @@
 [[redirects]]
   from = "/archives/airbag/*.php"
   to = "/:splat"
+
+# Test redirect
+[[redirects]]
+  from = "/foo/"
+  to = "/archive/"
+
+# Test redirect 2
+[[redirects]]
+  from = "/foobar/*"
+  to = "/:splat"
