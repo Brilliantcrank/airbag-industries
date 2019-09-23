@@ -1,4 +1,4 @@
 # Config for Netlify
 
 # Redirects for legacy permalinks
-/archives/airbag/*.php        /:splat       301
+/archives/airbag/*.php        :splat       301
