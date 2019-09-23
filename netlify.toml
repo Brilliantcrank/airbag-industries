@@ -5,6 +5,14 @@
   from = "/archives/airbag/*.php"
   to = "/:splat"
 
+# Redirect for legacy media
+[[redirects]]
+  from = "/bucket/*"
+  to = "/uploads/:splat"
+[[redirects]]
+  from = "/images/*"
+  to = "/uploads/:splat"
+
 # Test redirect
 [[redirects]]
   from = "/foo/"
