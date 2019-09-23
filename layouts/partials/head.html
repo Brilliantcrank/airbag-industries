@@ -11,16 +11,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    
-    {{ if .Description }}
-    <meta name="description" content="{{ .Description }}">
-    {{ else if eq .Section "post" }}
-    <meta name="description" content="{{ .Summary | plainify }}">
-    {{ else }}
-    <meta name="description" content="{{ .Site.Params.SiteDescription }}">
-    {{ end }}
 
+    {{ template "_internal/schema.html" . }}
     {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
 
     {{ with .OutputFormats.Get "RSS" -}}
       {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
