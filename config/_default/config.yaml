@@ -1,5 +1,5 @@
 title: Airbag Industries
-baseURL: http://localhost:1313/
+baseURL: https://localhost:1313/
 
 params:
   author: Greg Storey
@@ -16,19 +16,19 @@ menu:
   navlinks:
   - identifier: subscribe
     name: Subscribe
-    url: http://feeds.feedburner.com/airbag
+    url: https://feeds.feedburner.com/airbag
     weight: 5
   sociallinks:
   - name: Twitter
-    url: 'http://twitter.com/Brilliantcrank'
+    url: 'https://twitter.com/Brilliantcrank'
   - name: Instagram
-    url: 'http://instagram.com/Brilliantcrank'
+    url: 'https://instagram.com/Brilliantcrank'
   - name: Medium
     url: 'https://medium.com/@Brilliantcrank'
   - name: Flickr
-    url: 'http://www.flickr.com/photos/brilliantcrank'
+    url: 'https://www.flickr.com/photos/brilliantcrank'
   - name: Dribbble
-    url: 'http://www.dribbble.com/players/Brilliantcrank'
+    url: 'https://www.dribbble.com/players/Brilliantcrank'
   - name: Playstation
     url: 'https://www.playstation.com/en-us/my/public-trophies/?onlinename=Brilliantcrank'
   worklinks:
