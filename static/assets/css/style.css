@@ -326,11 +326,9 @@ a:visited {
   border: 0;
   display: inline-block;
 }
-.longboard .article-title {
-  position: relative;
-}
-.longboard .article-title a:after {
+.longboard a.article-permalink {
   text-decoration: none;
+  border: 0;
   position: absolute;
   font-size: 66%;
   content: "🔗";
@@ -339,6 +337,6 @@ a:visited {
   opacity: 0.5;
   transition: opacity 0.5s ease-in-out;
 }
-.longboard .article-title:hover a:after {
+.longboard a.article-permalink:hover {
   opacity: 1;
 }
