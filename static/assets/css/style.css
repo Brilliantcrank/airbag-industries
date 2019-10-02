@@ -329,11 +329,11 @@ a:visited {
 .longboard a.article-permalink {
   text-decoration: none;
   border: 0;
-  position: absolute;
-  font-size: 66%;
+  position: relative;
+  font-size: 75%;
   content: "🔗";
   display: inline-block;
-  padding-left: 6px;
+  padding-left: 3px;
   opacity: 0.5;
   transition: opacity 0.5s ease-in-out;
 }
