@@ -155,7 +155,7 @@ ul.nobullets li {
    
 .article blockquote, 
 .quote {
-  background: url(http://airbagindustries.com/images/quote.gif) no-repeat;
+  background: url(/assets/img/quote.gif) no-repeat;
   padding-left: 26px;
   margin: 0;
   }  
