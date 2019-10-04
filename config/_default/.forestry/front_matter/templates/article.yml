@@ -28,6 +28,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- content/post/we-could-have-saved-eden-but-the-1-1-will-suffice.md
 - content/post/so-not-very-cool.md
 - content/post/twenty-years-apart.md
 - content/post/i-made-an-internet-radio-program-and-it-s-called-sprints-milestones.md
