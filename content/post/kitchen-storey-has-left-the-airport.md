@@ -1,0 +1,21 @@
++++
+date = "2018-07-28T04:00:00+00:00"
+description = ""
+title = "Kitchen Storey has Left the Airport."
+
++++
+Yesterday morning [Kitchen Storey](https://www.instagram.com/kitchenstorey/) came home from a two week gig in Des Moines, Iowa. American Airlines flight AA1326 to Austin arrived at 9:53AM, and with that, almost eight years of constant travel — life on the “road” — came to a welcome conclusion.
+
+For those who don’t know the last eight out of ten years Kitchen Storey and I have lived mostly apart due to travel requirements for her job. She is a chemical engineer who compiles and facilitates hazard safety reviews for manufacturing and refining process that deal with hazardous chemicals. Name the worst chemicals on the planet and she’s dealt with it at places that make things like dynamite, frozen food, beer, food additives, oil, and natural gas. It’s her job to review processes around the use of these chemicals and try to kill people on paper so that she can work upstream and figure out how to ensure that particular event never happens (in simulation anyway, it’s up to the facility owners and operators to follow the recommendations derived from the facilitation work).
+
+So yeah, Kitchen Storey is a badass.
+
+Her work has brought her to some amazing places. There was the one time she worked in the middle of nowhere China (still had a population in the millions) that required twenty hours of travel by plane and car. After she finished the gig we met in [Shanghai](https://www.instagram.com/p/6e1ZkJk5Fk/?taken-by=brilliantcrank) and had an amazing week of wandering around and keeping full on soup noodles. For a few years we were able to live in [Ko Olina, Hawaii](https://www.instagram.com/p/BF3BkQ0E5Ep/?taken-by=brilliantcrank) for a month at a time. And there was a year that she spent a few weeks each month in Kenai, Alaska which brought her back to the mountains and allowed her to visit our nieces on more than one layover.
+
+And her work has allowed us to visit areas we would not have normally, but we’re richer for the experience. I will never forget living in [Chattanooga, Tennessee](https://www.instagram.com/p/zizB4uE5Pz/?taken-by=brilliantcrank) for a bit. It was not long after I lost my business and the town provided [a nice distraction](https://medium.com/airbag-industries/j-o-h-n-d86818969b01) while I tried to figure things out. It was also great getting to better know some distant friends who lived there. Earlier this year we got to go back home to Southern California and live in [Redondo Beach](https://www.instagram.com/p/BjGgVsWFfSB/?taken-by=brilliantcrank) and got a chance to go back and experience [Salt Lake City, Utah.](https://www.instagram.com/p/Bjk7KRfl0Kg/?taken-by=brilliantcrank) As a last hurrah, we spent a delightful weekend in [Des Moines.](https://www.instagram.com/p/Blf6xdtlvTL/?taken-by=brilliantcrank) I knew the city had a lot going for it, but we were both pleasantly surprised by the quality of life that exists there.
+
+As for the rest of her travel, the majority of her time away from home…lets just say that it was spent living in some form of a Marriott hotel sandwiched between a Waffle House and an Applebees in places that resemble Gary, Indiana. And she did this for weeks to a month. If time allowed, she would come home for thirty-six to forty-eight hours and then go back to the Armpits of America.
+
+While I will miss the fun places that we’ve been able to stay, I will not miss living apart. Most years we only spent one-third of the year together and it gets old really fast. I have been pleading with her to find a new career, change jobs, do something that gets her off the road and she finally found an opportunity that fits the bill.
+
+For the first time in a while, my wife doesn’t have to pack two weeks worth of luggage on a Saturday night. And we can sleep in on Sunday, not worried about getting everything done before she’s due at the airport around noon. Which also means that I’m not eating dinner alone tomorrow night. Oh man, this is going to take some getting used too. I hope she still likes HBO.
