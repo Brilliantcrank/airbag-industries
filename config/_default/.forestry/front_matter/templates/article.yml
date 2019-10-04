@@ -28,6 +28,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- content/post/twenty-years-apart.md
 - content/post/i-made-an-internet-radio-program-and-it-s-called-sprints-milestones.md
 - content/post/kitchen-storey-has-left-the-airport.md
 - content/post/adios-muchachos-and-thanks-for-all-of-the-sun-downs.md
