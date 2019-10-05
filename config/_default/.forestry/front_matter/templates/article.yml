@@ -28,6 +28,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- content/post/goodbye-big-blue.md
 - content/post/now-serving-those-whom-serve.md
 - content/post/you-are-not-your-job-search.md
 - content/post/we-re-publishing-a-cultural-print-magazine-at-work-you-should-too.md
