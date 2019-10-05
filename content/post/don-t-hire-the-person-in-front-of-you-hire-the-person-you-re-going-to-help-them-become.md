@@ -1,7 +1,6 @@
 +++
 date = "2018-03-26T04:00:00+00:00"
 description = ""
-draft = true
 title = "Don’t hire the person in front of you, hire the person you’re going to help them become."
 
 +++
