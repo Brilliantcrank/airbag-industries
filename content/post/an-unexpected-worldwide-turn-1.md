@@ -1,7 +1,6 @@
 +++
 date = "2016-04-27T04:00:00+00:00"
 description = ""
-draft = true
 title = "An unexpected, worldwide turn."
 
 +++
