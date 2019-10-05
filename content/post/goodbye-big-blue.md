@@ -12,8 +12,6 @@ My best days at IBM were the ones when I lead teams of designers, researchers, a
 
 In-between I had the tremendous opportunity to work with designers and studio leaders from all over the world on a daily basis. And the folks in Austin…they are a very special group. It’s only been a few days and already I miss seeing you all—_Doctor._
 
-> If you’re not working with your users, you’re working towards unemployment.
-
 To make this more meaningful to those of you outside of the IBM bubble, here are a few things I learned (sometimes the hard way) in the last two years:
 
 * If you want to earn an MBA, don’t go to school. Instead, go work for IBM where you will end up with a better education than you will ever receive _reading_ about business. IBM is an exceptional place to observe where the future of business, technology, and design is heading for some of the world’s largest corporations and enterprise-at-large.
