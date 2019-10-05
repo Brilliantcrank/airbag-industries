@@ -28,6 +28,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- content/post/the-new-macbook-pro-the-one-without-the-touchbar-is-pretty-great-1.md
 - content/post/an-unexpected-worldwide-turn-1.md
 - content/post/a-better-way-to-make-better-forms.md
 - content/post/trusting-your-way-to-a-better-design-team.md
