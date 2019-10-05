@@ -1,7 +1,6 @@
 +++
 date = "2015-12-06T05:00:00+00:00"
 description = ""
-draft = true
 title = "A comprehensive, well considered list of things designers simply can’t do."
 
 +++
