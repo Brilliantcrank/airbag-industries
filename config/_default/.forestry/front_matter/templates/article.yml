@@ -28,6 +28,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- content/post/100-clever-0-hired.md
 - content/post/stay-on-target-no-one-forgets-a-designer-who-quits.md
 - content/post/never-write-a-contract-using-cut-and-paste.md
 - content/post/don-t-hire-the-person-in-front-of-you-hire-the-person-you-re-going-to-help-them-become.md
