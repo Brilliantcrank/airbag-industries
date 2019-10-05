@@ -28,6 +28,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- content/post/a-comprehensive-well-considered-list-of-things-designers-simply-can-t-do.md
 - content/post/we-are-losing-the-history-of-web-design.md
 - content/post/i-m-attending-the-society-of-news-design-annual-conference-in-dc-and-i-can-t-hold-my-pee.md
 - content/post/medium-vs-the-self-hosted-blog.md
