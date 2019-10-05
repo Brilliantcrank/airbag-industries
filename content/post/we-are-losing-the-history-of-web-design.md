@@ -14,8 +14,6 @@ We have already lost too much. There are so many wonderful sites from 1994-2004 
 
 Somewhere in [Christopher Schmitt’s](http://christopherschmitt.com/) home is a [Zip disk](http://en.wikipedia.org/wiki/Zip_drive) with a complete backup of [_High Five_](https://web.archive.org/web/19961221215549/http://highfive.com/), one of the first sites dedicated to the review and critique of web design. I know he’s looked up and down for that disk but it might be gone forever and with it, an important piece of our professions’ history and heritage.
 
-![Homepage for the 1998 Winter Olympic Games](https://miro.medium.com/max/1192/1*rWhyQNvc-EEgIn237IZ-5A.gif "Homepage for the 1998 Winter Olympic Games" =596x433)
-
 The work Studio Archetype did on the 1998 Nagano Winter Olympics website has to be my favorite of all time. I have no idea who designed it, who developed it, all I have are a [series of screenshots.](http://www.airbaginternational.com/nagano)
 
 We need a museum! An institution that can help preserve first-hand accounts of how things were done, what went down in the past. The working files, important emails, formative essays, and forgotten blog posts. We need to preserve the story of how web design began and how it has evolved to today.

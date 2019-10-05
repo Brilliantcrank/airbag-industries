@@ -28,10 +28,10 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- content/post/we-are-losing-the-history-of-web-design.md
 - content/post/i-m-attending-the-society-of-news-design-annual-conference-in-dc-and-i-can-t-hold-my-pee.md
 - content/post/medium-vs-the-self-hosted-blog.md
 - content/post/the-future-of-the-web-design-agency-in-the-united-states.md
-- content/post/we-are-losing-the-history-of-web-design.md
 - content/post/and-they-all-look-just-the-same.md
 - content/post/pick-up-the-phone.md
 - content/post/so-not-very-cool.md
