@@ -28,6 +28,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- content/post/a-better-way-to-make-better-forms.md
 - content/post/trusting-your-way-to-a-better-design-team.md
 - content/post/an-unexpected-worldwide-turn-1.md
 - content/post/making-sense-of-all-the-jibba-jabba-during-user-research-1.md
