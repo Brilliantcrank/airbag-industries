@@ -6,7 +6,7 @@ title = "100% Clever, 0% Hired."
 +++
 "So I have started seeing this in a lot in designer portfolios and resumes recently. A candidate will have a title that says “My Skills”, and below are bar graphs that are in percentages. What do the percentages mean? If you say Photoshop: 85%, does that mean you know 85% of all there is to know about Photoshop? Is this even a good way to represent this? I’m afraid it makes no sense to me."
 
-When the proceeding question came in to Dear Design Student I jumped on it because it hits on all the Pet Peeve cylinders. Resumés are communication documents that gain nothing from the addition of sparkles, graphs, and your little big data.
+When the proceeding question came in to [Dear Design Student](http://deardesignstudent.com "Dear Design Student") I jumped on it because it hits on all the Pet Peeve cylinders. Resumés are communication documents that gain nothing from the addition of sparkles, graphs, and your little big data.
 
 “Photoshop: 85%,” this makes 0% sense to me which is to say, none-at-all. And since when in the hell is Photoshop a skill?
 
