@@ -6,7 +6,7 @@ title = "Steve Austin."
 +++
 Despite the rough appearance, Airbag is back and better than ever—Six Million Dollar style. It was a bit of slog to get here, but with the help of Jesse from [Plasticmind](https://plasticmind.com "Plasticmind"), this old site has been restored, rebuilt, and improved.
 
-From 2006-2019 this site ran on an original Mac mini tucked into a co-location facility in Costa Mesa, California. Running on [Movable Type 3.2]() (pour one out), it chugged along just fine until earlier this year when the mini just stopped working. A heroic effort was made by Leo at [AtlantisNet](https://atlantisnet.com "AtlantisNet") to save the drive—save the content—but alas, it was too late.
+From 2006-2019 this site ran on an original Mac mini tucked into a co-location facility in Costa Mesa, California. Running on [Movable Type 3.2](https://ma.tt/2005/07/movable-type-32/) (pour one out), it chugged along just fine until earlier this year when the mini just stopped working. A heroic effort was made by Leo at [AtlantisNet](https://atlantisnet.com "AtlantisNet") to save the drive—save the content—but alas, it was too late.
 
 Jesse was already planning on how to clean up years of content and bring it into a new platform. The death of the Mac just made the project more difficult. Thankfully Jesse took on the additional work as a challenge and began the process of scrapping the content from a recent static backup that I did a few months before the site died.
 
