@@ -24,4 +24,5 @@ fields:
     display_utc: false
   label: Date
 pages:
+- content/longboard/stories-of-people-who-are-racing-to-save-us.md
 - content/longboard/fontshop-is-celebrating-30-years-in-business-with-a-30-discount-on-particular-font-families.md
