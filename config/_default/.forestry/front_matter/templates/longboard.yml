@@ -23,6 +23,10 @@ fields:
     time_format: 
     display_utc: false
   label: Date
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - content/longboard/i-took-the-world-s-first-20-hour-flight-here-s-what-it-did-to-me.md
 - content/longboard/fontshop-is-celebrating-30-years-in-business-with-a-30-discount-on-particular-font-families.md
