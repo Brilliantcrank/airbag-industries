@@ -28,6 +28,7 @@ fields:
   default: []
   label: Tags
 pages:
+- content/longboard/typographic-illusions.md
 - content/longboard/the-fifty-most-important-websites-of-all-time.md
 - content/longboard/ibm-smacks-down-google-on-it-s-claim-around-quantum-computing.md
 - content/longboard/i-took-the-world-s-first-20-hour-flight-here-s-what-it-did-to-me.md
