@@ -32,6 +32,7 @@ fields:
   default: []
   label: Tags
 pages:
+- content/post/the-best-comics-of-the-decade-according-to-polygon.md
 - content/post/steve-austin.md
 - content/post/100-clever-0-hired.md
 - content/post/stay-on-target-no-one-forgets-a-designer-who-quits.md
