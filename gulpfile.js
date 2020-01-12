@@ -27,7 +27,7 @@ var paths = {
 		output: 'static/assets/js/'
 	},
 	styles: {
-		input: 'src/sass/**/*.{scss,sass}',
+		input: 'src/css/**/*.css',
 		output: 'static/assets/css/'
 	},
 	svgs: {
@@ -78,9 +78,9 @@ var uglify = require('gulp-terser');
 var optimizejs = require('gulp-optimize-js');
 
 // Styles
-var sass = require('gulp-sass');
 var postcss = require('gulp-postcss');
 var prefix = require('autoprefixer');
+var tailwindcss = require('tailwindcss');
 var minify = require('cssnano');
 
 // SVGs
@@ -180,19 +180,16 @@ var lintScripts = function (done) {
 
 };
 
-// Process, lint, and minify Sass files
+// Process, lint, and minify css files
 var buildStyles = function (done) {
 
 	// Make sure this feature is activated before running
 	if (!settings.styles) return done();
 
-	// Run tasks on all Sass files
+	// Run tasks on all css files
 	return src(paths.styles.input)
-		.pipe(sass({
-			outputStyle: 'expanded',
-			sourceComments: true
-		}))
 		.pipe(postcss([
+			tailwindcss(),
 			prefix({
 				cascade: true,
 				remove: true

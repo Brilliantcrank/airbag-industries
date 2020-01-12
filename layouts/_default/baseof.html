@@ -3,13 +3,13 @@
 
 	{{ partial "head" . }}
 
-	<body itemscope itemtype="http://schema.org/WebPage">
+	<body class="bg-white font-serif" itemscope itemtype="http://schema.org/WebPage">
 
 		<div class="all-of-it">
 
 			{{ partial "header" . }}
 
-			<main class="site-content">
+			<main id="content">
 
 				{{ block "main" . }}{{ end }}
 
