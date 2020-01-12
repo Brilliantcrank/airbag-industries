@@ -8,9 +8,9 @@ params:
   - /assets/img/default.jpg
   DateForm: "2 January '06"
   languageCode: en-us
-  
+
 permalinks:
-  post: /:filename/
+  post: /archive/:filename/
 
 menu:
   navlinks:
@@ -35,4 +35,4 @@ menu:
   - name: LinkedIn
     url: https://www.linkedin.com/in/brilliantcrank
   - name: Resume
-    url: /resume/gregstorey.pdf
+    url: https://www.linkedin.com/in/brilliantcrank

@@ -12,8 +12,8 @@
   </div>
   <div class="site-introperspective">
     <ul>
-      {{ $current := . }}      
-      
+      {{ $current := . }}
+
       {{ range .Site.Menus.navlinks }}
         {{ $active := or ($current.IsMenuCurrent "navlinks" .) ($current.HasMenuCurrent "navlinks" .) }}
         {{ $active = or $active (eq .Identifier $current.Slug) }}
@@ -40,5 +40,5 @@
       <ul><li><b>Shutterthumb</b><br/>1:1 photography</li></ul>
       <script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=6&display=latest&size=m&layout=x&source=user&user=45716533@N00"></script>
     </div><!--end shutterthumb-->
-    {{ end }} 
+    {{ end }}
   </div>
