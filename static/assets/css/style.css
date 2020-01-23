@@ -156,6 +156,7 @@ ul.nobullets li {
 .article blockquote, 
 .quote {
   background: url(/assets/img/quote.gif) no-repeat;
+  margin-top: 26px;
   padding-left: 26px;
   margin: 0;
   }  
@@ -328,6 +329,9 @@ a:visited {
 }
 .article-content p:first-of-type {
   display: inline;
+}
+.article-content blockquote p:first-of-type {
+  display: block;
 }
 .longboard-title {
   display: inline;
