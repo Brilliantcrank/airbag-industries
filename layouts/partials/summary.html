@@ -1,14 +1,18 @@
     <article class="article{{ with .Type }} {{ . }}{{ end }}" itemscope itemtype="http://schema.org/CreativeWork">
 			<header class="article-header">
-        <h1 class="article-title">
-          {{ if and (eq .Type "longboard") (.Param "target_url") }}
-          <a href='{{.Param "target_url"}}' title='{{.Title | safeHTML}}'>{{ .Title }}</a>
-          {{ else }}
-          <a href='{{.Permalink}}' title='{{.Title | safeHTML}}'>{{ .Title }}</a>
+        
+          {{ if (ne .Type "longboard") }}
+          <h1 class="article-title">
+            <a href='{{.Permalink}}' title='{{.Title | safeHTML}}'>{{ .Title }}</a>
+          </h1>          
           {{ end }}
-        </h1>
+
 			</header>
 			<div class="article-content" itemprop="text">
+        {{ if or (eq .Type "longboard") (.Param "target_url") }}
+        <span class="longboard-title"><a href='{{.Param "target_url"}}' title='{{.Title | safeHTML}}'>{{ .Title }}</a></span>
+        {{ end }}
+
 				{{ .Content }}
 			</div>
 			<footer class="article-meta">

@@ -326,6 +326,13 @@ a:visited {
   border: 0;
   display: inline-block;
 }
+.article-content p:first-of-type {
+  display: inline;
+}
+.longboard-title {
+  display: inline;
+  font-weight: bold;
+}
 .longboard a.article-permalink {
   text-decoration: none;
   border: 0;
