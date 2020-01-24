@@ -1,21 +1,7 @@
     <article class="article{{ with .Type }} {{ . }}{{ end }}" itemscope itemtype="http://schema.org/CreativeWork">
-			<header class="article-header">
-        <h1 class="article-title">
-          {{ if and (eq .Type "longboard") (.Param "target_url") }}
-          <a href='{{.Param "target_url"}}' title='{{.Title | safeHTML}}'>{{ .Title }}</a>
-          {{ else }}
-          <a href='{{.Permalink}}' title='{{.Title | safeHTML}}'>{{ .Title }}</a>
-          {{ end }}
-        </h1>
-			</header>
-			<div class="article-content" itemprop="text">
-				{{ .Content }}
-			</div>
-			<footer class="article-meta">
-				<time class="article-time" itemprop="datePublished" datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Date.Format "2 January '06" }}</time>
-        {{ if and (eq .Type "longboard") (.Param "target_url") }}
-          <a class="article-permalink" href='{{.Permalink}}' title='Permanent link to "{{.Title | safeHTML}}"'>🔗</a>
-        {{ end }}
-			</footer>
-
+      {{ if and (eq .Type "longboard") (.Param "target_url") }}
+        {{ partial "longboard" . }}
+      {{ else }}
+        {{ partial "article" . }}
+      {{ end }}
 		</article>

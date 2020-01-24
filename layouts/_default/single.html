@@ -3,19 +3,19 @@
 
 		<article class="article" itemscope itemtype="http://schema.org/CreativeWork">
 			<header class="article-header">
-				<h1 class="article-title" itemprop="headline">{{ .Title }}</h1>
+				<h1 class="text-blue font-extrabold text-23 md:text-27 sm:w-3/4 md:w-2/3 mb-8" itemprop="headline">{{ .Title }}</h1>
 			</header>
-					
-			<div class="article-content" itemprop="text">
+
+			<div class="longform" itemprop="text">
 				{{ .Content }}
 			</div>
 
 			{{/* Only display the following for individual posts (not pages) */}}
 
-			{{ if eq .Section "post" }}			
+			{{ if eq .Section "post" }}
 			<footer class="article-meta">
 				<time class="article-time" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format .Site.Params.DateForm }}</time>
-				{{if .Params.tags}} 
+				{{if .Params.tags}}
 				<ul class="article-tags">
 					{{ range .Params.tags }}
 						<li class="article-tag"><a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a></li>
@@ -23,21 +23,23 @@
 				</ul>
 				{{end}}
 			</footer>
-			<nav class="article-nav">
-				<div class="left">
-					<a href="/archive/" title='Site Archive'>Index</a> 
-				</div>
-				<div class="right">
-					{{if .PrevInSection}}
-						<a class="prev" href="{{.PrevInSection.Permalink}}" title="{{.PrevInSection.Title}}">&laquo; Previous</a>
-					{{end}}
-					{{if .NextInSection}}
-						<a class="next" href="{{.NextInSection.Permalink}}" title="{{.NextInSection.Title}}">Next &raquo;</a>
-					{{end}}
-				</div> 
-			</nav>
 			{{ end }}
 
+			<nav class="article-nav flex uppercase tracking-widest text-10 sm:text-12 border-t pt-6 mt-12 justify-between">
+				<div class="pagination flex">
+					{{if .PrevInSection}}
+						<a class="prev" href="{{.PrevInSection.Permalink}}" title="{{.PrevInSection.Title}}">Previous</a>
+					{{end}}
+					<span class="px-2">|</span>
+					{{if .NextInSection}}
+						<a class="next" href="{{.NextInSection.Permalink}}" title="{{.NextInSection.Title}}">Next</a>
+					{{end}}
+				</div>
+				<div>
+					<a href="/">Home</a>
+				</div>
+			</nav>
 		</article>
+
 
 {{end}}

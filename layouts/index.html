@@ -1,30 +1,27 @@
 {{ define "main" }}
 
-	{{ if .Content }}
-	<article class="article" itemscope="" itemtype="http://schema.org/CreativeWork">
-		<div class="article-title-description" itemprop="text">
-			{{ .Content }}
-		</div>
-	</article>
-	{{ end }}
-	
 
-	<div class="page">
+	<div class="stream">
+		{{ if .Content }}
+		<article class="article" itemscope="" itemtype="http://schema.org/CreativeWork">
+			<div class="article-title-description" itemprop="text">
+				{{ .Content }}
+			</div>
+		</article>
+		{{ end }}
 
 		{{ $pag := .Paginate (where .Site.RegularPages "Type" "in" (slice "post" "longboard")) }}
 
 		{{ range .Paginator.Pages }}
-
 			{{ partial "summary" . }}
-
 		{{ end }}
 
 		<nav class="article-nav">
 			<div class="left">
-				<a href="/archive/" title='Site Archive'>Index</a> 
+				<a href="/archive/" title='Site Archive'>Index</a>
 			</div>
-		</nav>  
-		
+		</nav>
 	</div>
+
 
 {{ end }}

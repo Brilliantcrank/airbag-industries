@@ -80,6 +80,7 @@ var optimizejs = require('gulp-optimize-js');
 // Styles
 var postcss = require('gulp-postcss');
 var prefix = require('autoprefixer');
+var nested = require('postcss-nested');
 var tailwindcss = require('tailwindcss');
 var minify = require('cssnano');
 
@@ -190,6 +191,7 @@ var buildStyles = function (done) {
 	return src(paths.styles.input)
 		.pipe(postcss([
 			tailwindcss(),
+			nested(),
 			prefix({
 				cascade: true,
 				remove: true

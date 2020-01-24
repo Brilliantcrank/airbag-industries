@@ -1,4 +1,29 @@
-<footer class="site-fin">
-  <div class="site-made">Made in Seattle, Washington, USA</div>
-  <div class="site-copyright">&copy; 2002-{{ now.Year }} Greg Storey. All Rights Reserved.</div> 
+<footer class="site-footer sm:px-4 md:px-8 md:mx-auto">
+  <div class="site-footer__extras m-4 sm:m-0 sm:ml-5">
+    {{ partial "shutterthumb" . }}
+    <div class="extras">
+      {{ partial "extra" . }}
+      {{ partial "extra" . }}
+      {{ partial "extra" . }}
+    </div>
+  </div>
+  <div class="site-footer__flying-a">
+    <div class="bg-navy px-4 py-6 inline-block">
+      <img src="/assets/svg/a.svg" alt="">
+    </div>
+  </div>
+  <div class="site-footer__big-red bg-red flex justify-center px-4 py-4 sm:mt-10">
+    <img src="/assets/img/airbag.png" alt="">
+  </div>
+  <div class="site-footer__made hidden sm:flex flex-col justify-center mr-5 sm:mt-10">
+    <p class="text-11 sm:text-13">Tacoma, Washington, USA</p>
+  </div>
+  <div class="site-footer__copyright hidden sm:flex flex-col justify-center ml-5 sm:mt-10">
+    <p class="text-11 sm:text-13 text-right">&copy; Copyright 2002-{{ now.Year }}</p>
+  </div>
+  <nav id="menu" class="site-footer__nav">
+    <ul class="text-11 sm:text-13 flex flex-col flex-wrap sm:block h-20 sm:h-auto">
+      {{ partial "menu" . }}
+    </ul>
+  </nav>
 </footer>

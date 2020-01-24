@@ -1,28 +1,6 @@
 <nav class="nav-primary" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Main navigation">
 
-  {{ if eq hugo.Environment "development" }}
-    <b>⚙ Development</b>
-  {{ else if eq hugo.Environment "staging" }}
-    <b>⚙ Staging</b>
-  {{ end }}
-
-  <div class="site-established">
-    <b>Est. 2002</b><br />
-    {{ $.Site.Params.description }}
-  </div>
   <div class="site-introperspective">
-    <ul>
-      {{ $current := . }}
-
-      {{ range .Site.Menus.navlinks }}
-        {{ $active := or ($current.IsMenuCurrent "navlinks" .) ($current.HasMenuCurrent "navlinks" .) }}
-        {{ $active = or $active (eq .Identifier $current.Slug) }}
-        {{ $active = or $active (and (eq .Name "Archives") (eq $current.Section "post")) }}
-        <li{{if $active }} class='active'{{ end }}>
-            <a href="{{ .URL }}">{{ .Name }}</a>
-        </li>
-      {{ end }}
-    </ul>
     <ul>
       <li><b>Brilliantcrank</b></li>
       {{ range .Site.Menus.sociallinks }}
@@ -42,3 +20,4 @@
     </div><!--end shutterthumb-->
     {{ end }}
   </div>
+</nav>
