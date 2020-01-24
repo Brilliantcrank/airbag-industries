@@ -1,5 +1,5 @@
 +++
-date = 2020-01-24T08:00:00Z
+date = 2020-01-24T08:05:00Z
 tags = []
 target_url = "https://work.qz.com/work/1783494/brainstorming-meetings-creative-types-are-not-into-them/"
 title = "According to 20,000 creatives brainstorming is a giant waste of time."
