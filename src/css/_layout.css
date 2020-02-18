@@ -1,0 +1,23 @@
+.body,
+.main {
+  display: grid;
+  grid-gap: 3rem;
+  grid-template-columns: 1fr;
+
+  @media (min-width: 600px) and (max-width: 899px) {
+    grid-row-gap: 5rem;
+  }
+
+  @media (min-width: 900px) {
+    grid-row-gap: 5rem;
+  }
+}
+
+.stream {
+  display: grid;
+  grid-row-gap: 5rem;
+
+  @media (min-width: 900px) {
+    grid-column-gap: 1.25rem;
+  }
+}

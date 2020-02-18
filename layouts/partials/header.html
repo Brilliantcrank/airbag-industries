@@ -1,7 +1,9 @@
 <header class="site-header sm:px-4 md:px-8 max-w-5xl mx-auto" itemscope itemtype="http://schema.org/WPHeader">
   <div class="site-header__flying-a flex">
-    <a class="bg-navy flex w-full items-center justify-center px-4 py-6 md:px-4 md:py-12" href="{{ .Site.BaseURL }}" title="{{ .Site.Title | safeHTMLAttr }}">
-      <img src="/assets/svg/a.svg" alt="{{ .Site.Title }}">
+    <a class="bg-navy flex w-full items-center justify-center pt-full h-0 relative" href="{{ .Site.BaseURL }}" title="{{ .Site.Title | safeHTMLAttr }}">
+      <div class="absolute inset-0 flex items-center justify-center">
+        <img class="w-8/12 md:w-7/12" src="/assets/svg/a.svg" alt="{{ .Site.Title }}">
+      </div>
     </a>
   </div>
   <div class="site-header__big-red">
@@ -10,14 +12,14 @@
       <img class="w-full hidden sm:block" src="/assets/img/rigid-frame-commentary@2x.png" alt="Rigid Frame Commentary">
     </div>
   </div>
-  <div class="site-header__est text-11 sm:text-13 px-4 sm:px-0 sm:pr-4 py-4 flex items-center sm:items-start">
-    <div class="w-3/4 sm:w-full">
+  <div class="site-header__est text-11 xs:text-13 px-6 sm:px-0 sm:pr-4 py-4 flex items-center sm:items-start">
+    <div class="w-3/4 sm:w-full sm:mt-4 sm:py-1">
       <p><strong>Est. 2002</strong></p>
-      <p>{{ $.Site.Params.description }}</p>
+      <p class="max-w-3xs">{{ $.Site.Params.description }}</p>
     </div>
   </div>
   <nav class="site-header__menu flex items-center py-4 sm:items-start">
-    <div class="flex items-center text-11 sm:text-13 ml-4 sm:ml-0">
+    <div class="flex items-center text-11 sm:text-13 ml-4 sm:mt-4 sm:ml-0">
       <a class="sm:hidden" href="#menu">Menu</a>
       <ul class="hidden sm:block">
         {{ partial "menu" . }}

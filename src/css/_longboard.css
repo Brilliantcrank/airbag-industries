@@ -1,0 +1,17 @@
+.longboard {
+  > * + * {
+    margin-top: 1.375rem;
+  }
+
+  > *:first-child + * {
+    display: inline;
+
+    > * {
+      display: inline;
+    }
+  }
+  > *:first-child + * + * {
+    display: block;
+    margin-top: 1.375rem;
+  }
+}

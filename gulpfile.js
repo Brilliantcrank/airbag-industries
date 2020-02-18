@@ -27,7 +27,7 @@ var paths = {
 		output: 'static/assets/js/'
 	},
 	styles: {
-		input: 'src/css/**/*.css',
+		input: 'src/css/main.css',
 		output: 'static/assets/css/'
 	},
 	svgs: {
@@ -78,6 +78,7 @@ var uglify = require('gulp-terser');
 var optimizejs = require('gulp-optimize-js');
 
 // Styles
+var easyimport = require("postcss-easy-import");
 var postcss = require('gulp-postcss');
 var prefix = require('autoprefixer');
 var nested = require('postcss-nested');
@@ -190,8 +191,9 @@ var buildStyles = function (done) {
 	// Run tasks on all css files
 	return src(paths.styles.input)
 		.pipe(postcss([
-			tailwindcss(),
+			easyimport(),
 			nested(),
+			tailwindcss(),
 			prefix({
 				cascade: true,
 				remove: true

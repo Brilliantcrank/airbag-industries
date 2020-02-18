@@ -1,14 +1,19 @@
 {{ define "main" }}
 
-  <div class="archive">
-    <h1 class="text-23 sm:text-27 mb-12 font-extrabold text-blue">{{ .Title }}</h1>
-    <section class="archive-list">
-    {{ range (where .Site.RegularPages "Type" "in" (slice "post"))}}
-      <article>
-      <h2><a href="{{.Permalink}}" title="{{.Title | safeHTML}}">{{ .Title }}</a></h2>
-      {{/* {{ .Date.Format "2 Jan '06" }} */}}
-      </article>
-    {{ end }}
-    </section>
-  </div>
+  <section class="archive">
+    <header class="archive__header">
+      <h1 class="border-b pb-6 uppercase tracking-widest mb-6 text-11 sm:text-13">#Archive</h1>
+      <p class="text-23 sm:text-27 mb-12 font-extrabold text-blue">{{ .Title }}</p>
+    </header>
+    <div class="archive__content">
+      <div class="archive-list">
+      {{ range (where .Site.RegularPages "Type" "in" (slice "post"))}}
+        <article>
+        <h2><a href="{{.Permalink}}" title="{{.Title | safeHTML}}">{{ .Title }}</a></h2>
+        {{/* {{ .Date.Format "2 Jan '06" }} */}}
+        </article>
+      {{ end }}
+      </div>
+    </div>
+  </section>
 {{ end }}

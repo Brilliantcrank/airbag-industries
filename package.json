@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "hugo server -D",
+    "serve": "hugo server -D",
     "watch": "hugo --watch",
     "build": "hugo",
     "gulp-watch": "gulp watch",
-    "dev": "concurrently \"npm:watch\" \"npm:gulp-watch\""
+    "start": "concurrently \"npm:watch\" \"npm:gulp-watch\""
   },
   "repository": {
     "type": "git",

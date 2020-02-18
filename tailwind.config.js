@@ -4,10 +4,10 @@ module.exports = {
   separator: ':',
   theme: {
     screens: {
+      xs: '400px',
       sm: '600px',
       md: '900px',
       lg: '1200px',
-      xl: '1800px',
     },
     colors: {
       transparent: 'transparent',
@@ -17,6 +17,7 @@ module.exports = {
       navy: '#373F4C',
       red: '#C94343',
       gray: '#CCCCCC',
+      dusty: '#999999',
       alto: '#D8D8D8'
     },
     spacing: {
@@ -39,6 +40,7 @@ module.exports = {
       '48': '12rem',
       '56': '14rem',
       '64': '16rem',
+      'full': '95%'
     },
     backgroundColor: theme => theme('colors'),
     backgroundPosition: {
@@ -133,7 +135,8 @@ module.exports = {
       17: '1.0625rem',
       18: '1.125rem',
       23: '1.4375rem',
-      27: '1.6875rem'
+      27: '1.6875rem',
+      42: '2.625rem',
     },
     fontWeight: {
       hairline: '100',
@@ -166,10 +169,10 @@ module.exports = {
     },
     lineHeight: {
       none: '1',
-      tight: '1.25',
-      snug: '1.375',
-      normal: '1.2941176471',
-      relaxed: '1.625',
+      tight: '1.10',
+      snug: '1.25',
+      normal: '1.38',
+      relaxed: '1.5',
       loose: '2',
     },
     listStyleType: {
@@ -187,6 +190,7 @@ module.exports = {
       screen: '100vh',
     },
     maxWidth: {
+      '5xs': '5.25rem',
       '4xs': '8rem',
       '3xs': '12rem',
       '2xs': '16rem',
@@ -200,6 +204,7 @@ module.exports = {
       '4xl': '56rem',
       '5xl': '64rem',
       '6xl': '72rem',
+      'none': 'none',
       full: '100%',
     },
     minHeight: {
