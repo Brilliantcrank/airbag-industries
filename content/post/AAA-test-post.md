@@ -23,4 +23,4 @@ I occasionally use Google Play Music to listen to podcasts—you still can, if f
 
 My immediate reaction was, "nothing." Why would anyone seek to define limitations to someone's capabilities? I grew up in a community that assumed anyone from fifty miles out was better, smarter, and more successful. That point-of-view sucks and it took me decades to understand that it's simply not true.
 
-That said, after giving the question more consideration within the context of my experiences as a designer, I uncovered more than a handful of things designers are incapable of doing. ➵
+That said, after giving the question more consideration within the context of my experiences as a designer, I uncovered more than a handful of things designers are incapable of doing.

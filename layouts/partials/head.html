@@ -21,8 +21,6 @@
       {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
     {{- end }}
 
-    <script src="//use.typekit.net/iwh5why.js"></script>
-    <script>try{Typekit.load();}catch(e){}</script>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relURL }}">
 
   </head>

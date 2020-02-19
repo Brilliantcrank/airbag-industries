@@ -5644,21 +5644,30 @@ a {
   }
 }
 
-.longboard > * + * {
-  margin-top: 1.375rem;
+/* .longboard {
+  > * + * {
+    margin-top: 1.375rem;
+  }
+
+  > *:first-child + * {
+    display: inline;
+
+    > * {
+      display: inline;
+    }
+  }
+  > *:first-child + * + * {
+    display: block;
+    margin-top: 1.375rem;
+  }
+} */
+
+.inline-heading {
+  display:inline;
 }
 
-.longboard > *:first-child + * {
+.inline-heading + p {
   display: inline;
-}
-
-.longboard > *:first-child + * > * {
-  display: inline;
-}
-
-.longboard > *:first-child + * + * {
-  display: block;
-  margin-top: 1.375rem;
 }
 
 .longform h3 {

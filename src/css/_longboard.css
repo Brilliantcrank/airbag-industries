@@ -1,4 +1,4 @@
-.longboard {
+/* .longboard {
   > * + * {
     margin-top: 1.375rem;
   }
@@ -13,5 +13,14 @@
   > *:first-child + * + * {
     display: block;
     margin-top: 1.375rem;
+  }
+} */
+
+
+.inline-heading {
+  @apply inline;
+
+  & + p {
+    display: inline;
   }
 }
