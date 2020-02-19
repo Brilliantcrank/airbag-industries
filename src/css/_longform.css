@@ -34,7 +34,7 @@
     @apply relative;
 
     &:before {
-      @apply -mt-4 h-10 w-10 block absolute top-0 left-0 bg-contain bg-no-repeat bg-center;
+      @apply h-8 w-8 block absolute top-0 left-0 bg-contain bg-no-repeat bg-center;
       content: "";
       background-image: url('/assets/img/blockquote.svg');
     }

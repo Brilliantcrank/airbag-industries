@@ -4775,12 +4775,12 @@ video {
   font-size:0.9375rem;
 }
 
-.text-17{
-  font-size:1.0625rem;
-}
-
 .text-18{
   font-size:1.125rem;
+}
+
+.text-19{
+  font-size:1.1875rem;
 }
 
 .text-23{
@@ -5278,8 +5278,8 @@ a {
 @media (min-width: 600px) and (max-width: 899px) {
   .site-header {
     grid-template-columns: 1fr 1fr minmax(0, 1.25rem) 1fr 1fr minmax(0, 1.25rem) 1fr 1fr minmax(0, 1.25rem) 1fr 1fr minmax(0, 1.25rem) 1fr 1fr minmax(0, 1.25rem) 1fr 1fr;
-    grid-template-rows: auto -webkit-max-content -webkit-max-content;
-    grid-template-rows: auto max-content max-content
+    grid-template-rows: 1fr -webkit-max-content -webkit-max-content;
+    grid-template-rows: 1fr max-content max-content
   }
 
   .site-header__img {
@@ -5312,8 +5312,8 @@ a {
 @media (min-width: 900px) {
   .site-header {
     grid-template-columns: 1fr minmax(0, 1.25rem) 1fr minmax(0, 1.25rem) 1fr minmax(0, 1.25rem) 1fr minmax(0, 1.25rem) 1fr;
-    grid-template-rows: -webkit-max-content -webkit-max-content auto -webkit-max-content -webkit-max-content -webkit-max-content;
-    grid-template-rows: max-content max-content auto max-content max-content max-content
+    grid-template-rows: -webkit-max-content -webkit-max-content 1fr -webkit-max-content -webkit-max-content -webkit-max-content;
+    grid-template-rows: max-content max-content 1fr max-content max-content max-content
   }
 
   .site-header__img {
@@ -5699,9 +5699,8 @@ a {
 }
 
 .longform blockquote:before {
-  margin-top:-1rem;
-  height:2.5rem;
-  width:2.5rem;
+  height:2rem;
+  width:2rem;
   display:block;
   position:absolute;
   top:0;
@@ -9782,12 +9781,12 @@ a {
     font-size:0.9375rem;
   }
 
-  .xs\:text-17{
-    font-size:1.0625rem;
-  }
-
   .xs\:text-18{
     font-size:1.125rem;
+  }
+
+  .xs\:text-19{
+    font-size:1.1875rem;
   }
 
   .xs\:text-23{
@@ -14280,12 +14279,12 @@ a {
     font-size:0.9375rem;
   }
 
-  .sm\:text-17{
-    font-size:1.0625rem;
-  }
-
   .sm\:text-18{
     font-size:1.125rem;
+  }
+
+  .sm\:text-19{
+    font-size:1.1875rem;
   }
 
   .sm\:text-23{
@@ -18778,12 +18777,12 @@ a {
     font-size:0.9375rem;
   }
 
-  .md\:text-17{
-    font-size:1.0625rem;
-  }
-
   .md\:text-18{
     font-size:1.125rem;
+  }
+
+  .md\:text-19{
+    font-size:1.1875rem;
   }
 
   .md\:text-23{
@@ -23276,12 +23275,12 @@ a {
     font-size:0.9375rem;
   }
 
-  .lg\:text-17{
-    font-size:1.0625rem;
-  }
-
   .lg\:text-18{
     font-size:1.125rem;
+  }
+
+  .lg\:text-19{
+    font-size:1.1875rem;
   }
 
   .lg\:text-23{
