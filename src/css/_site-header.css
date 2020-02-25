@@ -1,0 +1,77 @@
+.site-header {
+  width: 100%;
+  display: grid;
+
+  @media (max-width: 599px) {
+    grid-template-columns: minmax(0, 100px) 1fr 1fr 1fr;
+    grid-template-areas:
+      'img img img img'
+      'flying-a est est est'
+      'menu big-red big-red big-red';
+
+    &__img { grid-area: img; }
+    &__flying-a { grid-area: flying-a; }
+    &__big-red { grid-area: big-red; }
+    &__est { grid-area: est; }
+    &__menu { grid-area: menu; }
+  }
+
+  @media (min-width: 600px) and (max-width: 899px) {
+    grid-template-columns: 1fr 1fr minmax(0, 1.25rem) 1fr 1fr minmax(0, 1.25rem) 1fr 1fr minmax(0, 1.25rem) 1fr 1fr minmax(0, 1.25rem) 1fr 1fr minmax(0, 1.25rem) 1fr 1fr;
+    grid-template-rows: 1fr max-content max-content;
+
+    &__img {
+      grid-column: 8 / -1;
+      grid-row: 1 / -1;
+    }
+    &__flying-a {
+      grid-column: 1 / 4;
+      grid-row: 3 / -1;
+    }
+    &__big-red {
+      grid-column: 4 / -4;
+      grid-row: 2 / 3;
+      z-index: 2;
+    }
+    &__est {
+      grid-column: 1 / 3;
+      grid-row: 1 / 2;
+    }
+    &__menu {
+      grid-column: 4 / 6;
+      grid-row: 1 / 2;
+    }
+  }
+
+  @media (min-width: 900px) {
+    grid-template-columns: 1fr minmax(0, 1.25rem) 1fr minmax(0, 1.25rem) 1fr minmax(0, 1.25rem) 1fr minmax(0, 1.25rem) 1fr;
+    grid-template-rows: max-content max-content 1fr max-content max-content max-content;
+
+    &__img {
+      grid-column: 5 / -1;
+      grid-row: 1 / 6;
+    }
+
+    &__flying-a {
+      grid-column: 1 / 2;
+      grid-row: 5 / 6;
+    }
+
+    &__big-red {
+      grid-column: 2 / -2;
+      grid-row: 4 / 5;
+      z-index: 2;
+    }
+
+    &__est {
+      grid-column: 1 / 2;
+      grid-row: 1 / 2;
+    }
+
+    &__menu {
+      grid-column: 1 / 2;
+      grid-row: 2 / 4;
+    }
+  }
+
+}

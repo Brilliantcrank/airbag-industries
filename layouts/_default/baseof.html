@@ -3,28 +3,37 @@
 
 	{{ partial "head" . }}
 
-	<body itemscope itemtype="http://schema.org/WebPage">
+	<body class="bg-white font-serif leading-normal text-black text-15 sm:text-19" itemscope itemtype="http://schema.org/WebPage">
 
-		<div class="all-of-it">
-
+		<div class="body max-w-5xl mx-auto">
 			{{ partial "header" . }}
+			{{ partial "stars" . }}
 
-			<main class="site-content">
+			<main id="main" class="main px-4 sm:px-4 md:px-8">
 
 				{{ block "main" . }}{{ end }}
 
 			</main><!-- end .site-content -->
 
-			<aside class="site-nav">
-
-				{{ partial "nav" . }}
-
-			</aside><!-- end .site-nav -->
-
+			{{ partial "stars" . }}
 			{{ partial "footer" . }}
+		</div>
 
-		</div><!-- end .all-of-it ☠️ -->
+		{{ if eq hugo.Environment "development" }}
+			<span class="text-10 fixed uppercase tracking-widest py-2 bg-navy text-white px-4 block left-0 bottom-0">
+				⚙ Dev
+			</span>
+		{{ else if eq hugo.Environment "staging" }}
+			<span class="text-10 fixed uppercase tracking-widest py-2 bg-navy text-white px-4 block left-0 bottom-0">
+				⚙ Staging
+			</span>
+		{{ end }}
 
+		<script
+			  src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+			  integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
+        crossorigin="anonymous"></script>
+    <script src="{{ "/assets/js/main.js" | relURL }}"></script>
 	</body>
 
 </html>

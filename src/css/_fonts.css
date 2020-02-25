@@ -1,0 +1,50 @@
+@font-face{
+  font-family:"Franziska";
+  src:url("/assets/fonts/5352342/d9cb12f4-1e6f-4be6-a2d2-fdcb8631395f.eot?#iefix");
+  src:url("/assets/fonts/5352342/d9cb12f4-1e6f-4be6-a2d2-fdcb8631395f.eot?#iefix") format("eot"),
+      url("/assets/fonts/5352342/21be1547-1961-44af-938e-146d4c07a22e.woff2") format("woff2"),
+      url("/assets/fonts/5352342/0220de03-1ed5-46c1-9e88-215c1443ae27.woff") format("woff"),
+      url("/assets/fonts/5352342/74f2d262-4783-4b51-9784-c8c1fa9dc3d2.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face{
+  font-family:"Franziska";
+  src:url("/assets/fonts/5365290/eef440be-1323-47c1-afae-83c34fd1a77f.eot?#iefix");
+  src:url("/assets/fonts/5365290/eef440be-1323-47c1-afae-83c34fd1a77f.eot?#iefix") format("eot"),
+      url("/assets/fonts/5365290/dadb27eb-711a-48c1-9d5b-b9a024a928bc.woff2") format("woff2"),
+      url("/assets/fonts/5365290/18992009-d5d3-4544-8c13-993620bd512e.woff") format("woff"),
+      url("/assets/fonts/5365290/086275c0-da0b-47f1-b4a8-ffa1152ce348.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face{
+  font-family:"Franziska";
+  src:url("/assets/fonts/5365471/c8aa0006-7347-41d3-a3fc-fc329aa0f7a4.eot?#iefix");
+  src:url("/assets/fonts/5365471/c8aa0006-7347-41d3-a3fc-fc329aa0f7a4.eot?#iefix") format("eot"),
+      url("/assets/fonts/5365471/0603b533-54ed-4540-b547-9ce32d1ef0d0.woff2") format("woff2"),
+      url("/assets/fonts/5365471/a8717e53-7fea-4dde-80f4-0830ba18abd9.woff") format("woff"),
+      url("/assets/fonts/5365471/95bdafba-178d-47f5-b586-5f094db8b52f.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+}
+@font-face{
+  font-family:"Franziska";
+  src:url("/assets/fonts/5366544/20fad14b-155f-4f70-8660-e57d606ee283.eot?#iefix");
+  src:url("/assets/fonts/5366544/20fad14b-155f-4f70-8660-e57d606ee283.eot?#iefix") format("eot"),
+      url("/assets/fonts/5366544/196c2ba0-c88b-467c-ad93-32ad9d484fd5.woff2") format("woff2"),
+      url("/assets/fonts/5366544/755ce2bb-66c7-4abd-aa22-cb246f085933.woff") format("woff"),
+      url("/assets/fonts/5366544/11e50049-f157-40d6-acde-51e52ddf8b30.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face{
+  font-family:"Franziska";
+  src:url("/assets/fonts/5366751/32719418-073a-4722-8a96-5b228b8af445.eot?#iefix");
+  src:url("/assets/fonts/5366751/32719418-073a-4722-8a96-5b228b8af445.eot?#iefix") format("eot"),
+      url("/assets/fonts/5366751/6440de18-2d30-4b96-b9c0-b7d4e950b67e.woff2") format("woff2"),
+      url("/assets/fonts/5366751/fdf7ca7e-0bc6-40b4-b889-d6ead3a0e95e.woff") format("woff"),
+      url("/assets/fonts/5366751/35d2cfac-9582-4427-904a-7d2e2b51b54a.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}

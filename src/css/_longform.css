@@ -1,0 +1,47 @@
+.longform {
+  h3 {
+    @apply uppercase font-extrabold;
+  }
+
+  > * + h3 {
+    @apply mt-12;
+  }
+
+  > p + p,
+  > h3 + p {
+   @apply mt-6;
+  }
+
+  * + ul,
+  ul + * {
+    @apply mt-6;
+  }
+
+  ul li {
+    @apply list-disc ml-6;
+  }
+
+  li + li {
+    @apply mt-3;
+  }
+
+  * + blockquote,
+  blockquote + * {
+    @apply mt-12;
+  }
+
+  blockquote {
+    @apply relative;
+
+    &:before {
+      @apply h-8 w-8 block absolute top-0 left-0 bg-contain bg-no-repeat bg-center;
+      content: "";
+      background-image: url('/assets/img/blockquote.svg');
+    }
+  }
+
+  blockquote > p {
+    @apply italic pl-12;
+  }
+
+}
