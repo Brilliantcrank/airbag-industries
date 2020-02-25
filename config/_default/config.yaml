@@ -1,38 +1,42 @@
+---
 title: Airbag Industries
 baseURL: https://localhost:1313/
-
 params:
   author: Greg Storey
-  description: A blunt voice in the world of interactive design.
+  description: Airbag has been around since Moveabletype beta and has enjoyed a reputation
+    for being a blunt voice in the world of interactive design.
   images:
-  - /assets/img/default.jpg
-  DateForm: "2 January '06"
+  - "/assets/img/default.jpg"
+  DateForm: 2 January '06
   languageCode: en-us
-
 permalinks:
-  post: /archive/:filename/
-
+  post: "/:filename/"
 menu:
   navlinks:
-  - identifier: subscribe
+  - url: https://feeds.feedburner.com/airbag
     name: Subscribe
-    url: https://feeds.feedburner.com/airbag
-    weight: 5
-  sociallinks:
-  - name: Twitter
-    url: 'https://twitter.com/Brilliantcrank'
-  - name: Instagram
-    url: 'https://instagram.com/Brilliantcrank'
-  - name: Medium
-    url: 'https://medium.com/@Brilliantcrank'
-  - name: Flickr
-    url: 'https://www.flickr.com/photos/brilliantcrank'
-  - name: Dribbble
-    url: 'https://www.dribbble.com/players/Brilliantcrank'
-  - name: Playstation
-    url: 'https://www.playstation.com/en-us/my/public-trophies/?onlinename=Brilliantcrank'
+    weight: 1
+    identifier: subscribe
   worklinks:
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/brilliantcrank
-  - name: Resume
-    url: https://www.linkedin.com/in/brilliantcrank
+  - url: https://www.linkedin.com/in/brilliantcrank
+    name: LinkedIn
+    weight: 1
+  sociallinks:
+  - url: https://www.dribbble.com/players/Brilliantcrank
+    name: Dribbble
+    weight: 1
+  - url: https://www.flickr.com/photos/brilliantcrank
+    name: Flickr
+    weight: 2
+  - url: https://instagram.com/Brilliantcrank
+    name: Instagram
+    weight: 3
+  - url: https://twitter.com/Brilliantcrank
+    name: Twitter
+    weight: 4
+  - url: https://www.playstation.com/en-us/my/public-trophies/?onlinename=Brilliantcrank
+    name: Playstation
+    weight: 5
+  - url: https://medium.com/@Brilliantcrank
+    name: Medium
+    weight: 6

@@ -28,10 +28,14 @@ fields:
   default: []
   label: Tags
 pages:
-- content/longboard/how-airships-could-return-to-our-crowded-skies.md
-- content/longboard/typographic-illusions.md
-- content/longboard/the-fifty-most-important-websites-of-all-time.md
-- content/longboard/ibm-smacks-down-google-on-it-s-claim-around-quantum-computing.md
-- content/longboard/i-took-the-world-s-first-20-hour-flight-here-s-what-it-did-to-me.md
-- content/longboard/stories-of-people-who-are-racing-to-save-us.md
+- content/longboard/according-to-20-000-creatives-brainstorming-is-a-giant-waste-of-time.md
+- content/longboard/atari-is-now-a-brand-of-hotels.md
 - content/longboard/fontshop-is-celebrating-30-years-in-business-with-a-30-discount-on-particular-font-families.md
+- content/longboard/how-airships-could-return-to-our-crowded-skies.md
+- content/longboard/i-took-the-world-s-first-20-hour-flight-here-s-what-it-did-to-me.md
+- content/longboard/ibm-smacks-down-google-on-it-s-claim-around-quantum-computing.md
+- content/longboard/in-u-s-library-visits-outpaced-trips-to-movies-in-2019.md
+- content/longboard/stories-of-people-who-are-racing-to-save-us.md
+- content/longboard/the-fifty-most-important-websites-of-all-time.md
+- content/longboard/typographic-illusions.md
+- content/longboard/what-happens-to-a-society-that-loses-its-capacity-for-awe-and-wonder-at-things-to-come.md
