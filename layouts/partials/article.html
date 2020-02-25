@@ -1,11 +1,6 @@
 <header>
   <div class="flex justify-between uppercase border-b border-dotted tracking-widest mb-6 pb-6 text-11 sm:text-13">
-    {{/* <div>
-      {{ range .Params.tags }}
-        <span class="article-tag"><a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a></span>
-      {{ end }}
-    </div> */}}
-    <span>#news</span>
+  {{ if .Params.tags }}<span>{{ range first 1 .Params.tags }}#<a class="font-normal text-black" href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a>{{ end }}</span>{{ end }}
     <time class="article-time" itemprop="datePublished" datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Date.Format "2 January '06" }}</time>
   </div>
   <h2 class="font-extrabold leading-tight text-23 md:text-27 sm:w-3/4 md:w-2/3 mb-8">

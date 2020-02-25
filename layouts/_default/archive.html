@@ -2,18 +2,33 @@
 
   <section class="archive">
     <header class="archive__header">
-      <h1 class="border-b pb-6 uppercase tracking-widest mb-6 text-11 sm:text-13">#Archive</h1>
+      <h1 class="border-b pb-6 uppercase tracking-wider mb-6 text-11 sm:text-13">#Archive</h1>
       <p class="text-23 sm:text-27 mb-12 font-extrabold text-blue">{{ .Title }}</p>
     </header>
+
     <div class="archive__content">
-      <div class="archive-list">
-      {{ range (where .Site.RegularPages "Type" "in" (slice "post"))}}
-        <article>
-        <h2><a href="{{.Permalink}}" title="{{.Title | safeHTML}}">{{ .Title }}</a></h2>
-        {{/* {{ .Date.Format "2 Jan '06" }} */}}
-        </article>
+      {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+        {{ range $key, $value := $taxonomy }}
+          {{ $posts := where $value.Pages "Section" "post" }}
+          {{ with len $posts }}
+            <section class="archive-group">
+              <h2 class="tracking-wider text-11 sm:text-13 uppercase mb-8">#{{ $key }}</h2>
+              <ul class="archive-list">
+                {{ range $posts }}<li><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>{{ end }}
+              </ul>
+            </section>
+          {{ end }}
+        {{ end }}
       {{ end }}
-      </div>
+
+      <section>
+        <h2 class="tracking-wider text-11 sm:text-13 uppercase mb-8">#Everything</h2>
+        <ul class="archive-list">
+        {{ range (where .Site.RegularPages "Type" "in" (slice "post"))}}
+          <li class="text-17"><a href="{{.Permalink}}">{{ .Title }}</a></li>
+        {{ end }}
+        </ul>
+      </section>
     </div>
   </section>
 {{ end }}

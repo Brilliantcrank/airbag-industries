@@ -1,7 +1,7 @@
 +++
 date = 2020-02-14T08:00:00Z
 description = "How ‘White Guilt’ in the Age of Trump Shapes the Democratic Primary"
-tags = []
+tags = ["test"]
 title = "How ‘White Guilt’ in the Age of Trump Shapes the Democratic Primary"
 
 +++

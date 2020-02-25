@@ -4775,6 +4775,10 @@ video {
   font-size:0.9375rem;
 }
 
+.text-17{
+  font-size:1.0625rem;
+}
+
 .text-18{
   font-size:1.125rem;
 }
@@ -4878,15 +4882,15 @@ video {
 }
 
 .tracking-wide{
-  letter-spacing:0.025em;
+  letter-spacing:0.025rem;
 }
 
 .tracking-wider{
-  letter-spacing:0.05em;
+  letter-spacing:0.15625rem;
 }
 
 .tracking-widest{
-  letter-spacing:0.1em;
+  letter-spacing:0.25rem;
 }
 
 .select-none{
@@ -5621,6 +5625,9 @@ a {
 
 .archive__content {
   grid-area: content;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-gap: 3rem;
 }
 
 .archive-list {
@@ -5641,6 +5648,10 @@ a {
     grid-template-columns: repeat(4, minmax(0, 1fr));
     grid-row-gap: 1.75rem;
     grid-column-gap: 1.25rem
+  }
+
+  .archive-list h2, .archive-list ul {
+    grid-column: span 4;
   }
 }
 
@@ -9790,6 +9801,10 @@ a {
     font-size:0.9375rem;
   }
 
+  .xs\:text-17{
+    font-size:1.0625rem;
+  }
+
   .xs\:text-18{
     font-size:1.125rem;
   }
@@ -9893,15 +9908,15 @@ a {
   }
 
   .xs\:tracking-wide{
-    letter-spacing:0.025em;
+    letter-spacing:0.025rem;
   }
 
   .xs\:tracking-wider{
-    letter-spacing:0.05em;
+    letter-spacing:0.15625rem;
   }
 
   .xs\:tracking-widest{
-    letter-spacing:0.1em;
+    letter-spacing:0.25rem;
   }
 
   .xs\:select-none{
@@ -14288,6 +14303,10 @@ a {
     font-size:0.9375rem;
   }
 
+  .sm\:text-17{
+    font-size:1.0625rem;
+  }
+
   .sm\:text-18{
     font-size:1.125rem;
   }
@@ -14391,15 +14410,15 @@ a {
   }
 
   .sm\:tracking-wide{
-    letter-spacing:0.025em;
+    letter-spacing:0.025rem;
   }
 
   .sm\:tracking-wider{
-    letter-spacing:0.05em;
+    letter-spacing:0.15625rem;
   }
 
   .sm\:tracking-widest{
-    letter-spacing:0.1em;
+    letter-spacing:0.25rem;
   }
 
   .sm\:select-none{
@@ -18786,6 +18805,10 @@ a {
     font-size:0.9375rem;
   }
 
+  .md\:text-17{
+    font-size:1.0625rem;
+  }
+
   .md\:text-18{
     font-size:1.125rem;
   }
@@ -18889,15 +18912,15 @@ a {
   }
 
   .md\:tracking-wide{
-    letter-spacing:0.025em;
+    letter-spacing:0.025rem;
   }
 
   .md\:tracking-wider{
-    letter-spacing:0.05em;
+    letter-spacing:0.15625rem;
   }
 
   .md\:tracking-widest{
-    letter-spacing:0.1em;
+    letter-spacing:0.25rem;
   }
 
   .md\:select-none{
@@ -23284,6 +23307,10 @@ a {
     font-size:0.9375rem;
   }
 
+  .lg\:text-17{
+    font-size:1.0625rem;
+  }
+
   .lg\:text-18{
     font-size:1.125rem;
   }
@@ -23387,15 +23414,15 @@ a {
   }
 
   .lg\:tracking-wide{
-    letter-spacing:0.025em;
+    letter-spacing:0.025rem;
   }
 
   .lg\:tracking-wider{
-    letter-spacing:0.05em;
+    letter-spacing:0.15625rem;
   }
 
   .lg\:tracking-widest{
-    letter-spacing:0.1em;
+    letter-spacing:0.25rem;
   }
 
   .lg\:select-none{
