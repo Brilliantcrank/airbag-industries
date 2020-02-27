@@ -1,15 +1,10 @@
 ---
 title: About Airbag Industries
-page_title: Contact Information
+page_title: About
 description: A blunt voice in the world of interactive design.
-menu:
-  navlinks:
-    identifier: about
-    name: About
-    weight: 2
----
 
-This site launched on January &#39;02, when blogging as a site format was in its earliest infancy. In those days, if you wanted to be a part of the conversation you had to blog yourself because blog comments--neither the idea nor the technology&#151;had been created yet. In the last eleven years, Airbag has earned a reputation for being a blunt voice in the world of interactive design though not always on the topic.
+---
+This site launched on January '02, when blogging as a site format was in its earliest infancy. In those days, if you wanted to be a part of the conversation you had to blog yourself because blog comments--neither the idea nor the technology had been created yet. In the last eleven years, Airbag has earned a reputation for being a blunt voice in the world of interactive design though not always on the topic.
 
 In the summer of 2005 Greg started his studio and used the Airbag name for the company. Airbag Industries LLC had a good run from 2005 through 2009 when the company merged with long-time competitor and peer, [Happy Cog](https://www.airbagindustries.com/archives/airbag/memento.php).
 
