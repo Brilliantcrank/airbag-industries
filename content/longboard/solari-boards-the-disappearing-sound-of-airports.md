@@ -1,6 +1,6 @@
 +++
 date = 2020-02-26T08:00:00Z
-tags = []
+tags = ["design"]
 target_url = "https://www.bbc.com/news/world-asia-51470599"
 title = "Solari boards: The disappearing sound of airports."
 
