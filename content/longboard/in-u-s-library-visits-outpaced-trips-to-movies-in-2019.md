@@ -1,6 +1,6 @@
 +++
 date = 2020-01-25T08:00:00Z
-tags = []
+tags = ["utopia"]
 target_url = "https://news.gallup.com/poll/284009/library-visits-outpaced-trips-movies-2019.aspx"
 title = "\"In U.S., library visits outpaced trips to movies in 2019.\""
 
