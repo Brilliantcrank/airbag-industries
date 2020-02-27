@@ -1,5 +1,6 @@
 +++
-date = "2019-10-23T07:00:00+00:00"
+date = 2019-10-23T07:00:00Z
+tags = ["nerd"]
 target_url = "https://www.wired.com/story/ibm-googles-quantum-leap-quantum-flop/"
 title = "IBM smacks down Google on it's claim around quantum computing."
 
