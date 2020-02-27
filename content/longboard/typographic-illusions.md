@@ -1,6 +1,6 @@
 +++
 date = 2019-11-05T08:00:00Z
-tags = []
+tags = ["typography"]
 target_url = "https://www.typography.com/blog/typographic-illusions"
 title = "Typographic Illusions."
 
