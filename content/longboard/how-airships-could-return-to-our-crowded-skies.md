@@ -1,6 +1,6 @@
 +++
 date = 2019-11-11T08:00:00Z
-tags = []
+tags = ["airships"]
 target_url = "https://www.bbc.com/future/article/20191107-how-airships-could-return-to-our-crowded-skies"
 title = "How airships could return to our crowded skies."
 
