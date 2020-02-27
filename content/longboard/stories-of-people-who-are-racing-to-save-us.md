@@ -1,5 +1,6 @@
 +++
-date = "2019-10-15T07:00:00+00:00"
+date = 2019-10-15T07:00:00Z
+tags = ["utopia"]
 target_url = "https://www.wired.com/story/wired25-stories-people-racing-to-save-us/"
 title = "\"Stories of People Who Are Racing to Save Us.\""
 
