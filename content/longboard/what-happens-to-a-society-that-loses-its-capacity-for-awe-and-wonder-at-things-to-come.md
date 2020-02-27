@@ -1,6 +1,6 @@
 +++
 date = 2020-01-24T08:00:00Z
-tags = []
+tags = ["utopia"]
 target_url = "https://www.nytimes.com/2020/01/24/opinion/sunday/william-gibson-agency.html"
 title = "\"What happens to a society that loses its capacity for awe and wonder at things to come?\""
 
