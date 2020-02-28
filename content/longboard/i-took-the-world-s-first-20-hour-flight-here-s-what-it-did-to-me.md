@@ -1,5 +1,6 @@
 +++
-date = "2019-10-20T07:00:00+00:00"
+date = 2019-10-20T07:00:00Z
+tags = ["travel"]
 target_url = "https://www.latimes.com/business/story/2019-10-19/i-just-took-the-worlds-first-20-hour-flight-heres-what-it-did-to-me"
 title = "\"I took the world’s first 20-hour flight. Here’s what it did to me.\""
 
@@ -10,4 +11,4 @@ A first person account of the record breaking 19 hour non-stop flight from New Y
 
 It will be interesting to see how the research impacts the passenger experience on future long-haul flights. I once flew from Dallas to Shanghai and it took 14.5 hours and even though I had a first class cabin on a brand new Boing 787, the travel affects hit me like a wall and it took an entire day to recover.
 
-As the number of annual airline passengers increases from "[4.6 billion this year to 8.2 billion by 2037](https://www.iata.org/pressroom/pr/Pages/2018-10-24-02.aspx)" I'm sure this research will come in handy. Meanwhile, the Guardian pledges ["How to explore the world without harming it."](https://www.theguardian.com/business/2019/oct/20/qantas-longest-commercial-flight-new-york-sydney-dreamliner-787)
+As the number of annual airline passengers increases from "[4.6 billion this year to 8.2 billion by 2037](4.6 billion this year to 8.2 billion by 2037 "4.6 billion this year to 8.2 billion by 2037")" I'm sure this research will come in handy. Meanwhile, the Guardian pledges ["How to explore the world without harming it."]() 
