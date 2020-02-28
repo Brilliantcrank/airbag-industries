@@ -3,8 +3,7 @@ title: Airbag Industries
 baseURL: https://localhost:1313/
 params:
   author: Greg Storey
-  description: Airbag has been around since Moveabletype beta and has enjoyed a reputation
-    for being a blunt voice in the world of interactive design.
+  description: Airbag has been around since Moveabletype Beta and has enjoyed a reputation for being a blunt voice in the world of digital design.
   images:
   - "/assets/img/default.jpg"
   DateForm: 2 January '06

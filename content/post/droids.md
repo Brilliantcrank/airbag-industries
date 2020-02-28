@@ -1,7 +1,7 @@
 +++
 date = 2020-02-19T08:00:00Z
 description = "A resurgence of personal sites that helped build the web as we know it today."
-tags = ["Test"]
+tags = []
 target_url = ""
 title = "Droids."
 

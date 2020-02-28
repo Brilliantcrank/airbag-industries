@@ -12,9 +12,18 @@
    @apply mt-6;
   }
 
+  * + ol,
+  ol + * {
+    @apply mt-6
+  }
+
   * + ul,
   ul + * {
     @apply mt-6;
+  }
+
+  ol li {
+    @apply list-decimal ml-6;
   }
 
   ul li {

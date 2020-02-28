@@ -1,6 +1,6 @@
 +++
 date = 2020-01-28T08:00:00Z
-tags = ["tag1","tag2","tag3"]
+tags = ["Gaming","Atari"]
 target_url = "https://9to5toys.com/2020/01/27/atari-hotels-esports-arcade/"
 title = "Atari is now a brand of hotels."
 

@@ -21,7 +21,7 @@
     grid-template-rows: 1fr max-content max-content;
 
     &__img {
-      grid-column: 8 / -1;
+      grid-column: 7 / -1;
       grid-row: 1 / -1;
     }
     &__flying-a {
@@ -40,6 +40,12 @@
     &__menu {
       grid-column: 4 / 6;
       grid-row: 1 / 2;
+    }
+  }
+
+  @media (min-width: 740px) and (max-width: 899px) {
+    &__img {
+      grid-column: 8 / -1;
     }
   }
 

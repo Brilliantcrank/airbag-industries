@@ -9,8 +9,12 @@
     {{ partial "extra" . }}
     */}}
     <div class="site-footer__flying-a">
-      <div class="bg-navy px-4 py-6 block sm:max-w-5xs">
-        <img src="/assets/svg/a.svg" alt="">
+      <div class="sm:max-h-5xs sm:max-w-5xs relative">
+        <div class="bg-navy flex w-full items-center justify-center pt-full xs:h-0">
+          <div class="absolute inset-0 flex items-center justify-center">
+            <img class="w-8/12 md:w-7/12" src="/assets/svg/a.svg" alt="">
+          </div>
+        </div>
       </div>
     </div>
 
@@ -23,7 +27,7 @@
 
   <div class="footer-end sm:mt-10">
     <div class="site-footer__big-red bg-red flex justify-center px-4 py-4">
-      <img src="/assets/img/airbag.svg" alt="">
+      <img class="w-full max-w-3xs" src="/assets/img/airbag.svg" alt="">
     </div>
     <div class="site-footer__made hidden sm:flex flex-col justify-center mr-5">
       <p class="text-11 sm:text-13">Tacoma, Washington, USA</p>

@@ -14,18 +14,18 @@
             <section class="archive-group">
               <h2 class="tracking-wider text-11 sm:text-13 uppercase mb-8">#{{ $key }}</h2>
               <ul class="archive-list">
-                {{ range $posts }}<li><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>{{ end }}
+                {{ range $posts }}<li class="text-15 sm:text-17"><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>{{ end }}
               </ul>
             </section>
           {{ end }}
         {{ end }}
       {{ end }}
 
-      <section>
+      <section class="archive-group">
         <h2 class="tracking-wider text-11 sm:text-13 uppercase mb-8">#Everything</h2>
         <ul class="archive-list">
         {{ range (where .Site.RegularPages "Type" "in" (slice "post"))}}
-          <li class="text-17"><a href="{{.Permalink}}">{{ .Title }}</a></li>
+          <li class="text-15 sm:text-17"><a href="{{.Permalink}}">{{ .Title }}</a></li>
         {{ end }}
         </ul>
       </section>

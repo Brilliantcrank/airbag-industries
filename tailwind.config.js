@@ -110,7 +110,6 @@ module.exports = {
       ],
       serif: [
         'Franziska',
-        'Helvetica',
         'Georgia',
         'Cambria',
         '"Times New Roman"',

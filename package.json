@@ -6,6 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "hugo server -D",
+    "build:staging": "hugo --environment staging",
+    "build:production": "hugo --environment production",
     "watch": "hugo --watch",
     "build": "hugo",
     "gulp-watch": "gulp watch",

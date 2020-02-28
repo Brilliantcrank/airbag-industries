@@ -1691,7 +1691,7 @@ video {
 }
 
 .font-serif{
-  font-family:Franziska, Helvetica, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family:Franziska, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
 .font-mono{
@@ -5287,7 +5287,7 @@ a {
   }
 
   .site-header__img {
-    grid-column: 8 / -1;
+    grid-column: 7 / -1;
     grid-row: 1 / -1;
   }
 
@@ -5310,6 +5310,12 @@ a {
   .site-header__menu {
     grid-column: 4 / 6;
     grid-row: 1 / 2;
+  }
+}
+
+@media (min-width: 740px) and (max-width: 899px) {
+  .site-header__img {
+    grid-column: 8 / -1;
   }
 }
 
@@ -5350,7 +5356,7 @@ a {
 @media screen and (max-width: 599px) {
   .footer-main {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: minmax(0, 100px) repeat(3, minmax(0, 1fr));
   }
 
   .footer-main .shutterthumb__content {
@@ -5405,7 +5411,7 @@ a {
 
   .footer-end {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: minmax(0, 100px) repeat(3, minmax(0, 1fr));
   }
 
   .footer-end .site-footer__big-red {
@@ -5601,33 +5607,55 @@ a {
 
 .archive {
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
 }
 
 @media (min-width: 600px) and (max-width: 899px) {
   .archive {
-    grid-template-columns: 1fr 4fr 1fr;
-    grid-template-areas: '. header .' '. content .';
-    width: 100%
+    grid-template-columns: minmax(0, 1fr) minmax(0, 4fr) minmax(0, 1fr)
   }
 }
 
 @media (min-width: 900px) {
   .archive {
-    grid-template-columns: repeat(5, 1fr);
-    grid-template-areas: '. header header header .' '. content content content content';
+    grid-template-columns: repeat(5, minmax(0, 1fr));
     grid-column-gap: 1.25rem
   }
 }
 
 .archive__header {
-  grid-area: header;
+  grid-columns: 1/-1;
+}
+
+@media (min-width: 600px) and (max-width: 899px) {
+  .archive__header {
+    grid-column: 2/-2
+  }
+}
+
+@media (min-width: 900px) {
+  .archive__header {
+    grid-column: 2/-2
+  }
 }
 
 .archive__content {
-  grid-area: content;
   display: grid;
   grid-template-columns: minmax(0, 1fr);
   grid-gap: 3rem;
+  grid-column: 1/-1;
+}
+
+@media (min-width: 600px) and (max-width: 899px) {
+  .archive__content {
+    grid-column: 2/-2
+  }
+}
+
+@media (min-width: 900px) {
+  .archive__content {
+    grid-column: 2/-1
+  }
 }
 
 .archive-list {
@@ -5635,15 +5663,23 @@ a {
   grid-row-gap: 1.125rem;
 }
 
-@media (min-width: 600px) and (max-width: 899px) {
+@media (min-width: 350px) and (max-width: 499px) {
   .archive-list {
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     grid-row-gap: 1.75rem;
     grid-column-gap: 1.25rem
   }
 }
 
-@media (min-width: 900px) {
+@media (min-width: 500px) and (max-width: 749px) {
+  .archive-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-row-gap: 1.75rem;
+    grid-column-gap: 1.25rem
+  }
+}
+
+@media (min-width: 750px) {
   .archive-list {
     grid-template-columns: repeat(4, minmax(0, 1fr));
     grid-row-gap: 1.75rem;
@@ -5695,9 +5731,19 @@ a {
   margin-top:1.5rem;
 }
 
+.longform * + ol,
+  .longform ol + * {
+  margin-top:1.5rem
+}
+
 .longform * + ul,
   .longform ul + * {
   margin-top:1.5rem;
+}
+
+.longform ol li {
+  list-style-type:decimal;
+  margin-left:1.5rem;
 }
 
 .longform ul li {
@@ -6717,7 +6763,7 @@ a {
   }
 
   .xs\:font-serif{
-    font-family:Franziska, Helvetica, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family:Franziska, Georgia, Cambria, "Times New Roman", Times, serif;
   }
 
   .xs\:font-mono{
@@ -11219,7 +11265,7 @@ a {
   }
 
   .sm\:font-serif{
-    font-family:Franziska, Helvetica, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family:Franziska, Georgia, Cambria, "Times New Roman", Times, serif;
   }
 
   .sm\:font-mono{
@@ -15721,7 +15767,7 @@ a {
   }
 
   .md\:font-serif{
-    font-family:Franziska, Helvetica, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family:Franziska, Georgia, Cambria, "Times New Roman", Times, serif;
   }
 
   .md\:font-mono{
@@ -20223,7 +20269,7 @@ a {
   }
 
   .lg\:font-serif{
-    font-family:Franziska, Helvetica, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family:Franziska, Georgia, Cambria, "Times New Roman", Times, serif;
   }
 
   .lg\:font-mono{
