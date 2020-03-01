@@ -12,11 +12,6 @@ params:
 permalinks:
   post: "/:filename/"
 menu:
-  navlinks:
-  - url: https://feeds.feedburner.com/airbag
-    name: Subscribe
-    weight: 1
-    identifier: subscribe
   worklinks:
   - url: https://www.linkedin.com/in/brilliantcrank
     name: LinkedIn
