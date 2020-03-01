@@ -12,6 +12,10 @@ params:
 permalinks:
   post: "/:filename/"
 menu:
+  navlinks:
+  - url: https://airbagindustries.com/rss.xml
+    name: Subscribe
+    weight: 3
   worklinks:
   - url: https://www.linkedin.com/in/brilliantcrank
     name: LinkedIn
