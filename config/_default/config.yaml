@@ -17,6 +17,9 @@ menu:
     name: Subscribe
     weight: 3
   worklinks:
+  - url: https://storey.myportfolio.com
+    name: Portfolio
+    weight: 2
   - url: https://www.linkedin.com/in/brilliantcrank
     name: LinkedIn
     weight: 1
