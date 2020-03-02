@@ -4,6 +4,7 @@ page_title: About
 description: A blunt voice in the world of interactive design.
 menu:
   navlinks:
+    identifier: about
     name: About
     weight: 2
 
