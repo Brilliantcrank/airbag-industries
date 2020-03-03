@@ -6,5 +6,6 @@ menu:
   navlinks:
     name: Home
     weight: 1
+    identifier: home
 
 ---
