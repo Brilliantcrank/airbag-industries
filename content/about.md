@@ -5,6 +5,7 @@ description: A blunt voice in the world of interactive design.
 menu:
   navlinks:
     name: About
+    identifier: ''
     weight: 2
     identifier: about
 

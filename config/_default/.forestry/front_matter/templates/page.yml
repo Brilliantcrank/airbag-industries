@@ -16,3 +16,37 @@ fields:
   name: description
   label: Meta Description
   description: Custom meta description, used for search and social summaries
+- name: menu
+  type: field_group
+  config: {}
+  fields:
+  - name: navlinks
+    type: field_group
+    config: {}
+    fields:
+    - name: name
+      type: text
+      config:
+        required: false
+      label: Name
+    - name: identifier
+      type: text
+      config:
+        required: false
+      label: Identifier
+    - name: weight
+      type: number
+      label: Weight
+      description: ''
+      default: 0
+      required: true
+      config:
+        min: 
+        max: 
+        step: 
+    label: navlinks
+  label: menu
+pages:
+- content/_index.md
+- content/about.md
+- content/contact.md
