@@ -46,3 +46,5 @@ fields:
         step: 
     label: navlinks
   label: menu
+pages:
+- content/contact.md
