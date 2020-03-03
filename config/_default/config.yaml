@@ -6,7 +6,7 @@ params:
   description: Airbag has been around since Moveabletype Beta and has enjoyed a reputation
     for being a blunt voice in the world of digital design.
   images:
-  - "/assets/img/default.jpg"
+  - "https://airbagindustries.com/assets/img/airbag-graph.png"
   DateForm: 2 January '06
   languageCode: en-us
 permalinks:
