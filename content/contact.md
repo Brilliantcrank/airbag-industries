@@ -4,6 +4,7 @@ page_title: Contact Information
 description: ''
 menu:
   navlinks:
+    identifier: contact
     name: Contact
     weight: 4
 
