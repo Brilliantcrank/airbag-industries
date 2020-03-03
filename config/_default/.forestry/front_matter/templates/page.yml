@@ -16,23 +16,6 @@ fields:
   name: description
   label: Meta Description
   description: Custom meta description, used for search and social summaries
-- name: menu
-  type: field_group
-  config: {}
-  fields:
-  - name: navlinks
-    type: field_group
-    config: {}
-    fields:
-    - name: identifier
-      type: text
-      config:
-        required: false
-      label: Identifier
-    label: navlinks
-  label: menu
-  description: Use only to set "Identifier" for Menus — this enables an "active" state
-    on current pages. For other menu settings use the Menus option in the side bar.
 pages:
 - content/_index.md
 - content/about.md
