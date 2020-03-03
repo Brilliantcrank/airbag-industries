@@ -5,7 +5,7 @@ description: ''
 menu:
   navlinks:
     name: Contact
-    identifier: ''
+    identifier: contact
     weight: 4
 
 ---
