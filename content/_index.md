@@ -7,6 +7,5 @@ menu:
     name: Home
     identifier: ''
     weight: 1
-    identifier: home
 
 ---
