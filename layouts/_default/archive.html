@@ -2,7 +2,7 @@
 
   <section class="archive">
     <header class="archive__header">
-      <h1 class="border-b pb-6 uppercase tracking-wider mb-6 text-11 sm:text-13">#Archive</h1>
+      <h1 class="border-b pb-6 uppercase tracking-wider mb-6 text-11 sm:text-12">#Archive</h1>
       <p class="text-23 sm:text-27 mb-12 font-extrabold text-blue">{{ .Title }}</p>
     </header>
 
@@ -12,7 +12,7 @@
           {{ $posts := where $value.Pages "Section" "post" }}
           {{ with len $posts }}
             <section class="archive-group">
-              <h2 class="tracking-wider text-11 sm:text-13 uppercase mb-8">#{{ $key }}</h2>
+              <h2 class="tracking-wider text-11 sm:text-12 uppercase mb-8">#{{ $key }}</h2>
               <ul class="archive-list">
                 {{ range $posts }}<li class="text-15 sm:text-17"><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>{{ end }}
               </ul>
@@ -22,7 +22,7 @@
       {{ end }}
 
       <section class="archive-group">
-        <h2 class="tracking-wider text-11 sm:text-13 uppercase mb-8">#Everything</h2>
+        <h2 class="tracking-wider text-11 sm:text-12 uppercase mb-8">#Everything</h2>
         <ul class="archive-list">
         {{ range (where .Site.RegularPages "Type" "in" (slice "post"))}}
           <li class="text-15 sm:text-17"><a href="{{.Permalink}}">{{ .Title }}</a></li>

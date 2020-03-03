@@ -3,7 +3,7 @@
 <article class="article" itemscope itemtype="http://schema.org/CreativeWork">
 	<header class="article__header">
 		{{ if eq .Section "post" }}
-		<div class="flex justify-between uppercase border-b border-dotted tracking-wider mb-6 pb-6 text-11 sm:text-13">
+		<div class="flex justify-between uppercase border-b border-dotted tracking-wider mb-6 pb-6 text-11 sm:text-12">
 		{{ if .Params.tags }}<span>{{ range first 1 .Params.tags }}#<a class="font-normal text-black" href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a>{{ end }}</span>{{ end }}
 			<time class="article-time" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format .Site.Params.DateForm }}</time>
 		</div>

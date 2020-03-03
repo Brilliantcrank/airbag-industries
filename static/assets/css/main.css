@@ -5757,7 +5757,7 @@ a {
 
 .longform * + blockquote,
   .longform blockquote + * {
-  margin-top:3rem;
+  margin-top:2rem;
 }
 
 .longform blockquote {
