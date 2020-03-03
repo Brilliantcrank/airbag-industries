@@ -31,6 +31,8 @@ fields:
       label: Identifier
     label: navlinks
   label: menu
+  description: Use only to set "Identifier" for Menus — this enables an "active" state
+    on current pages. For other menu settings use the Menus option in the side bar.
 pages:
 - content/_index.md
 - content/about.md
