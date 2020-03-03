@@ -7,5 +7,6 @@ layout: archive
 menu:
   navlinks:
     identifier: archive
-
+    name: Archive
+    weight: 5
 ---

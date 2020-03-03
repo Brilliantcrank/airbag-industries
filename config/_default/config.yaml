@@ -13,26 +13,10 @@ permalinks:
   post: "/:filename/"
 menu:
   navlinks:
-  - url: "/archive"
-    name: Archive
-    weight: 4
-    identifier: archive
   - url: https://airbagindustries.com/index.xml
     name: Subscribe
-    weight: 2
-    identifier: subscribe
-  - url: "/"
-    name: Home
-    weight: 1
-    identifier: home
-  - url: "/about"
-    name: About
-    weight: 5
-    identifier: about
-  - url: "/contact"
-    name: Contact
     weight: 3
-    identifier: contact
+    identifier: subscribe
   worklinks:
   - url: https://www.linkedin.com/in/brilliantcrank
     name: LinkedIn
