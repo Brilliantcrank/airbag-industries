@@ -15,7 +15,7 @@ menu:
   navlinks:
   - url: https://airbagindustries.com/index.xml
     name: Subscribe
-    weight: 2
+    weight: 3
     identifier: subscribe
   worklinks:
   - url: https://www.linkedin.com/in/brilliantcrank
