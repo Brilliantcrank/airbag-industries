@@ -47,4 +47,6 @@ fields:
     label: navlinks
   label: menu
 pages:
+- content/_index.md
+- content/about.md
 - content/contact.md
