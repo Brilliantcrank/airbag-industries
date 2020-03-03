@@ -4,21 +4,28 @@ page_title: About
 description: A blunt voice in the world of interactive design.
 menu:
   navlinks:
-    identifier: about
     name: About
     weight: 2
 
 ---
-This site launched on January '02, when blogging as a site format was in its earliest infancy. In those days, if you wanted to be a part of the conversation you had to blog yourself because blog comments--neither the idea nor the technology had been created yet. In the last eleven years, Airbag has earned a reputation for being a blunt voice in the world of interactive design though not always on the topic.
+Airbag Industries is the personal website of Greg Storey. It started in 2002 and thus far has had a pretty good run.
 
-In the summer of 2005 Greg started his studio and used the Airbag name for the company. Airbag Industries LLC had a good run from 2005 through 2009 when the company merged with long-time competitor and peer, [Happy Cog](https://www.airbagindustries.com/archives/airbag/memento.php).
+This site was originally designed and developed by Greg and built on the [Movabletype](https://movabletype.org "Movabletype"), one of the first content management systems that helped bring about blogging as an easy-to-use format for publishing on the Internet. That site ran strong for a good twelve years on a Mac mini before it gave out for good.
 
-Today, Airbag is back to serve its original purpose.
+You are using the third version of this site. It was designed by Greg, developed by [Stephen Caver](https://www.stephencaver.com "Stephen Caver"), and engineered by [Jesse Gardner](https://plasticmind.com "Plasticmind") (who did a tremendous job migrating all of the site’s data from the old server). As a website is never finished, expect to see changes from time-to-time.
 
-### About Greg
+The site features a single typeface, [FF Franziska](http://fffranziska.com "FF Franziska"), to provide a better reading experience. Franziska was designed by Jakob Runge as part of his graduate study in typography and continued to improve with the help of the folks at FontFont. As a side note: Helvetica sucks.
 
-Airbag is written by [Greg Storey](http://www.linkedin.com/in/brilliantcrank). In the last twenty years, he has hired, managed, and lead a number of design and development teams, creating websites for everything from NCAA sports tournaments to AAA game titles, telemedicine to Fortune 100 brands. His ideas and his work as a designer have been profiled in Communication Arts, The Wall Street Journal, <span class="caps">MSNBC</span>, Salon Magazine, and the Associated Press.
+This site currently uses a combination of Github, Hugo, and Netlify to store, manage, and serve the content. Forestry is used as a visual interface for editing the stories and links.
 
-Greg grew up in Alaska and lived there for twenty years until moving gleefully to Southern California. After twelve years in the Golden State, Greg moved to Austin, Texas where he currently resides in Bouldin Creek community.
+**About the Brandname**
 
-Greg serves as an advisor to Dribbble and Lexblog. He also co-founded the [Bureau of Digital](http://bureauofdigital.com), the company behind awesome digital industry events, [Owner Camp](http://www.ownercamp.com) and [Digital PM Summit](http://www.dpmsummit2013.com).
+The name came from the need to have a blog title starting with the letter “A” because, at the time, search engines (Google) did not exist. Instead, there were only directories (Yahoo, AltaVista) that were often listed in alphabetical order. Around the same time, there happened to be a lot of historical content on World War II as the fiftieth anniversary was around the corner, including new books and television programs on airships like the amazing [USS Macon](https://en.wikipedia.org/wiki/USS_Macon_(ZRS-5) "USS Macon")—the centerpiece of the iconic branding.
+
+**About the Studio**
+
+From 2005—2009, the Airbag brand was used for an independent, boutique digital studio. More on this later, for now just know that it was a glorious time.
+
+**About Greg Storey**
+
+Greg is a designer of over thirty years of experience. He started his career at the dawn of desktop publishing but learned graphic design through the old ways. He graduated college around the same time as the debut of the World Wide Web and began designing for the Internet and hasn’t stopped. Since then, he has lead digital design teams for all types of organizations from non-profit to Enterprise. He has lived in Alaska, California, Texas, and now resides in the Pacific Northwest.
