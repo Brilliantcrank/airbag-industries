@@ -6,7 +6,6 @@ menu:
   navlinks:
     name: About
     weight: 2
-    identifier: about
 
 ---
 Airbag Industries is the personal website of Greg Storey. It started in 2002 and thus far has had a pretty good run.
@@ -21,7 +20,7 @@ This site currently uses a combination of Github, Hugo, and Netlify to store, ma
 
 **About the Brandname**
 
-The name came from the need to have a blog title starting with the letter “A” because, at the time, search engines (Google) did not exist. Instead, there were only directories (Yahoo, AltaVista) that were often listed in alphabetical order. Around the same time, there happened to be a lot of historical content on World War II as the fiftieth anniversary was around the corner, including new books and television programs on airships like the amazing [USS Macon](https://en.wikipedia.org/wiki/USS_Macon_(ZRS-5) "USS Macon")—the centerpiece of the iconic branding.
+The name came from the need to have a blog title starting with the letter “A” because, at the time, search engines (Google) did not exist. Instead, there were only directories (Yahoo, AltaVista) that were often listed in alphabetical order. Around the same time, there happened to be a lot of historical content on World War II as the fiftieth anniversary was around the corner, including new books and television programs on airships like the amazing [USS Macon](https://en.wikipedia.org/wiki/USS_Macon_(ZRS-5) "USS Macon")—the centerpiece of the iconic branding. Knowing that the content of the site would likely be driven by a lot of hot air, it seemed appropriate to call the site Airbag and feature the imagery of airships from long ago.
 
 **About the Studio**
 
