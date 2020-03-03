@@ -1,16 +1,20 @@
 {{ define "main" }}
 
+<section class="list">
   {{ if or .Title .Content }}
-  <div>
-    {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+  {{/*
+  <header class="list__header">
+    {{ with .Title }}<h1 class="text-23 sm:text-27 mb-12 font-extrabold text-blue">#{{ . }}</h1>{{ end }}
     {{ with .Content }}<div>{{ . }}</div>{{ end }}
-  </div>
+  </header>
+  */}}
   {{ end }}
 
-  <div class="steram">
+  <div class="stream">
     {{ range .Pages }}
       {{ partial "summary" . }}
     {{ end }}
   </div>
+</section>
 
 {{ end }}
