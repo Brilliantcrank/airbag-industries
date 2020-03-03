@@ -1,3 +1,32 @@
-<header class="site-mast" itemscope itemtype="http://schema.org/WPHeader">
-  <a href="{{ .Site.BaseURL }}" title="{{ .Site.Title | safeHTMLAttr }}">{{ .Site.Title }}</a>
+<header class="site-header sm:px-4 md:px-8 max-w-5xl mx-auto" itemscope itemtype="http://schema.org/WPHeader">
+  <div class="site-header__flying-a flex">
+    <a class="bg-navy flex w-full items-center justify-center xs:pt-full xs:h-0 relative" href="{{ .Site.BaseURL }}" title="{{ .Site.Title | safeHTMLAttr }}">
+      <div class="absolute inset-0 flex items-center justify-center">
+        <img class="w-8/12 md:w-7/12" src="/assets/svg/a.svg" alt="{{ .Site.Title }}">
+      </div>
+    </a>
+  </div>
+  <div class="site-header__big-red">
+    <div class="bg-red flex justify-center px-4 sm:px-12 py-4">
+      <img class="w-full max-w-3xs sm:hidden" src="/assets/img/airbag.svg" alt="Airbag">
+      <img class="w-full hidden sm:block" src="/assets/img/rigid-frame-commentary.svg" alt="Rigid Frame Commentary">
+    </div>
+  </div>
+  <div class="site-header__est text-11 xs:text-13 px-4 sm:px-0 sm:pr-4 md:pr-0 py-4 flex items-center sm:items-start">
+    <div class="sm:mt-4">
+      <p><strong>Est. 2002</strong></p>
+      <p>{{ $.Site.Params.description }}</p>
+    </div>
+  </div>
+  <nav class="site-header__menu flex items-center pt-4 sm:items-start">
+    <div class="flex items-center text-11 sm:text-13 ml-4 sm:mt-4 sm:ml-0">
+      <a class="sm:hidden" href="#menu">Menu</a>
+      <ul class="hidden sm:block">
+        {{ partial "menu" . }}
+      </ul>
+    </div>
+  </nav>
+  <div class="site-header__img">
+    <img class="w-full" src="/assets/img/masthead.png" alt="">
+  </div>
 </header>

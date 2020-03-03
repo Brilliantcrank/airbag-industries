@@ -1,0 +1,10 @@
+{{ $current := . }}
+
+{{ range .Site.Menus.navlinks }}
+  {{ $active := or ($current.IsMenuCurrent "navlinks" .) ($current.HasMenuCurrent "navlinks" .) }}
+  {{ $active = or $active (eq .Identifier $current.Slug) }}
+  {{ $active = or $active (and (eq .Name "Archives") (eq $current.Section "post")) }}
+  <li class="py-1 font-normal">
+      <a class="text-black font-normal{{if $active }} font-extrabold{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+  </li>
+{{ end }}

@@ -1,5 +1,5 @@
 {{ define "main" }}
-  
+
   {{ if or .Title .Content }}
   <div>
     {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
@@ -7,8 +7,10 @@
   </div>
   {{ end }}
 
-  {{ range .Pages }}
-    {{ partial "summary" . }}
-  {{ end }}
+  <div class="steram">
+    {{ range .Pages }}
+      {{ partial "summary" . }}
+    {{ end }}
+  </div>
 
 {{ end }}

@@ -1,0 +1,22 @@
+.article {
+
+  @media (min-width: 600px) and (max-width: 899px) {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    grid-column-gap: 1.25rem;
+
+    > * {
+      grid-column: 2 / -2;
+    }
+  }
+
+  @media (min-width: 900px) {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    grid-column-gap: 1.25rem;
+
+    > * {
+      grid-column: 2 / -2;
+    }
+  }
+}

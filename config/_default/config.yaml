@@ -3,8 +3,8 @@ title: Airbag Industries
 baseURL: https://localhost:1313/
 params:
   author: Greg Storey
-  description: Airbag has been around since Moveabletype beta and has enjoyed a reputation
-    for being a blunt voice in the world of interactive design.
+  description: Airbag has been around since Moveabletype Beta and has enjoyed a reputation
+    for being a blunt voice in the world of digital design.
   images:
   - "/assets/img/default.jpg"
   DateForm: 2 January '06
@@ -16,29 +16,30 @@ menu:
   - url: https://airbagindustries.com/index.xml
     name: Subscribe
     weight: 3
+    identifier: subscribe
   worklinks:
-  - url: https://storey.myportfolio.com
-    name: Portfolio
-    weight: 2
   - url: https://www.linkedin.com/in/brilliantcrank
     name: LinkedIn
     weight: 1
-  sociallinks:
-  - url: https://www.dribbble.com/players/Brilliantcrank
-    name: Dribbble
-    weight: 5
-  - url: https://www.flickr.com/photos/brilliantcrank
-    name: Flickr
-    weight: 3
-  - url: https://instagram.com/Brilliantcrank
-    name: Instagram
+  - url: https://storey.myportfolio.com
+    name: Portfolio
     weight: 2
-  - url: https://twitter.com/Brilliantcrank
-    name: Twitter
-    weight: 1
-  - url: https://www.playstation.com/en-us/my/public-trophies/?onlinename=Brilliantcrank
-    name: Playstation
-    weight: 6
+  sociallinks:
   - url: https://medium.com/@Brilliantcrank
     name: Medium
     weight: 4
+  - url: https://www.playstation.com/en-us/my/public-trophies/?onlinename=Brilliantcrank
+    name: Playstation
+    weight: 6
+  - url: https://twitter.com/Brilliantcrank
+    name: Twitter
+    weight: 1
+  - url: https://instagram.com/Brilliantcrank
+    name: Instagram
+    weight: 2
+  - url: https://www.flickr.com/photos/brilliantcrank
+    name: Flickr
+    weight: 3
+  - url: https://www.dribbble.com/players/Brilliantcrank
+    name: Dribbble
+    weight: 5
