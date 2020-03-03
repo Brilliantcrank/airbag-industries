@@ -8,6 +8,6 @@ menu:
   navlinks:
     identifier: archive
     name: Archive
-    weight: 5
+    weight: 4
 
 ---
