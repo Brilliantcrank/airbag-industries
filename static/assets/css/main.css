@@ -5585,6 +5585,8 @@ a {
   .article {
     display: grid;
     grid-template-columns: repeat(6, minmax(0, 1fr));
+    grid-auto-rows: -webkit-min-content;
+    grid-auto-rows: min-content;
     grid-column-gap: 1.25rem
   }
 
@@ -5597,6 +5599,8 @@ a {
   .article {
     display: grid;
     grid-template-columns: repeat(5, minmax(0, 1fr));
+    grid-auto-rows: -webkit-min-content;
+    grid-auto-rows: min-content;
     grid-column-gap: 1.25rem
   }
 
@@ -5781,6 +5785,10 @@ a {
 .longform blockquote > p {
   font-style:italic;
   padding-left:3rem;
+}
+
+main {
+  min-height: 400px;
 }
 
 @media (min-width: 400px){
