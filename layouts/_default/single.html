@@ -1,19 +1,23 @@
 {{ define "main" }}
 
-<article class="article" itemscope itemtype="http://schema.org/CreativeWork">
+<article class="article{{ if eq .Section "longboard" }} longboard{{ end }}" itemscope itemtype="http://schema.org/CreativeWork">
+	{{ if eq .Section "post" }}
 	<header class="article__header">
-		{{ if eq .Section "post" }}
 		<div class="flex justify-between uppercase border-b border-dotted tracking-wider mb-6 pb-6 text-11 sm:text-12">
 		{{ if .Params.tags }}<span>{{ range first 1 .Params.tags }}#<a class="font-normal text-black" href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a>{{ end }}</span>{{ end }}
 			<time class="article-time" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format .Site.Params.DateForm }}</time>
 		</div>
-		{{ end }}
 		<h1 class="text-blue font-extrabold leading-tight text-23 md:text-27 sm:w-3/4 md:w-2/3 mb-8" itemprop="headline">{{ .Title }}</h1>
 	</header>
+	{{ end }}
 
+	{{ if eq .Section "longboard" }}
+		{{ partial "longboard" . }}
+	{{ else }}
 	<div class="article__content longform" itemprop="text">
-		{{ .Content }}
+	{{ .Content }}
 	</div>
+	{{ end }}
 
 	{{/* Only display the following for individual posts (not pages) */}}
 
