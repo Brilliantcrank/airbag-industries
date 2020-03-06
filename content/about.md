@@ -1,12 +1,12 @@
 ---
-title: About Airbag Industries
+title: A giant bag of hot air...
 page_title: About
 description: A blunt voice in the world of interactive design.
 menu:
   navlinks:
     name: About
     weight: 2
-    identifier: about
+
 ---
 Airbag Industries is the personal website of Greg Storey. It started in 2002 and thus far has had a pretty good run.
 
