@@ -1,11 +1,16 @@
 {{ define "main" }}
 
 <article class="article{{ if eq .Section "longboard" }} longboard{{ end }}" itemscope itemtype="http://schema.org/CreativeWork">
-	{{ if eq .Section "post" }}
+	{{ if ne .Section "longboard" }}
 	<header class="article__header">
 		<div class="flex justify-between uppercase border-b border-dotted tracking-wider mb-6 pb-6 text-11 sm:text-12">
 		{{ if .Params.tags }}<span>{{ range first 1 .Params.tags }}#<a class="font-normal text-black" href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a>{{ end }}</span>{{ end }}
+		{{ if .Params.page_title }}
+			#{{ .Params.page_title }}
+		{{ else }}
 			<time class="article-time" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format .Site.Params.DateForm }}</time>
+		{{ end }}
+		
 		</div>
 		<h1 class="text-blue font-extrabold leading-tight text-23 md:text-27 sm:w-3/4 md:w-2/3 mb-8" itemprop="headline">{{ .Title }}</h1>
 	</header>

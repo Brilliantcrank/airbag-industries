@@ -1,7 +1,6 @@
 ---
 title: Hey chief lets talk, why not?
-page_title: Contact Information
-description: ''
+page_title: Contact
 menu:
   navlinks:
     identifier: contact
