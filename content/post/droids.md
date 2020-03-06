@@ -4,9 +4,12 @@ description = "A resurgence of personal sites that helped build the web as we kn
 tags = []
 target_url = ""
 title = "Droids."
+[menu.navlinks]
+name = "Featured"
+weight = 6
 
 +++
-Last week, after much public ridicule and ribbing, [Luke Dorny published his new, gorgeous, funky-fresh, personal web site.](https://lukedorny.com/articles/redesign-v6 "Luke Dorny v6") The kind of website the Internet hasn’t seen in quite a while. Luke’s site is the archetype for a designer’s passion project that also serves as perfect evidence of his creativity, skill, and craft. The site is just as beautiful as it is functional, but my favorite part is that it exists—It’s out there, not hidden behind a private repository or a secondary domain.
+Last week, after much public ridicule and ribbing, [Luke Dorny published his new, gorgeous, funky-fresh, personal web site.](https://lukedorny.com/articles/redesign-v6 "Luke Dorny v6") The kind of website the Internet hasn’t seen in quite a while. Luke’s site is the archetype for a designer’s passion project that also serves as perfect evidence of his creativity, skill, and craft. The site is just as beautiful as it is functional, but my favorite part is that it exists—It’s out there, not hidden behind a private repository or a secondary domain. 
 
 This website is the type of project that helped to launch a million careers in the industry we know today as “digital.” In the early days of the web, designers, developers, and engineers came from television, publishing, journalism, public relations, and advertising to try their hand at being pioneers in a medium—a new frontier—called the World Wide Web. In the beginning, we were surrounded by people who were just as curious as we were to learn about this new medium with its own principals, practices, and technologies. Every day offered a new discovery, a way to push the boundaries and the limits of this new space. And we mostly shared what we were discovering along the way through a form of self-expression that manifested in the form of thousands of self-published ‘zines of different shapes, voices, tones—sometimes very visual and other times more narrative.
 
