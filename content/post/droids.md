@@ -4,9 +4,6 @@ description = "A resurgence of personal sites that helped build the web as we kn
 tags = []
 target_url = ""
 title = "Droids."
-[menu.navlinks]
-name = "Featured"
-weight = 6
 
 +++
 Last week, after much public ridicule and ribbing, [Luke Dorny published his new, gorgeous, funky-fresh, personal web site.](https://lukedorny.com/articles/redesign-v6 "Luke Dorny v6") The kind of website the Internet hasn’t seen in quite a while. Luke’s site is the archetype for a designer’s passion project that also serves as perfect evidence of his creativity, skill, and craft. The site is just as beautiful as it is functional, but my favorite part is that it exists—It’s out there, not hidden behind a private repository or a secondary domain. 
