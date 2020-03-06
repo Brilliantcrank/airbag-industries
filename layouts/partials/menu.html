@@ -1,5 +1,5 @@
 {{ $current := . }}
-
+ 
 {{ range .Site.Menus.navlinks }}
   {{ $active := or ($current.IsMenuCurrent "navlinks" .) ($current.HasMenuCurrent "navlinks" .) }}
   {{ $active = or $active (eq .Identifier $current.Slug) }}
