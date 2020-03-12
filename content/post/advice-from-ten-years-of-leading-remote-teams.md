@@ -27,7 +27,7 @@ Your soft skills will get a workout when leading a remote team because you’re 
 
 **Kill All of the Elephants, Quickly**
 
-Radical candor is super hard in person, but I’ve found that it’s still daunting in a remote team. Try to be as transparent as you can without adding to the existing stresses of working distributed. If you “see” something going on, throw it out in the middle and get people to talk about how it makes them feel. Eventually, this should help the team find an opening to move into a discussion about how to tackle the problem. Remember, focus criticism on the idea, now the person! In a distributed team, the longer elephants are allowed to live, the more risk of toxicity entering the work environment—which is difficult to reverse.
+Radical candor is super hard in person, but I’ve found that it’s still daunting in a remote team. Try to be as transparent as you can without adding to the existing stresses of working distributed. If you “see” something going on, throw it out in the middle and get people to talk about how it makes them feel. Eventually, this should help the team find an opening to move into a discussion about how to tackle the problem. Remember, focus criticism on the idea, not the person! In a distributed team, the longer elephants are allowed to live, the more risk of toxicity entering the work environment—which is difficult to reverse.
 
 **Re-Create Your Working Agreement**
 
