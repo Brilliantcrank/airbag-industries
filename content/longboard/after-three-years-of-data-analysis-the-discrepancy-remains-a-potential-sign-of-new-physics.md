@@ -5,4 +5,4 @@ target_url = "https://gizmodo.com/new-analysis-of-large-hadron-collider-results-
 title = "\"After three years of data analysis, the discrepancy remains—a potential sign of new physics.\""
 
 +++
-Something weird is happening with the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider "Large Hadron Collider"). Perhaps [something wonderful?](https://www.youtube.com/watch?v=rfvQ9yQjTl4 "something wonderful")
+Something weird is happening with the [Large Hadron Collider.](https://en.wikipedia.org/wiki/Large_Hadron_Collider "Large Hadron Collider") Perhaps [something wonderful?](https://www.youtube.com/watch?v=rfvQ9yQjTl4 "something wonderful")
