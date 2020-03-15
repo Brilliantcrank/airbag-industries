@@ -9,4 +9,4 @@ An interesting look behind the scenes of what it looks like to manage an entire 
 
 > On Friday, in an extraordinary letter to employees, chief executive Ed Bastian announced a 40 percent cut in capacity—the biggest in Delta's history, including after 9/11. "The speed of the demand falloff is unlike anything we've seen."
 
-Feels like airline mergers are on the horizon again. Business Insider on ["the fallout"](https://www.businessinsider.com/coronavirus-travel-ban-us-what-airlines-did-after-911-2020-3 "Business Insider article on the fallout of the coronavirus and 9/11 on the airline industry.") from 9/11 and the coronavirus.
+Feels like airline mergers are on the horizon again. Here's Business Insider on ["the fallout"](https://www.businessinsider.com/coronavirus-travel-ban-us-what-airlines-did-after-911-2020-3 "Business Insider article on the fallout of the coronavirus and 9/11 on the airline industry.") from 9/11 and the coronavirus.
