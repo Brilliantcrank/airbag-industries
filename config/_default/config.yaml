@@ -11,6 +11,8 @@ params:
   languageCode: en-us
 permalinks:
   post: "/:filename/"
+blackfriday:
+  fractions: false
 menu:
   navlinks:
   - url: https://airbagindustries.com/index.xml
