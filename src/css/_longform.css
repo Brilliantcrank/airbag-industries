@@ -12,6 +12,14 @@
    @apply mt-6;
   }
 
+  li > p + p {
+    @apply mt-6;
+  }
+
+  li > p:last-child {
+    @apply mb-6;
+  }
+
   * + ol,
   ol + * {
     @apply mt-6

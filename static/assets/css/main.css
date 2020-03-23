@@ -5735,6 +5735,14 @@ a {
   margin-top:1.5rem;
 }
 
+.longform li > p + p {
+  margin-top:1.5rem;
+}
+
+.longform li > p:last-child {
+  margin-bottom:1.5rem;
+}
+
 .longform * + ol,
   .longform ol + * {
   margin-top:1.5rem
