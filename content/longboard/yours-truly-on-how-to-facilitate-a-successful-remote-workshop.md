@@ -1,6 +1,5 @@
 +++
-date = 2020-04-01T07:00:00Z
-draft = true
+date = 2020-04-01T08:09:00Z
 tags = ["viewsource"]
 target_url = "https://www.invisionapp.com/inside-design/facilitating-remote-workshops/"
 title = "Yours truly on how to facilitate a successful remote workshop."
