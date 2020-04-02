@@ -6,7 +6,7 @@ tags = ["utopia"]
 title = ".net Magazine is dead. Long live .net Magazine!"
 
 +++
-Earlier this morning, I caught some news that .net Magazine and Computer Arts are closing operations. The story now appears to be confirmed by friend and former .net editor Oliver Lindberg. Like many of my friends, my career has had a few meaningful intersections with the magazine over the years. 
+Earlier this morning, I caught some news that .net Magazine and Computer Arts are closing operations. The story now appears to be confirmed by friend and former .net editor Oliver Lindberg. Like many of my friends, my career has had a few meaningful intersections with the magazine over the years.
 
 In 2010 my studio, Happy Cog, was awarded the .net Award for Web Design Studio of the Year. I traveled to London for a 36-hour trip to hang out with my business partners and see some of the sights before the award ceremonies.  I’ll never forget having my first Full English Breakfast with Greg Hoy while outside a crew filmed a television commercial for an off-broadway performance of Priscilla, Queen of the Desert. Very colorful breakfast entertainment at no extra cost. I got to see Big Ben up close and ride The Tube a few times. We ate lunch with our friends at Clearleft, who were also up for the award. Later that day, when we won, my partners and I were on cloud nine. The news was a massive lift for everyone in the company, and we wore that award (figuratively) around our neck for the proceeding year.
 
