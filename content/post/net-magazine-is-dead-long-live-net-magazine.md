@@ -2,7 +2,7 @@
 date = 2020-04-01T13:00:00Z
 description = ".net Magazine comes to an end."
 draft = true
-tags = ["@\#$%"]
+tags = ["utopia"]
 title = ".net Magazine is dead. Long live .net Magazine!"
 
 +++
