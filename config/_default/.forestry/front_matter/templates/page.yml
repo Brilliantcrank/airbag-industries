@@ -16,3 +16,5 @@ fields:
   name: description
   label: Meta Description
   description: Custom meta description, used for search and social summaries
+pages:
+- content/airbag-radio.md
