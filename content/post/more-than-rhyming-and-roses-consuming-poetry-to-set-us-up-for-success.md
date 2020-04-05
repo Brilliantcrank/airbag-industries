@@ -23,12 +23,12 @@ The article continues with this great quote from Morrigan McCarthy, a photo edit
 
 I have known poetry to be a source of creative inspiration but never thought of it as a way to help develop different points-of-view. John Coleman writes in the Harvard Business Review that [poetry helps us create meaning to our observations and our ability to tell a story](https://hbr.org/2012/11/the-benefits-of-poetry-for-pro "poetry helps us create meaning to our observations and our ability to tell a story"): Reading and writing poetry can also help us “conceptualize the world and communicate it—through presentations or writing—to others.
 
-The more you know, am I right? 
+The more you know, _right?_
 
 This morning I happened to upon all of this while researching some topics related to leadership, and I have to say I’m happier for it. I had no idea of the power this type of prose provides, but given the outcomes now, I want to incorporate it into my life and into my work.
 
-I’ll leave you with a poem I came across this morning that I saved to revisit. My take away is that there’s never going to be a perfect time to start, so why not get started now.  
-  
+I’ll leave you with a poem I came across this morning that I saved to revisit. My take away is that there’s never going to be a perfect time to start, so why not get started now.
+
 **You Reading This, Be Ready**
 
 _By William Stafford_
