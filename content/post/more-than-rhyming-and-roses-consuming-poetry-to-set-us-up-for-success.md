@@ -5,7 +5,7 @@ tags = ["reading"]
 title = "More than rhyming and roses, consuming poetry to set us up for success."
 
 +++
-One positive outcome of quarantine is the people who are providing comfort and community through art from musicians performing above the streets of Italy to the communal clanking of pots and pans in highrises of Vancouver. Actors are reading children’s books and late-night television hosts keeping from their home office. And there is [Sir Patrick Stewart, who is reading one William Shakespeare sonnet a day](https://twitter.com/SirPatStew/status/1241871592700993536 "Sir Patrick Stewart who is reading one William Shakespeare sonnet a day") via his Twitter account.
+One positive outcome of quarantine is the people who are providing comfort and community through art from musicians performing above the streets of Italy to the communal clanking of pots and pans in highrises of Vancouver. Actors are reading children’s books and late-night television hosts are broadcasting from their home office. And there is [Sir Patrick Stewart, who is reading one William Shakespeare sonnet a day](https://twitter.com/SirPatStew/status/1241871592700993536 "Sir Patrick Stewart who is reading one William Shakespeare sonnet a day") via his Twitter account.
 
 > When I was a child in the 1940s, my mother would cut up slices of fruit for me (there wasn’t much), and as she put it in front of me, she would say, “An apple a day keeps the doctor away.” How about, “A sonnet a day keeps the doctor away?” So...here we go Sonnet 1.
 
