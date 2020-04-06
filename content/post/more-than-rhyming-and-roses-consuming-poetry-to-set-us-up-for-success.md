@@ -25,7 +25,7 @@ I have known poetry to be a source of creative inspiration but never thought of 
 
 The more you know, _right?_
 
-This morning I happened to upon all of this while researching some topics related to leadership, and I have to say I’m happier for it. I had no idea of the power this type of prose provides, but given the outcomes now, I want to incorporate it into my life and into my work.
+This morning I happened upon all of this while researching some topics related to leadership, and I have to say I’m happier for it. I had no idea of the power this type of prose provides, but given the outcomes now, I want to incorporate it into my life and into my work.
 
 I’ll leave you with a poem I came across this morning that I saved to revisit. My take away is that there’s never going to be a perfect time to start, so why not get started now. Or as Captain Picard would say, "Make it so."
 
