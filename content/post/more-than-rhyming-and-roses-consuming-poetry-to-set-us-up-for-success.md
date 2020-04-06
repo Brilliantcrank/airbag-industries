@@ -34,9 +34,9 @@ I’ll leave you with a poem I came across this morning that I saved to revisit.
 _By William Stafford_
 
 Standing here, what do you want to remember?  
-How sunlight creeps along a shinning floor?  
+How sunlight creeps along a shining floor?  
 What scent of old wood hovers, what softened  
-Sound from outside fill the air?
+Sound from outside fills the air?
 
 Will you ever bring a better gift for the world  
 than the breathing respect that you carry  
