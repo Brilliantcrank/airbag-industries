@@ -2,7 +2,7 @@
 date = 2020-04-06T07:08:00Z
 description = "Being Greg Storey"
 tags = ["utopia"]
-title = "Balast—003"
+title = "Ballast—003"
 
 +++
 Another week of random thoughts. I hope you're sleeping better than I am.
