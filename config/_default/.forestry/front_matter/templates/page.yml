@@ -18,3 +18,4 @@ fields:
   description: Custom meta description, used for search and social summaries
 pages:
 - content/airbag-radio.md
+- content/content-sources-to-consume.md
