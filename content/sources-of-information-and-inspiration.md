@@ -10,7 +10,7 @@ An ever-evolving list of journals, magazines, and news sources consumed for work
 
 Some of my friends never stopped writing and others are working their way back.
 
-* [Andy Baio](https://waxy.org "Andy Baio") / Waxy
+* [Andy Baio](https://waxy.org "Andy Baio") / Waxy 
 * [Austin Kleon](https://austinkleon.com "Austin Kleon")
 * [Brian Biddle](https://www.biddlebrain.com "Brian Biddle")
 * [Cameron Moll](http://www.cameronmoll.com "Cameron Moll")
