@@ -1,7 +1,7 @@
 +++
 description = "An ever evolving list of content sources to consume."
-page_title = "Content Sources to Consume."
-title = "backlog"
+page_title = "backlog"
+title = "Content Sources to Consume."
 
 +++
 **Design**
