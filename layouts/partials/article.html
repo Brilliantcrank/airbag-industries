@@ -1,13 +1,13 @@
 <header>
-  <div class="flex justify-between uppercase border-b border-dotted tracking-widest mb-6 pb-6 text-11 sm:text-12">
-  {{ if .Params.tags }}<span>{{ range first 1 .Params.tags }}#<a class="font-normal text-black" href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a>{{ end }}</span>{{ end }}
+  <div class="flex justify-between pb-6 mb-6 tracking-widest uppercase border-b border-dotted text-11 sm:text-12">
+  {{ if .Params.tags }}<span>{{ range first 1 .Params.tags }}#<a class="font-normal font-bold text-black" href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a>{{ end }}</span>{{ end }}
     <time class="article-time" itemprop="datePublished" datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Date.Format "2 January '06" }}</time>
   </div>
-  <h2 class="font-extrabold leading-tight text-23 md:text-27 sm:w-3/4 md:w-2/3 mb-8">
+  <h2 class="mb-8 font-extrabold leading-tight text-23 md:text-27 sm:w-3/4 md:w-2/3">
     <a href='{{.Permalink}}' title='{{.Title | safeHTML}}'>{{ .Title }}</a>
   </h2>
 </header>
 <div class="longform">
   {{ .Content }}
-  <a class="js-arrow font-normal" href="{{.Permalink}}">➵</a>
+  <a class="font-normal js-arrow" href="{{.Permalink}}">➵</a>
 </div>

@@ -3,13 +3,13 @@
 
 	{{ partial "head" . }}
 
-	<body class="bg-white font-serif leading-normal text-black text-15 sm:text-19" itemscope itemtype="http://schema.org/WebPage">
+	<body class="font-serif leading-normal text-black bg-white text-15 sm:text-19" itemscope itemtype="http://schema.org/WebPage">
 
-		<div class="body max-w-5xl mx-auto">
+		<div class="max-w-5xl mx-auto body">
 			{{ partial "header" . }}
 			{{ partial "stars" . }}
 
-			<main id="main" class="main px-4 sm:px-4 md:px-8">
+			<main id="main" class="px-4 main sm:px-4 md:px-8">
 
 				{{ block "main" . }}{{ end }}
 
@@ -20,11 +20,11 @@
 		</div>
 
 		{{ if eq hugo.Environment "development" }}
-			<span class="text-10 fixed uppercase tracking-widest py-2 bg-navy text-white px-4 block left-0 bottom-0">
+			<span class="fixed bottom-0 left-0 block px-4 py-2 tracking-widest text-white uppercase text-10 bg-navy">
 				⚙ Dev
 			</span>
 		{{ else if eq hugo.Environment "staging" }}
-			<span class="text-10 fixed uppercase tracking-widest py-2 bg-navy text-white px-4 block left-0 bottom-0">
+			<span class="fixed bottom-0 left-0 block px-4 py-2 tracking-widest text-white uppercase text-10 bg-navy">
 				⚙ Staging
 			</span>
 		{{ end }}
