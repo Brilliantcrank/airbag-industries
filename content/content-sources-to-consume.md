@@ -37,7 +37,10 @@ title = "Content Sources to Consume."
 
 **Following**
 
+* [Andy Baio](https://waxy.org "Andy Baio") / Waxy
+* [Austin Kleon](https://austinkleon.com "Austin Kleon")
 * [Brian Biddle](https://www.biddlebrain.com "Brian Biddle")
+* [Cameron Moll](http://www.cameronmoll.com "Cameron Moll")
 * [Chris Glass](https://chrisglass.com "Chris Glass")
 * [Coudal Partners](http://coudal.com "Coudal Partners")
 * [Dan Mall](https://danmall.me/articles/ "Dan Mall")
@@ -50,16 +53,16 @@ title = "Content Sources to Consume."
 * [Luke Dorny](https://lukedorny.com "Luke Dorny")
 * [Kevin O'Keefe](https://kevin.lexblog.com "Kevin O'Keefe")
 * [Khoi Vinh](https://www.subtraction.com "Khoi Vinh") / Subtraction
+* [Mandy Brown](https://aworkinglibrary.com/writing/hard-way "Mandy Brown")
+* [Mark Boulton](https://markboulton.co.uk/journal/ "Mark Boulton")
 * [Matt Haughey](https://a.wholelottanothing.org "Matt Haughey") / A Whole Lotta Nothing
 * [Mike Davidson](https://mikeindustries.com/blog/archive/category/original "Mike Davidson") / Mike Industries
 * [Phil Coffman](https://philcoffman.com "Phil Coffman")
-* [Mark Boulton](https://markboulton.co.uk/journal/ "Mark Boulton")
-* [Mandy Brown](https://aworkinglibrary.com/writing/hard-way "Mandy Brown")
 * [Ryan Irelan](https://ryanirelan.com "Ryan Irelan")
 * [Ryan Rumsey](https://www.ryanrumsey.com/words "Ryan Rumsey")
 * [Rob Weychert](https://v6.robweychert.com/blog/ "Rob Weychert")
 * [Sophie Shepherd](http://sophieshepherd.com "Sophie Shepherd")
 * [Stephen Caver](https://www.stephencaver.com/journal/index.html "Stephen Caver")
+* [Tina Roth Eisenberg](https://www.swiss-miss.com/ "Swissmiss") / Swissmiss
 * [Trent Walton](https://trentwalton.com/category/notes/ "Trent Welton")
 * [Val Head](https://valhead.com/blog/ "Val Head")
-* [Andy Baio](https://waxy.org "Andy Baio") / Waxy
