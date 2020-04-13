@@ -4,7 +4,7 @@ page_title = "Content Sources."
 title = "backlog"
 
 +++
-An ever-evolving list of journals, magazines, and news sources I consume for work and otherwise. I'm always looking for more interesting publications. 
+An ever-evolving list of journals, magazines, and news sources consumed for work and otherwise. I'm always looking for more interesting publications—especially magazines.
 
 **  
 Following  
@@ -68,6 +68,7 @@ Subscriptions**
 * [Ars Technica](https://arstechnica.com "Ars Technica")
 * [Delayed Gratification](https://www.slow-journalism.com/blog "Delayed Gratification")
 * [Foreign Policy](https://foreignpolicy.com "Foreign Policy")
+* [Grit City Magazine](https://gritcitymag.com "Grit City Magazine")
 * [New York Times](https://nytimes.com "New York Times")
 * [National Public Radio](https://www.npr.org "National Public Radio")
 * [Monocle](https://monocle.com "Monocle")
