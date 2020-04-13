@@ -6,7 +6,7 @@ title = "Sources of information and inspiration."
 +++
 An ever-evolving list of journals, magazines, and news sources consumed for work and otherwise. I'm always looking for more interesting publications—especially magazines.
 
-**Following**
+**Following** 
 
 Some of my friends never stopped writing and others are working their way back.
 
