@@ -15,13 +15,14 @@ Some of my friends never stopped writing and others are working their way back.
 * [Brian Biddle](https://www.biddlebrain.com "Brian Biddle")
 * [Cameron Moll](http://www.cameronmoll.com "Cameron Moll")
 * [Chris Glass](https://chrisglass.com "Chris Glass")
-* [Coudal Partners](http://coudal.com "Coudal Partners")
 * [Dan Mall](https://danmall.me/articles/ "Dan Mall")
 * [Dave Rupert](https://daverupert.com "Dave Rupert")
 * [Ethan Marcotte](https://ethanmarcotte.com/wrote/ "Ethan Marcotte")
-* [Kottke](https://kottke.org "Jason Kottke")
+* [Jason Kottke](https://kottke.org "Jason Kottke")
 * [Jeffrey Zeldman](https://zeldman.com "Jeffrey Zeldman")
 * [Jeremy Keith](https://adactio.com "Jeremy Keith") / Adactio
+* [Jesse Gardner](https://plasticmind.com/blog/ "Jesse Gardner") / Plasticmind
+* [Jim Coudal](http://coudal.com "Coudal Partners") / Coudal Partners
 * [John Gruber](https://daringfireball.net "John Gruber") / Daring Fireball
 * [Luke Dorny](https://lukedorny.com "Luke Dorny")
 * [Kevin O'Keefe](https://kevin.lexblog.com "Kevin O'Keefe")

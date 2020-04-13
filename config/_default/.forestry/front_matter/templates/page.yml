@@ -18,4 +18,5 @@ fields:
   description: Custom meta description, used for search and social summaries
 pages:
 - content/airbag-radio.md
+- content/longboard/hey-who-wants-free-dungeons-dragons-stuff.md
 - content/sources-of-information-and-inspiration.md
