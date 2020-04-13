@@ -1,7 +1,7 @@
 +++
 description = "An ever evolving list of content sources to consume."
-page_title = "Content Sources."
-title = "Backlog"
+page_title = "Backlog"
+title = "Sources of inspiration and information."
 
 +++
 An ever-evolving list of journals, magazines, and news sources consumed for work and otherwise. I'm always looking for more interesting publications—especially magazines.
