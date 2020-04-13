@@ -61,4 +61,10 @@
     @apply italic pl-12;
   }
 
+  .backlog {
+    a {
+      @apply font-medium;
+    }
+  }
+
 }

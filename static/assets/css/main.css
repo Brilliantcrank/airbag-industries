@@ -5795,6 +5795,10 @@ a {
   padding-left:3rem;
 }
 
+.longform .backlog a {
+  font-weight:500;
+}
+
 main {
   min-height: 400px;
 }
