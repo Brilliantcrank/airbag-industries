@@ -1,14 +1,14 @@
 +++
 description = "An ever evolving list of content sources to consume."
 page_title = "Content Sources."
-title = "backlog"
+title = "Backlog"
 
 +++
 An ever-evolving list of journals, magazines, and news sources consumed for work and otherwise. I'm always looking for more interesting publications—especially magazines.
 
-**  
-Following  
-**Some of my friends never stopped writing and others are working their way back. 
+**Following**
+
+Some of my friends never stopped writing and others are working their way back.
 
 * [Andy Baio](https://waxy.org "Andy Baio") / Waxy
 * [Austin Kleon](https://austinkleon.com "Austin Kleon")
@@ -46,8 +46,7 @@ Following
 * [Society of Publication Designers](https://www.spd.org "Society of Publication Designers")
 * [Type Directors Club](https://www.tdc.org "Type Directors Club")
 
-**  
-Nerdery**
+**Nerdery**
 
 * [Birth. Death. Movies.](https://birthmoviesdeath.com "Birth. Death. Movies.")
 * [Comic Book](https://comicbook.com "Comicbook")
@@ -55,15 +54,13 @@ Nerdery**
 * [Polygon](https://www.polygon.com "Polygon")
 * [The Verge](https://www.theverge.com "The Verge")
 
-**  
-Audio**
+**Audio**
 
 * [The Monocle Minute](https://monocle.com/radio/shows/the-monocle-minute/ "Monocle Minute podcast")
 * [New York Times The Daily](https://www.nytimes.com/column/the-daily "The Daily")
 * [The Stack](https://monocle.com/radio/shows/the-stack/ "The Stack")
 
-**  
-Subscriptions**
+**Subscriptions**
 
 * [Ars Technica](https://arstechnica.com "Ars Technica")
 * [Delayed Gratification](https://www.slow-journalism.com/blog "Delayed Gratification")
