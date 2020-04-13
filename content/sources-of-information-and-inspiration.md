@@ -70,5 +70,6 @@ Some of my friends never stopped writing and others are working their way back.
 * [New York Times](https://nytimes.com "New York Times")
 * [National Public Radio](https://www.npr.org "National Public Radio")
 * [Monocle](https://monocle.com "Monocle")
+* [The Economist](https://www.economist.com "The Economist")
 * [The Guardian](https://www.theguardian.com/us "The Guardian")
 * [Wired](https://wired.com "Wired")
