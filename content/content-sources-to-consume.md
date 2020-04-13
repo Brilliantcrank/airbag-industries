@@ -4,17 +4,6 @@ page_title = "Backlog"
 title = "Content Sources to Consume."
 
 +++
-**Subscriptions**
-
-* [Ars Technica](https://arstechnica.com "Ars Technica")
-* [Delayed Gratification](https://www.slow-journalism.com/blog "Delayed Gratification")
-* [Foreign Policy](https://foreignpolicy.com "Foreign Policy")
-* [New York Times](https://nytimes.com "New York Times")
-* [National Public Radio](https://www.npr.org "National Public Radio")
-* [Monocle](https://monocle.com "Monocle")
-* [The Guardian](https://www.theguardian.com/us "The Guardian")
-* [Wired](https://wired.com "Wired")
-
 **Design**
 
 * [Eye Magazine](http://www.eyemagazine.com/blog "Eye Magazine")
@@ -23,11 +12,11 @@ title = "Content Sources to Consume."
 
 **Nerdery**
 
-* Boing Boing
-* Comic Book
-* Io9
-* Polygon
-* Verge
+* [Birth. Death. Movies.](https://birthmoviesdeath.com "Birth. Death. Movies.")
+* [Comic Book](https://comicbook.com "Comicbook")
+* [io9](https://io9.gizmodo.com "io9")
+* [Polygon](https://www.polygon.com "Polygon")
+* [The Verge](https://www.theverge.com "The Verge")
 
 **Audio**
 
@@ -66,3 +55,16 @@ title = "Content Sources to Consume."
 * [Tina Roth Eisenberg](https://www.swiss-miss.com/ "Swissmiss") / Swissmiss
 * [Trent Walton](https://trentwalton.com/category/notes/ "Trent Welton")
 * [Val Head](https://valhead.com/blog/ "Val Head")
+
+Some of my friends never stopped writing and others are working their way back.
+
+**Subscriptions**
+
+* [Ars Technica](https://arstechnica.com "Ars Technica")
+* [Delayed Gratification](https://www.slow-journalism.com/blog "Delayed Gratification")
+* [Foreign Policy](https://foreignpolicy.com "Foreign Policy")
+* [New York Times](https://nytimes.com "New York Times")
+* [National Public Radio](https://www.npr.org "National Public Radio")
+* [Monocle](https://monocle.com "Monocle")
+* [The Guardian](https://www.theguardian.com/us "The Guardian")
+* [Wired](https://wired.com "Wired")
