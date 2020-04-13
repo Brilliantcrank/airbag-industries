@@ -14,7 +14,7 @@ title = "Content Sources to Consume."
 
 * [Birth. Death. Movies.](https://birthmoviesdeath.com "Birth. Death. Movies.")
 * [Comic Book](https://comicbook.com "Comicbook")
-* [io9](https://io9.gizmodo.com "io9")tn
+* [io9](https://io9.gizmodo.com "io9")
 * [Polygon](https://www.polygon.com "Polygon")
 * [The Verge](https://www.theverge.com "The Verge")
 
