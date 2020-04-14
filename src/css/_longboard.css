@@ -25,8 +25,13 @@
   }
 }
 
+.backlog {
+	padding-bottom: 47px;
+}
+
 .backlog { 
 	a {
-		@apply font-medium; 
+		@apply font-medium;
+		border-bottom: 1px dotted;
 	}
 }
