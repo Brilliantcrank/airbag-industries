@@ -32,6 +32,6 @@
 .backlog { 
 	a {
 		@apply font-medium;
-		border-bottom: 1px dotted;
+		border-bottom: 1px dotted 000000;
 	}
 }
