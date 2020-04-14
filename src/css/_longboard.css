@@ -24,3 +24,9 @@
     display: inline;
   }
 }
+
+.backlog {
+	a {
+		@apply font-medium; 
+	}
+}
