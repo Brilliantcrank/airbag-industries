@@ -68,11 +68,11 @@
 	background: blue;
 }
 
-.backlog { 
+.backlog {
 	a {
 		@apply font-medium;
-		@apply background-color: yellow;
-		@apply border-bottom: 1px dotted 000000;
+		background-color: yellow;
+		border-bottom: 1px dotted 000000;
 	}
 }
 
