@@ -44,7 +44,7 @@ node -v
 
 ### Install packages
 
-From the root directory in the terminal, install node packages:
+From the project's root directory in the terminal, install node packages:
 
 ```(shell)
 npm install
