@@ -8,7 +8,7 @@ An ever-evolving list of journals, magazines, and news sources consumed for work
 
 **Following**
 
-Some of my friends never stopped writing and others are working their way back.
+Some of my friends never stopped writing and others are working their way back. 
 
 * [Andy Baio](https://waxy.org "Andy Baio") / Waxy
 * [Austin Kleon](https://austinkleon.com "Austin Kleon")
