@@ -25,7 +25,7 @@
   }
 }
 
-.backlog {
+.backlog { 
 	a {
 		@apply font-medium; 
 	}
