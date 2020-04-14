@@ -23,16 +23,3 @@
   & + p {
     display: inline;
   }
-}
-
-.backlog {
-	padding: 19px 0 47px; 0;
-}
-
-.backlog { 
-	a {
-		@apply font-medium;
-		background-color: yellow;
-		border-bottom: 1px dotted 000000;
-	}
-}
