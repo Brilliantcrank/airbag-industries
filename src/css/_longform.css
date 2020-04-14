@@ -64,7 +64,8 @@
 }
 
 .backlog {
-	padding: 19px 0 47px; 0;
+	padding: 19px 0 47px 0;
+	background: blue;
 }
 
 .backlog { 
