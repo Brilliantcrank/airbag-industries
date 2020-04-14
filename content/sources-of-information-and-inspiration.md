@@ -6,18 +6,20 @@ title = "Sources of information and inspiration."
 +++
 An ever-evolving list of journals, magazines, and news sources consumed for work and otherwise. I'm always looking for more interesting publications—especially magazines.
 
-**Following** 
+**Following**
 
 Some of my friends never stopped writing and others are working their way back.
 
-* [Andy Baio](https://waxy.org "Andy Baio") / Waxy 
+* [Andy Baio](https://waxy.org "Andy Baio") / Waxy
 * [Austin Kleon](https://austinkleon.com "Austin Kleon")
 * [Brian Biddle](https://www.biddlebrain.com "Brian Biddle")
 * [Cameron Moll](http://www.cameronmoll.com "Cameron Moll")
 * [Chris Glass](https://chrisglass.com "Chris Glass")
 * [Dan Mall](https://danmall.me/articles/ "Dan Mall")
 * [Dave Rupert](https://daverupert.com "Dave Rupert")
+* [Eric Meyer](https://meyerweb.com "Eric Meyer")
 * [Ethan Marcotte](https://ethanmarcotte.com/wrote/ "Ethan Marcotte")
+* [Frank Chimero](https://frankchimero.com/blog "Frank Chimero")
 * [Jason Kottke](https://kottke.org "Jason Kottke")
 * [Jeffrey Zeldman](https://zeldman.com "Jeffrey Zeldman")
 * [Jeremy Keith](https://adactio.com "Jeremy Keith") / Adactio
