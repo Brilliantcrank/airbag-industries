@@ -10,7 +10,7 @@ An ever-evolving list of journals, magazines, and news sources consumed for work
 **Following**
 
 Some of my friends never stopped writing and others are working their way back.
-
+<div class="backlog">
 * [Andy Baio](https://waxy.org "Andy Baio") / Waxy
 * [Austin Kleon](https://austinkleon.com "Austin Kleon")
 * [Brian Biddle](https://www.biddlebrain.com "Brian Biddle")
@@ -40,6 +40,7 @@ Some of my friends never stopped writing and others are working their way back.
 * [Tina Roth Eisenberg](https://www.swiss-miss.com/ "Swissmiss") / Swissmiss
 * [Trent Walton](https://trentwalton.com/category/notes/ "Trent Welton")
 * [Val Head](https://valhead.com/blog/ "Val Head")
+</div>
 
 **Design**
 
