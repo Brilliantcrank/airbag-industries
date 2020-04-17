@@ -66,19 +66,18 @@
 
 .backlog {
 	margin: 19px 0 47px 0;
+	}
 
 .backlog {
 	a {
 		@apply font-medium;
 	}
 
-	.backlog ul {
-	background: grey;
-	}
+.backlog ul {
 	
 	li {
-		border-bottom: 1px dotted #999;
+		border-bottom: 1px dotted #000;
 	}
-}
+	}
 }
 
