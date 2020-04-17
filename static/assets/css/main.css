@@ -5804,7 +5804,7 @@ a {
 }
 
 .backlog .backlog li {
-  border-bottom: 1px dotted CCC;
+  border-bottom: 1px dotted #999;
 }
 
 main {
