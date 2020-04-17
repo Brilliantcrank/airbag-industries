@@ -5802,8 +5802,10 @@ a {
 
 .backlog a {
   font-weight:500;
-  background-color: red;
-  border-bottom: 1px dotted 000000;
+}
+
+.backlog .backlog li {
+  border-bottom: 1px dotted CCC;
 }
 
 main {

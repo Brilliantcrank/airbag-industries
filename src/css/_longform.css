@@ -67,13 +67,16 @@
 .backlog {
 	margin: 19px 0 47px 0;
 	background: blue;
-}
+	}
 
 .backlog {
 	a {
 		@apply font-medium;
-		background-color: red;
-		border-bottom: 1px dotted 000000;
 	}
+
+.backlog li {
+		border-bottom: 1px dotted CCC;
+	}
+
 }
 
