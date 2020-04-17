@@ -65,9 +65,9 @@ Some of my friends never stopped writing and others are working their way back.
 **Audio**
 
 <ul class="backlog">
-	<li><a href="https://monocle.com/radio/shows/the-monocle-minute/ "Monocle Minute podcast</a></li>
-	<li><a href="https://www.nytimes.com/column/the-daily "The Daily</a></li>
-	<li><a href="https://monocle.com/radio/shows/the-stack/ "The Stack</a></li>
+	<li><a href="https://monocle.com/radio/shows/the-monocle-minute/">Monocle Minute podcast</a></li>
+	<li><a href="https://www.nytimes.com/column/the-daily">The Daily</a></li>
+	<li><a href="https://monocle.com/radio/shows/the-stack/">The Stack</a></li>
 </ul>
 
 **Subscriptions**

@@ -73,7 +73,7 @@
 		@apply font-medium;
 	}
 
-.backlog li {
+	ul li {
 		border-bottom: 1px dotted #999;
 	}
 
