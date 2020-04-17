@@ -15,7 +15,7 @@ Some of my friends never stopped writing and others are working their way back.
 <ul class="backlog">
 	<li><a href="https://waxy.org">Andy Baio</a> / Waxy</li>
 	<li><a href="https://austinkleon.com">Austin Kleon</a></li>
-	<li><a href="https://www.biddlebrain.com "Brian Biddle</a></li>
+	<li><a href="https://www.biddlebrain.com">Brian Biddle</a></li>
 	<li><a href="http://www.cameronmoll.com">Cameron Moll</a></li>
 	<li><a href="https://chrisglass.com">Chris Glass</a></li>
 	<li><a href="http://coudal.com">Coudal Partners</a></li>
@@ -65,9 +65,9 @@ Some of my friends never stopped writing and others are working their way back.
 **Audio**
 
 <ul class="backlog">
-	<li>The Monocle Minute<a href="https://monocle.com/radio/shows/the-monocle-minute/ "Monocle Minute podcast</a></li>
-	<li>New York Times The Daily<a href="https://www.nytimes.com/column/the-daily "The Daily</a></li>
-	<li>The Stack<a href="https://monocle.com/radio/shows/the-stack/ "The Stack</a></li>
+	<li><a href="https://monocle.com/radio/shows/the-monocle-minute/ "Monocle Minute podcast</a></li>
+	<li><a href="https://www.nytimes.com/column/the-daily "The Daily</a></li>
+	<li><a href="https://monocle.com/radio/shows/the-stack/ "The Stack</a></li>
 </ul>
 
 **Subscriptions**
