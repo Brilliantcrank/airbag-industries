@@ -5799,12 +5799,12 @@ a {
   margin: 19px 0 47px 0;
 }
 
-.backlog a {
+.backlog .backlog a {
   font-weight:500;
 }
 
-.backlog ul li {
-  border-bottom: 1px dotted #999;
+.backlog .backlog ul li {
+  border-bottom: 1px dotted #000;
 }
 
 main {
