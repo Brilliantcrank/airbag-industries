@@ -5804,7 +5804,7 @@ a {
 }
 
 .backlog .backlog ul {
-  padding: 0;
+  background: grey;
 }
 
 .backlog .backlog ul li {
