@@ -47,9 +47,9 @@ Some of my friends never stopped writing and others are working their way back.
 **Design**
 
 <ul class="backlog">
-	<li>Eye Magazine<a href="http://www.eyemagazine.com/blog">Eye Magazine</a></li>
-	<li>Society of Publication Designers<a href="https://www.spd.org">Society of Publication Designers</a></li>
-	<li>Type Directors Club<a href="https://www.tdc.org">Type Directors Club</a></li>
+	<li><a href="http://www.eyemagazine.com/blog">Eye Magazine</a></li>
+	<li><a href="https://www.spd.org">Society of Publication Designers</a></li>
+	<li><a href="https://www.tdc.org">Type Directors Club</a></li>
 </ul>
 
 **Nerdery**
