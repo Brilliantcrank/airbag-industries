@@ -7,69 +7,79 @@ description: Sources of information and inspiration.
 
 An ever-evolving list of journals, magazines, and news sources consumed for work and otherwise. I'm always looking for more interesting publications—especially magazines.
 
+
 **Following**
-<div class="backlog">
+
 Some of my friends never stopped writing and others are working their way back.
 
-* [Andy Baio](https://waxy.org "Andy Baio") / Waxy
-* [Austin Kleon](https://austinkleon.com "Austin Kleon")
-* [Brian Biddle](https://www.biddlebrain.com "Brian Biddle")
-* [Cameron Moll](http://www.cameronmoll.com "Cameron Moll")
-* [Chris Glass](https://chrisglass.com "Chris Glass")
-* [Coudal Partners](http://coudal.com "Coudal Partners")
-* [Dan Mall](https://danmall.me/articles/ "Dan Mall")
-* [Dave Rupert](https://daverupert.com "Dave Rupert")
-* [Ethan Marcotte](https://ethanmarcotte.com/wrote/ "Ethan Marcotte")
-* [Kottke](https://kottke.org "Jason Kottke")
-* [Jeffrey Zeldman](https://zeldman.com "Jeffrey Zeldman")
-* [Jeremy Keith](https://adactio.com "Jeremy Keith") / Adactio
-* [John Gruber](https://daringfireball.net "John Gruber") / Daring Fireball
-* [Luke Dorny](https://lukedorny.com "Luke Dorny")
-* [Kevin O'Keefe](https://kevin.lexblog.com "Kevin O'Keefe")
-* [Khoi Vinh](https://www.subtraction.com "Khoi Vinh") / Subtraction
-* [Mandy Brown](https://aworkinglibrary.com/writing/hard-way "Mandy Brown")
-* [Mark Boulton](https://markboulton.co.uk/journal/ "Mark Boulton")
-* [Matt Haughey](https://a.wholelottanothing.org "Matt Haughey") / A Whole Lotta Nothing
-* [Mike Davidson](https://mikeindustries.com/blog/archive/category/original "Mike Davidson") / Mike Industries
-* [Phil Coffman](https://philcoffman.com "Phil Coffman")
-* [Ryan Irelan](https://ryanirelan.com "Ryan Irelan")
-* [Ryan Rumsey](https://www.ryanrumsey.com/words "Ryan Rumsey")
-* [Rob Weychert](https://v6.robweychert.com/blog/ "Rob Weychert")
-* [Sophie Shepherd](http://sophieshepherd.com "Sophie Shepherd")
-* [Stephen Caver](https://www.stephencaver.com/journal/index.html "Stephen Caver")
-* [Tina Roth Eisenberg](https://www.swiss-miss.com/ "Swissmiss") / Swissmiss
-* [Trent Walton](https://trentwalton.com/category/notes/ "Trent Welton")
-* [Val Head](https://valhead.com/blog/ "Val Head")
-</div>
+<ul class="backlog">
+	<li><a href="https://waxy.org">Andy Baio</a> / Waxy</li>
+	<li><a href="https://austinkleon.com">Austin Kleon</a></li>
+	<li><a href="https://www.biddlebrain.com "Brian Biddle</a></li>
+	<li><a href="http://www.cameronmoll.com">Cameron Moll</a></li>
+	<li><a href="https://chrisglass.com">Chris Glass</a></li>
+	<li><a href="http://coudal.com">Coudal Partners</a></li>
+	<li><a href="https://danmall.me/articles/">Dan Mall</a></li>
+	<li><a href="https://daverupert.com">Dave Rupert</a></li>
+	<li><a href="https://ethanmarcotte.com/wrote/">Ethan Marcotte</a></li>
+	<li><a href="https://kottke.org">Jason Kottke</a></li>
+	<li><a href="https://zeldman.com">Jeffrey Zeldman</a></li>
+	<li><a href="https://adactio.com">Jeremy Keith</a> / Adactio</li>
+	<li><a href="https://daringfireball.net">John Gruber</a> / Daring Fireball</li>
+	<li><a href="https://lukedorny.com">Luke Dorny</a></li>
+	<li><a href="https://kevin.lexblog.com">Kevin O'Keefe</a></li>
+	<li><a href="https://www.subtraction.com">Khoi Vinh</a> / Subtraction</li>
+	<li><a href="https://aworkinglibrary.com/writing/hard-way">Mandy Brown</a></li>
+	<li><a href="https://markboulton.co.uk/journal/">Mark Boulton</a></li>
+	<li><a href="https://a.wholelottanothing.org">Matt Haughey</a> / A Whole Lotta Nothing</li>
+	<li><a href="https://mikeindustries.com/blog/archive/category/original">Mike Davidson</a> / Mike Industries</li>
+	<li><a href="https://philcoffman.com">Phil Coffman</a></li>
+	<li><a href="https://ryanirelan.com">Ryan Irelan</a></li>
+	<li><a href="https://www.ryanrumsey.com/words">Ryan Rumsey</a></li>
+	<li><a href="https://v6.robweychert.com/blog/">Rob Weychert</a></li>
+	<li><a href="http://sophieshepherd.com">Sophie Shepherd</a></li>
+	<li><a href="https://www.stephencaver.com/journal/index.html">Stephen Caver</a></li>
+	<li><a href="https://www.swiss-miss.com/">Swissmiss</a> / Swissmiss</li>
+	<li><a href="https://trentwalton.com/category/notes/">Trent Welton</a></li>
+	<li><a href="https://valhead.com/blog/">Val Head</a></li>
+</ul>
 
 **Design**
 
-* [Eye Magazine](http://www.eyemagazine.com/blog "Eye Magazine")
-* [Society of Publication Designers](https://www.spd.org "Society of Publication Designers")
-* [Type Directors Club](https://www.tdc.org "Type Directors Club")
+<ul class="backlog">
+	<li>Eye Magazine<a href="http://www.eyemagazine.com/blog">Eye Magazine</a></li>
+	<li>Society of Publication Designers<a href="https://www.spd.org">Society of Publication Designers</a></li>
+	<li>Type Directors Club<a href="https://www.tdc.org">Type Directors Club</a></li>
+</ul>
 
 **Nerdery**
 
-* [Birth. Death. Movies.](https://birthmoviesdeath.com "Birth. Death. Movies.")
-* [Comic Book](https://comicbook.com "Comicbook")
-* [io9](https://io9.gizmodo.com "io9")
-* [Polygon](https://www.polygon.com "Polygon")
-* [The Verge](https://www.theverge.com "The Verge")
+<ul class="backlog">
+	<li><a href="https://birthmoviesdeath.com">Birth. Death. Movies.</a></li>
+	<li><a href="https://comicbook.com">Comicbook</a></li>
+	<li><a href="https://io9.gizmodo.com">io9</a></li>
+	<li><a href="https://www.polygon.com">Polygon</a></li>
+	<li><a href="https://www.theverge.com">The Verge</a></li>
+</ul>
 
 **Audio**
 
-* [The Monocle Minute](https://monocle.com/radio/shows/the-monocle-minute/ "Monocle Minute podcast")
-* [New York Times The Daily](https://www.nytimes.com/column/the-daily "The Daily")
-* [The Stack](https://monocle.com/radio/shows/the-stack/ "The Stack")
+<ul class="backlog">
+	<li>The Monocle Minute<a href="https://monocle.com/radio/shows/the-monocle-minute/ "Monocle Minute podcast</a></li>
+	<li>New York Times The Daily<a href="https://www.nytimes.com/column/the-daily "The Daily</a></li>
+	<li>The Stack<a href="https://monocle.com/radio/shows/the-stack/ "The Stack</a></li>
+</ul>
 
 **Subscriptions**
 
-* [Ars Technica](https://arstechnica.com "Ars Technica")
-* [Delayed Gratification](https://www.slow-journalism.com/blog "Delayed Gratification")
-* [Foreign Policy](https://foreignpolicy.com "Foreign Policy")
-* [Grit City Magazine](https://gritcitymag.com "Grit City Magazine")
-* [New York Times](https://nytimes.com "New York Times")
-* [National Public Radio](https://www.npr.org "National Public Radio")
-* [Monocle](https://monocle.com "Monocle")
-* [The Guardian](https://www.theguardian.com/us "The Guardian")
-* [Wired](https://wired.com "Wired")
+<ul class="backlog">
+	<li><a href="https://arstechnica.com">Ars Technica</a></li>
+	<li><a href="https://www.slow-journalism.com/blog">Delayed Gratification</a></li>
+	<li><a href="https://foreignpolicy.com">Foreign Policy</a></li>
+	<li><a href="https://gritcitymag.com">Grit City Magazine</a></li>
+	<li><a href="https://nytimes.com">New York Times</a></li>
+	<li><a href="https://www.npr.org">National Public Radio</a></li>
+	<li><a href="https://monocle.com">Monocle</a></li>
+	<li><a href="https://www.theguardian.com/us">The Guardian</a></li>
+	<li><a href="https://wired.com">Wired</a></li>
+</ul>

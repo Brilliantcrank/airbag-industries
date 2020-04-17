@@ -1,6 +1,4 @@
 /*! airbag-industries v1.0.0 | (c) 2020  | ISC License | git+https://stephencaver@github.com/Brilliantcrank/airbag-industries.git */
-@import "./_longboard.css";
-
 @font-face{
   font-family:"Franziska";
 
@@ -5697,6 +5695,32 @@ a {
   }
 }
 
+/* .longboard {
+  > * + * {
+    margin-top: 1.375rem;
+  }
+
+  > *:first-child + * {
+    display: inline;
+
+    > * {
+      display: inline;
+    }
+  }
+  > *:first-child + * + * {
+    display: block;
+    margin-top: 1.375rem;
+  }
+} */
+
+.inline-heading {
+  display:inline;
+}
+
+.inline-heading + p {
+  display: inline;
+}
+
 .longform h3 {
   text-transform:uppercase;
   font-weight:800;
@@ -5778,7 +5802,7 @@ a {
 
 .backlog a {
   font-weight:500;
-  background-color: yellow;
+  background-color: red;
   border-bottom: 1px dotted 000000;
 }
 
