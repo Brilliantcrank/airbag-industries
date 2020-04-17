@@ -71,10 +71,13 @@
 	a {
 		@apply font-medium;
 	}
-
-	ul li {
+}
+.backlog ul {
+	background: grey;
+	}
+	li {
 		border-bottom: 1px dotted #000;
 	}
-  }
+
 }
 

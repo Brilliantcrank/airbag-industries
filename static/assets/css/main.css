@@ -5803,7 +5803,11 @@ a {
   font-weight:500;
 }
 
-.backlog .backlog ul li {
+.backlog .backlog ul {
+  background: grey;
+}
+
+.backlog li {
   border-bottom: 1px dotted #000;
 }
 
