@@ -75,10 +75,10 @@
 
 .backlog ul {
 	background: grey;
-	
-	li {
-		border-bottom: 1px dotted #333;
 	}
+	
+.backlog li {
+		border-bottom: 1px dotted #333;
 	}
 }
 
