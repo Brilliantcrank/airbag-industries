@@ -72,10 +72,6 @@
 	a {
 		@apply font-medium;
 	}
-
-.backlog ul {
-	background: grey; 
-	}
 	
 .backlog li {
 		border-bottom: 1px dotted #333;
