@@ -73,8 +73,12 @@
 		@apply font-medium;
 	}
 	
-.backlog ul li {
+.backlog ul {
+		list-style: none;
+	}
+
+.backlog li {
 		border-bottom: 1px dotted #333;
 	}
+	
 }
-
