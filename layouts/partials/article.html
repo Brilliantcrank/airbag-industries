@@ -1,5 +1,5 @@
 <header>
-  <div class="flex justify-between pb-6 mb-6 tracking-widest uppercase border-b border-dotted text-12 sm:text-13">
+  <div class="flex justify-between pb-6 mb-6 tracking-widest uppercase border-b border-dotted text-10 sm:text-13">
   {{ if .Params.tags }}<span>{{ range first 1 .Params.tags }}#<a class="font-normal font-bold text-black" href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a>{{ end }}</span>{{ end }}
     <time class="article-time" itemprop="datePublished" datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Date.Format "2 January '06" }}</time>
   </div>
