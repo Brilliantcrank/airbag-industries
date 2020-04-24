@@ -3,7 +3,7 @@
 <article class="article{{ if eq .Section "longboard" }} longboard{{ end }}" itemscope itemtype="http://schema.org/CreativeWork">
 	{{ if ne .Section "longboard" }}
 	<header class="article__header">
-		<div class="flex justify-between pb-6 mb-6 font-bold tracking-wider uppercase border-b border-dotted text-10 sm:text-12">
+		<div class="flex justify-between pb-6 mb-6 font-bold tracking-wider uppercase border-b border-dotted text-9 sm:text-12">
 		{{ if .Params.tags }}<span>{{ range first 1 .Params.tags }}#<a class="font-bold text-black" href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a>{{ end }}</span>{{ end }}
 		{{ if .Params.page_title }}
 			#{{ .Params.page_title }}
