@@ -1,6 +1,6 @@
 <div class="longform">
   <h2 class="inline-heading">
-  {{ if .Params.tags }}<span class="tracking-widest uppercase"><span class="text-11 sm:text-12">{{ range first 1 .Params.tags }}#<a class="font-normal font-bold text-black" href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a>{{ end }}</span> /</span>{{ end }}
+  {{ if .Params.tags }}<span class="tracking-widest uppercase"><span class="text-10 sm:text-12">{{ range first 1 .Params.tags }}#<a class="font-bold text-black" href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a>{{ end }}</span> /</span>{{ end }}
     <a class="ml-1 font-extrabold" href='{{.Params.target_url}}'>
       {{ .Title }}
     </a>
