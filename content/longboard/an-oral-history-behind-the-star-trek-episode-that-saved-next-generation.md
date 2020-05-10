@@ -1,6 +1,6 @@
 +++
 date = 2020-05-10T07:07:00Z
-tags = ["geelvsnerd"]
+tags = ["nerdvsgeek"]
 target_url = "https://www.hollywoodreporter.com/heat-vision/star-trek-episode-saved-next-generation-1280374"
 title = "An oral history behind the Star Trek episode that saved \"Next Generation.\""
 
