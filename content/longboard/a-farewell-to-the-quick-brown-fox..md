@@ -1,5 +1,5 @@
 +++
-date = 2020-05-01T21:06:00Z
+date = 2020-05-19T21:06:00Z
 tags = ["typography"]
 target_url = "https://www.typography.com/blog/text-for-proofing-fonts"
 title = "\"A farewell to The Quick Brown Fox.\""
