@@ -2,7 +2,7 @@
 date = 2020-06-06T07:00:00Z
 description = ""
 tags = ["writing"]
-title = "There's a voice inside your heads that prevents you from adding your voice to the room—punch it in the face."
+title = "There's a voice inside your head that prevents you from sharing your ideas—punch it in the face."
 
 +++
 If we have worked together or you’ve asked me for career advice, there is a high probability that I have encouraged you to write and hit the publish button often. There are so many benefits to writing that includes processing your thoughts and ideas, improving your ability to communicate, and increasing your thought leadership in the industry (presuming you write about your industry from time-to-time). The excuses—or, I’m sorry, reasons—I hear folks say they can’t write include: I’m not very good at writing (you can’t improve if you don’t write often), my website isn’t finished (classic, and also guilty so shut up), and I don’t know what to write about, there’s nothing new for me to add (oh boy).
