@@ -2,7 +2,7 @@
 date = 2020-06-06T07:00:00Z
 description = ""
 tags = ["writing"]
-title = "There's a voice inside your head that prevents you from sharing your ideas—punch it in the face."
+title = "There's a voice inside your head that prevents you from sharing ideas—punch it in the face."
 
 +++
 If we have worked together or you’ve asked me for career advice, there is a high probability that I have encouraged you to write and hit the publish button often. There are so many benefits to writing that includes processing your thoughts and ideas, improving your ability to communicate, and increasing your thought leadership in the industry (presuming you write about your industry from time-to-time). The excuses—or, I’m sorry, reasons—I hear folks say they can’t write include: I’m not very good at writing (you can’t improve if you don’t write often), my website isn’t finished (classic, and also guilty so shut up), and I don’t know what to write about, there’s nothing new for me to add (oh boy).
@@ -13,7 +13,7 @@ When I challenge the idea of topics—especially when I suggest writing about a 
 
 Now, I want to add that I am guilty of this too. There have been some lean years where I wrote lots of articles but deleted them before hitting the publish button. My friends who are prolific writers have also confessed to me that they, too, have suffered from this problem. To be a writer, to be successful at anything, we have to create like no one is watching, listening, or reading. We have to fight that inner voice that says don’t do the thing because we are wired to question sharing our ideas based on originality.
 
-Earlier today, I found a short post by Scott Olster, Editor at LinkedIn. He writes:
+Earlier today, I found a short post by Scott Olster, Editor at LinkedIn. [He writes:](https://www.linkedin.com/feed/news/your-ideas-are-better-than-you-think-4865508/ "Your ideas are better than you think")
 
 > Before you discard that brand new idea, you just cooked up into your mental dustbin, hold on for just a moment. According to researchers from INSEAD, The Open University of Israel, and The Technion, people consistently underestimate the originality of their ideas. One reason we do this? We tend to think that everyone else is thinking the same way we are. Turns out they aren’t, or at least not nearly as often as we assume. So, if you feel an urge to keep your suggestion to yourself, speak up instead. Being aware of this tendency can help, and managers can help even more by openly encouraging people to share their idea seedlings.
 
