@@ -1,7 +1,6 @@
 +++
 date = 2020-06-08T07:00:00Z
 description = "Remembering those who died to protect our freedoms."
-draft = true
 tags = ["utopia"]
 title = "We should not forget the price we paid for the freedoms we enjoy today."
 
