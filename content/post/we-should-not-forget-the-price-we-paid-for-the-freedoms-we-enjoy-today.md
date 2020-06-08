@@ -11,7 +11,7 @@ My mother-in-law, Linda, wrote an [Op-ed piece](https://myedmondsnews.com/2020/0
 
 Similar reactions from my neighbors appeared on NextDoor. I don't watch television news (because it's seldom just the news), but I also noticed an absence of coverage from print journalism.
 
-Typically this anniversary receives "front-page" treatment. I presume so much else is going on—The protests, The pandemic, The global economy, OPEC, et cetera. that producers and editors felt priorities lay elsewhere. That said, broadcasters have ample time, and newsrooms have infinite webpages to tell stories even if their promotion is brief against the flood of current events.
+Typically this anniversary receives "front-page" treatment. I presume with so much else is going on—The protests, The pandemic, The global economy, OPEC, et cetera. that producers and editors felt priorities lay elsewhere. That said, broadcasters have ample time, and newsrooms have infinite webpages to tell stories even if their promotion is brief against the flood of current events.
 
 I know we're dealing with a lot at the moment, but we must never forget the cost and lasting impact of war. While D-Day may have been a lifetime ago, we are still living in the world shaped mostly by its outcome—the beginning of the end of Nazi Germany and World War II. The cost of that battle was high, 10-15k soldiers (Allied and Nazi) died on that day. The intent is not to overshadow the events unfolding around us but to take time to remember the millions of people who gave their lives fighting to liberate occupied Democracies and protect the freedoms we still employ at home.
 
