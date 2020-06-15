@@ -28,6 +28,7 @@ fields:
   default: []
   label: Tags
 pages:
+- content/longboard/500-versus-16-steak-dinner.md
 - content/longboard/a-comprehensive-look-at-the-energy-crisis-nobody-saw-coming.md
 - content/longboard/a-farewell-to-the-quick-brown-fox..md
 - content/longboard/according-to-20-000-creatives-brainstorming-is-a-giant-waste-of-time.md
