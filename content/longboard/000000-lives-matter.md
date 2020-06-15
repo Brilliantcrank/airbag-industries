@@ -1,6 +1,6 @@
 +++
 date = 2020-06-14T07:00:00Z
-tags = []
+tags = [want]
 target_url = "https://www.jamestgreen.com/projects/blacklivesmatter"
 title = "#000000 {lives:matter;}."
 
