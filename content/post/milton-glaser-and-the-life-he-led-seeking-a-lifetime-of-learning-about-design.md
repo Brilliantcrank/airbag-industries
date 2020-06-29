@@ -19,7 +19,7 @@ Milton came to Creative Mornings intending to talk about a series of hidden rela
 
 He began with a story of two Italian men and what we can learn from how they approached life and work but arrived at similar outcomes as artists. It’s so good that I transcribed the entire story:
 
-“In my mind, I have two artistic heroes. One is Picasso and the other is Giorgio Morandi who I studied within the ’50s in Italy. And the interesting thing about them is they represent these extraordinary polarities. Picasso was a man who wanted everything—Wanted all the fame, all the money, all the women. That was Picasso. Morandi, on the other hand, was a man that wanted nothing. He just wanted to teach a little, once a week, in a very ordinary school in Bologna, and then go home and paint.
+“In my mind, I have two artistic heroes. One is Picasso and the other is Giorgio Morandi who I studied with in the ’50s in Italy. And the interesting thing about them is they represent these extraordinary polarities. Picasso was a man who wanted everything—Wanted all the fame, all the money, all the women. That was Picasso. Morandi, on the other hand, was a man that wanted nothing. He just wanted to teach a little, once a week, in a very ordinary school in Bologna, and then go home and paint.
 
 Even in the work of these two what seems to be contradictory figures or polar opposites figures, what you discover if you pay attention is the extraordinary range of development in every case.
 
