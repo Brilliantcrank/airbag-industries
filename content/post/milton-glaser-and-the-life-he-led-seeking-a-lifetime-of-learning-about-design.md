@@ -2,7 +2,7 @@
 date = 2020-06-28T07:00:00Z
 description = "The accomplished master of design who never stopped learning."
 tags = ["design"]
-title = "Milton Glaser and a lifetime of evolving his design work."
+title = "Master designer Milton Glaser and a lifetime of evolving his work."
 
 +++
 No sooner had I received an update on my order for Mag Men—the story of Walter Bernard and Milton Glaser’s work on the design of over 100 magazines—Within minutes, I got a news alert on [Milton’s passing](https://www.nytimes.com/aponline/2020/06/26/us/ap-us-obit-milton-glaser.html). He was 91, and I believe he continued to design up until his last day. In a 2018 interview, Milton said about work, “If I woke up in the morning and didn’t have a place to go, I’d go nuts. It’s a great reason to keep on living. [Retirement is a trap.](https://observer.com/2018/08/interview-milton-glaser-on-his-new-work-aging-and-edward-hopper/)”
