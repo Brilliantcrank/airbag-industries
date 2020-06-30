@@ -1,6 +1,6 @@
 +++
 date = 2020-06-30T13:20:00Z
-tags = []
+tags = ["movetenspaces"]
 target_url = "https://senetmagazine.com"
 title = "\"Senet is an all-new independent print magazine about the craft, creativity and community of board gaming.\""
 
