@@ -5,4 +5,4 @@ target_url = "https://podcasts.google.com/feed/aHR0cHM6Ly93d3cudW5jbGV3ZWVweS5za
 title = "Kickin' it Storey Style."
 
 +++
-I had the honor of being the first guest on [Uncle Weepy's Depression Dungeon](https://www.patreon.com/uncleweepy) podcast. It's all giggles and slapstick in the beginning but Joy the  Myofunctional Therapist brings the conversation to Planet Real on unmet life goals. Thanks Joy!
+I had the honor of being the first guest on [Uncle Weepy's Depression Dungeon](https://www.patreon.com/uncleweepy) podcast. It's all giggles and slapstick in the beginning but Joy the  Myofunctional Therapist brings the conversation back to Planet Real to talk about unmet life goals. Thanks Joy!
