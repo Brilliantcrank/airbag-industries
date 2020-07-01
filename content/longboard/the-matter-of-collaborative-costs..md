@@ -5,7 +5,7 @@ target_url = "https://ethanmarcotte.com/wrote/the-design-systems-between-us/"
 title = "“The matter of collaborative costs.”"
 
 +++
-From "The design systems between us." an insightful essay from Ethan on the cost of dedicated design tools and development decisions may not scale outside of engineering.
+A terrific point taken from "The design systems between us," an insightful essay from Ethan on the cost of dedicated design tools and development decisions may not scale outside of engineering.
 
 > Modern digital teams rarely discuss decisions in terms of the _collaborative costs_ they incur. It’s tempting—and natural!—to see design-or engineering-related decisions in isolation: that selecting Vue as a front-end framework only impacts the engineering team, or that migrating to Figma only impacts designers. But each of these changes the way that team works, which impacts how other teams will work and collaborate with them.
 
