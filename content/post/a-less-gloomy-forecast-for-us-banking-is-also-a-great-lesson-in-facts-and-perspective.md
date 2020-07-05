@@ -17,7 +17,7 @@ The profile on Nathan Tankus is short and intriguing—I encourage you all to ta
 
 And wouldn't you know it, one of his recent pieces is a retort to that stroke-inducing piece from The Atlantic titled, [_Is There Really A "Looming Bank Collapse?"_](https://nathantankus.substack.com/p/is-there-really-a-looming-bank-collapse) Now, if you're into this kind of thing like I am, I would advise you to make a beverage because Nathan's article will take a while to get through. Almost every point Partnoy made in the original article is countered with an alternative perspective backed by sources and other research. Near the end, Nathan states:
 
-[Losses from this \[pandemic\] may lead to "serious deficiencies in capital," but if they do, it will not be because of fancy structured products but the failure of good old-fashioned loans because of a good old-fashioned depression.]()
+> Losses from this \[pandemic\] may lead to "serious deficiencies in capital," but if they do, it will not be because of fancy structured products but the failure of good old-fashioned loans because of a good old-fashioned depression.
 
 I won't give away any more spoilers because once you know the world isn't going to collapse due to CLOs, it's a fun and interesting read. The best part is that there is already a sequel. Frank Partnoy respond to Nathan recently to back his article only to have Nathan go in and [start unraveling the Atlantic's Brooks Brothers cardigan](https://nathantankus.substack.com/p/worst-case-scenario-or-inconsistent):
 
