@@ -25,4 +25,4 @@ I won't give away any more spoilers because once you know the world isn't going 
 
 And this leads to the bigger I was reminded of this morning. When stringing together a point-of-view, do you have the right perspective to look at the facts gathered? Do you have all of the facts? And, are you looking at the problem at the right altitude?
 
-When working with designers, I find myself asking that very question more often than I ask anything else. In the hunt for facts, it's easy to get into the weeds. Curiosity will take us to the _n_th detail in pursuit of truth. And more often then not, while in that hunt, we forget to look up (and sideways) to check if we're at the right depth to see the problem or the story in a broader perspective.
+When working with designers, I find myself asking that very question more often than I ask anything else. In the hunt for facts, it's easy to get into the weeds. Curiosity will take us to the _n_th detail in pursuit of truth. And more often then not, while in that hunt, we forget to look up (and sideways) to check if we're at the right depth to see the problem or the story in a broader perspective. 
