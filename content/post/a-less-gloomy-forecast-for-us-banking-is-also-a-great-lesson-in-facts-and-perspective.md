@@ -19,10 +19,10 @@ And wouldn't you know it, one of his recent pieces is a retort to that stroke-in
 
 > Losses from this \[pandemic\] may lead to "serious deficiencies in capital," but if they do, it will not be because of fancy structured products but the failure of good old-fashioned loans because of a good old-fashioned depression.
 
-I won't give away any more spoilers because once you know the world isn't going to collapse due to CLOs, it's a fun and interesting read. The best part is that there is already a sequel. Frank Partnoy respond to Nathan recently to back his article only to have Nathan go in and [start unraveling the Atlantic's Brooks Brothers cardigan](https://nathantankus.substack.com/p/worst-case-scenario-or-inconsistent):
+I won't give away any more spoilers because once you know the world isn't going to collapse due to CLOs, it's a fun and interesting read. The best part is that there is already a sequel! Frank Partnoy responded to back his article only to have Nathan go in and [start unraveling the Atlantic's Brooks Brothers cardigan](https://nathantankus.substack.com/p/worst-case-scenario-or-inconsistent):
 
 > Partnoy is correct that my piece doesn't dispute any facts he stated in his article. Instead, I focused on his framing and presentation of those facts. However, as I state below, I disagree with the interpretation and presentation of these facts so fundamentally that I still think they fall within the realm of fact checking.
 
-And this leads to the bigger I was reminded of this morning. When stringing together a point-of-view, do you have the right perspective to look at the facts gathered? Do you have all of the facts? And, are you looking at the problem at the right altitude?
+And this leads to the bigger lesson I was reminded of this morning. When stringing together a point-of-view, do you have the right perspective to look at the facts gathered? Do you have all of the facts? And, are you looking at the problem at the right altitude?
 
 When working with designers, I find myself asking that very question more often than I ask anything else. In the hunt for facts, it's easy to get into the weeds. Curiosity will take us to the _nth_ detail in pursuit of truth. And more often then not, while in that hunt, we forget to look up (and sideways) to check if we're at the right depth to see the problem or the story in a broader perspective.
