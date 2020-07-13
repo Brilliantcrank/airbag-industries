@@ -1,0 +1,33 @@
++++
+date = 2020-07-12T07:00:00Z
+description = "Various happenings from prior weeks."
+tags = ["utopia"]
+title = "Ballast—005."
+
++++
+Wow, eight weeks sure does fly during a pandemic. June was rather uneventful except that Kitchen Storey had to return to working in her office full-time. Like so many other non-digital workers, her group quickly transformed and was highly productive, but her industry still thinks that productivity is related to being "seen" in the workplace. The irony here, my wife has a private office and keeps the door shut and locked during the workday.
+
+* I'm still thrilled to be the first guest on [_Uncle Weepy's Depression Dungeon_](https://www.uncleweepy.show/114)_._ I always have fun talking to Paul and Jeremy, and now Joy. Recording that show was some of the most fun I've had this year. Which tells you something about the year, but also how much I like recording podcasts. Hrmmm.
+
+
+* I've found two new indie magazines to obsess over and purchase. Eighty degrees is all about the world of tea. The production quality is on par with [_Drift_](https://driftmag.com), an indie magazine about coffee. [_Senet _](https://senetmagazine.com)publishes stories on the wonderful world of board games. I highly recommend subscriptions to all three. And while you're stuck at home, join the slow journalism movement with a subscription to [_Delayed Gratification_](https://www.slow-journalism.com).
+
+
+* [_Eye _](http://www.eyemagazine.com)magazine reached its [100th issue](http://www.eyemagazine.com/magazine/issue-100). I know that because it says so on their website, but my issue has not arrived. And I am trying not to get worked up about it, but I'd very much like to have this issue as soon as possible, please! _Eye_ is a magazine every designer should read. The quarterly has some of the best everything: production quality, [journalism](http://www.eyemagazine.com/blog/post/say-their-names), and design. I wish it was a monthly periodical, but then it wouldn't feel as unique each time it arrives in the post.
+
+
+* While I ping-pong between books, I could not help throwing them all to the ground (metaphorically, of course) to start reading Issac Asimov's Foundation. After watching [the trailer](https://www.youtube.com/watch?v=xgbPSA94Rqg) for their upcoming television production, I had to buy it and start reading immediately.
+
+
+* I used the launch of Aaron Walter's second edition of his book, [_Design for Emotion_](https://abookapart.com/products/designing-for-emotion) as an excuse to pick up [Jason's book on typography](https://abookapart.com/products/on-web-typography) and Yesenia Perez-Cruz's [_Expressive Design Systems_](https://abookapart.com/products/designing-for-emotion). I am looking forward to blasting through these when I'm done science fictioning.
+
+
+* The last book mention is Bruce Mau's newest tome, [_MC24_](https://www.phaidon.com/agenda/design/articles/2020/may/06/why-bruce-maus-new-book-is-exactly-what-we-need-right-now/), on the principles he and his wife have created to drive their life's work. I read Bruce's book [_Massive Change_](https://www.amazon.com/dp/B015QKCD9O) back in 2005, and it was so inspiring but also so much very ahead of its time. While Bruce and his Massive Change Network have made dents for good in the world, it feels like there is still more work to do. _MC24_ arrived yesterday, but I can already tell this book will be transformative in my thinking about what I'm going to do in the next 20-30 years.
+
+
+* Other life changes are in progress. Over-all, alcohol consumption is down from its peak in the winter. I ordered both a standing desk and a Peleton back in early June. Neither order will be fulfilled until August due to demand and COVID manufacturing setbacks. Meanwhile, sporadic sessions in mindfulness and eventually, a stretching regiment are working their way into a routine. [Tracksuits](https://www.thesocietyofthecrossedkeys.com/products/chas-tenenbaum-track-top-vintage-1), as a daily uniform, are starting to sound appealing.
+
+
+* A parting message. Minutes ago, I posted a [statement on Instagram](https://twitter.com/Brilliantcrank/status/1282472642964893698) to let my friends and followers (y' all) know that I am leaving the platform. As companies hold back their advertising dollars in an effort to get Facebook to change their policies, I feel compelled to join the cause from the user end. As my statement on Instagram says, "Facebook's leadership and its policies support the spread of racism, fascism, harmful misinformation by anti-vaxers and conspiracy idiots, and plain stupidity. The world does not need any more of this shit." From here on out, I will be posting photos when I can on Flickr and VSCO as Brilliantcrank.
+
+Be well. Wear masks. Stay home. And be sure you are registered to vote.
