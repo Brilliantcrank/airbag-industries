@@ -1,0 +1,19 @@
++++
+date = 2020-07-20T07:00:00Z
+draft = true
+tags = ["choke"]
+target_url = "https://carbonliteracy.com/the-carbon-cost-of-an-email/"
+title = "The carbon cost of an email. "
+
++++
+Since 1995 I've lost track of all of the accounts I've registered to try new Internet stuff. With all of the newsletters, subscriptions, iOS applications, and I bet the count is close to one thousand. As the web has become more sophisticated with funnels, growth hacking, etc. creating an account comes with a litany of auto-generated emails. A few days ago, I thought about how much registering a free or trial account really costs. Not in dollars, but in energy and resources. If you consider that, on average, registering a free account generates an email with a unique code (to make sure you're not a bot) required to finish registration. A second email is sent to confirm that you have successfully registered an account. And a third email is sent with some type of greeting and a guide with next steps. When you close the account or stop the free trial, that's at least one email saying your request has been received and up to two more verifying that you want to close the account and that finally, the account has been closed.
+
+Tim Berners Lee, the guy famous for, you know, creating the World Wide Web, came out with a way to calculate the carbon footprint of email:
+
+* An average spam email:  0.3 g CO2e (carbon dioxide equivalent)
+* A standard email: 4 g CO2e
+* An email with "long and tiresome attachments": 50 g CO2e
+
+So, if we take those free registration accounts without attachments, that puts the email carbon costs somewhere between 16 g and 24 g. And that's been super conservative. If you sign up for an app with a super aggressive growth strategy, you're likely to receive at least one daily email—more like three to five. While 24 g per account doesn't seem much, I haven't included the power it takes to run servers that process everything. 
+
+Long story short, this practice of trying all of the things comes with a price. A free account or trial may not take money, but it does come with a cost. And one thing I can do is think twice about registering for the next shiny new object just so I can kick the tires.
