@@ -5,7 +5,7 @@ tags = ["design"]
 title = "Bringing designers back to the office will not help you transform."
 
 +++
-An acquaintance recently reached out with a bit of a perplexing problem. They work in a traditional industry that embraces digital transformation when it comes to consumer experiences, but not so much for the employee experience. Now that the threat of COVID-19 is waining their country, the company wants to recall everyone working from home for seemingly all the wrong reasons.
+An acquaintance recently reached out with a bit of a perplexing problem. They work in a traditional industry that embraces digital transformation when it comes to consumer experiences, but not so much for the employee experience. Now that the threat of COVID-19 is waining in their country, the company wants to recall everyone working from home for seemingly all the wrong reasons.
 
 The first pertains to the change in collaboration with distributed teams. You would think that with everyone working from going back to a distributed model (some of the team at the office while other members are working from home) would be easy because it is essentially working like everyone is remote. And sure, it does require a little extra effort, but nothing so extraneous that it should cause any more problems than fifteen-year-old phone systems or five-year-old computers—which are both prevalent in the Enterprise.
 
