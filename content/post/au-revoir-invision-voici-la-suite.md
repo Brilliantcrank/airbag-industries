@@ -5,7 +5,7 @@ tags = ["lifeislife"]
 title = "Au revoir InVision! Voici ce que la vie a à offrir!"
 
 +++
-As of last week, I am no longer with InVision. As the business makes adjustments to strategy and tactics, so does the team's shapes and sizes. I am joined by some of the smartest and hardworking people I have ever worked with thus far. Layoffs are never personal. That's what makes the whole process a big shit sandwich for both sides. I can assure you I'd rather be let go then to be the one to initiate the conversation. I am in a good place, so during a time when so many people are hurting and in need. I am fortunate to be where I am in life.
+As of last week, I am no longer with InVision. As the business makes adjustments to strategy and tactics, so does the team's shapes and sizes. I am joined by some of the smartest and hardworking people I have ever worked with thus far. Layoffs are never personal. That's what makes the whole process a big shit sandwich for both sides. I can assure you I'd rather be let go then to be the one to initiate the conversation. I am in a good place. During a time when so many people are hurting and in need, I am fortunate to be where I am in life.
 
 This event marks almost five years to the date since I stepped down from Happy Cog and closed the Austin studio.
 
