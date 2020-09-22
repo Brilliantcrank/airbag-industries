@@ -27,7 +27,7 @@ And so it goes.
 
 It's well known that communications between individuals or teams break down due to a lack of alignment around language, and that results in poor interpretation of what was said. I can't tell you how many times I have led workshops or exercises between teams to align on language as the first collaborative activity. We do this to avoid pour communication that eventually leads to poor information and false expectations.
 
-So why then, in 2020, do we still rely on recruiters to play the game of telephone with job candidates? What is it about the job practices within human relations that our hiring processes are stuck in the 1960s?
+So why then, in 2020, do we still rely on recruiters to play the game of telephone with job candidates? What is it about the job practices within human relations that our hiring processes are stuck in the 1960s? [Why is it taking senior designers like Melissa Kark five months and 130 applications to get to three offers?](https://www.linkedin.com/posts/melissakark_jobhunting-uxdesign-ux-activity-6712719920112701440-qIM-)
 
 How many good, talented people have didn't make the cut because the recruiter did not have the adequate language and the nuance to relate a candidate's perspectives and experiences to the hiring team? Where is the genuine curiosity that would help uncover new and potentially intriguing insights that could inform the candidate's viability? Especially if their "shape" is slightly different than what the team had in mind.
 
