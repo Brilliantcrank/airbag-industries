@@ -2,7 +2,7 @@
 date = 2020-09-22T08:00:00Z
 description = "Until we fix design hiring practices, we'll continue to play second to engineering and product."
 tags = ["distruptionwanted"]
-title = "Poor hiring practices in design continue to keep our industry behind."
+title = "Why are we still playing games with hiring practices in design?"
 
 +++
 Last week I had a call with a potential employer that I thought had gone well. The role they are looking for is akin to an XO for the team at large. Someone to run the day-to-day details of the design program primarily through the director level. Almost exactly the job I had at USAA.
