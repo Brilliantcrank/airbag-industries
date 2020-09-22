@@ -17,7 +17,7 @@ Now, I'm not sure how to interpret this, and I would love to have a direct conve
 
 And this is where I am left wondering why we are still using this broken system of depending on a single individual to play the telephone game to determine who is or is not a good fit for a team.
 
-Many months ago, I interviewed for another design leadership position. The person asked about design transformation because the company's senior leadership wanted to embrace design and bring it into other areas of the business. I recanted my experience at both IBM and USAA, where I was in unique positions to help teach design thinking to a wide array of IBM's businesses. Next, I was asked if either business had transformed, and I replied saying it was going to take more than a few years to completely transform either company considering their size and resistance to change. Can you guess what their take-away from that conversation was?
+Many months ago, I interviewed for another design leadership position. The person asked about design transformation because the company's senior leadership wanted to embrace design and bring it into other areas of the business. I recanted my experience at both IBM and USAA, where I was in unique positions to help teach design thinking to a wide array of businesses. Next, I was asked if either business had transformed, and I replied saying it was going to take more than a few years to completely transform either company considering their size and resistance to change. Can you guess what their take-away from that conversation was?
 
 > \[Candidate\] was unable to successfully advocate for design transformation at either of two prior employers and found that design was perennially marginalized.
 
