@@ -1,5 +1,5 @@
 +++
-date = 2020-10-15T08:00:00Z
+date = 2020-10-15T08:01:00Z
 tags = []
 target_url = "https://www.theverge.com/2020/10/15/21517673/sony-imaging-edge-webcam-digital-camera-webcam-software-mac"
 title = "Use Sony cameras as a webcam without hardware conversion."
