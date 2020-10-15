@@ -1,5 +1,5 @@
 +++
-date = 2020-10-15T07:00:00Z
+date = 2020-10-15T09:00:00Z
 tags = ["#smashsilos"]
 target_url = "https://www.invisionapp.com/inside-design/playbacks-ibm-design/"
 title = "\"My secret weapon for helping executives understand the value of design.\""
