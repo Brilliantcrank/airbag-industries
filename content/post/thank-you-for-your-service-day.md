@@ -5,7 +5,7 @@ tags = ["welldeserved"]
 title = "Thank You for Your Service Day."
 
 +++
-I woke up this morning wondering why we say “Happy Veterans Day. Given the sacrifice veterans have made, it seems appropriate to find a better phrase more befitting for the people it is intended to serve. I think I’m especially sensitive because we live in a time when the Commander in Chief of the United States Armed Forces has many times called veterans who died in the line of service “losers” and “suckers.” He has used the same word to describe veterans captured in the line of duty.
+I woke up this morning wondering why we say “Happy Veterans Day." Given the sacrifice veterans have made, it seems appropriate to find a better phrase more befitting for the people it is intended to serve. I think I’m especially sensitive because we live in a time when the Commander in Chief of the United States Armed Forces has many times called veterans who died in the line of service “losers” and “suckers.” He has used the same word to describe veterans captured in the line of duty.
 
 I think about all of the men and women who died fighting to defend liberty and democracy in Europe and Asia from 1914 through 1975. And the ones who made it home, scarred eternally by the experience, what they endured. I think about the servicewoman and her bomb-sniffing K9 I once met on a flight — they were on their way to a fourth tour in Afghanistan. I think about my grandfather, who fought against fascism in Italy and Germany. And my father-in-law who answered the draft and dutifully served a tour in Vietnam. I think about my time at USAA learning about military families that are torn apart when a parent is deployed and the emotional toll on everyone, especially the children.
 
