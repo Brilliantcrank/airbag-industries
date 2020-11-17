@@ -1,5 +1,5 @@
 +++
-date = 2020-11-16T08:00:00Z
+date = 2020-11-16T08:30:00Z
 tags = ["writing"]
 target_url = "https://www.theatlantic.com/ideas/archive/2020/11/barack-obama-i-still-believe-america/617073/"
 title = "Obama on writing."
