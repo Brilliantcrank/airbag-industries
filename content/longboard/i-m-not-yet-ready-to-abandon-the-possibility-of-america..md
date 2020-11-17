@@ -5,7 +5,7 @@ target_url = "https://www.theatlantic.com/ideas/archive/2020/11/barack-obama-i-s
 title = "Obama on writing."
 
 +++
-An adapted and updated excerpt from former President Barack Obama’s new memoir, [A Promised Land](https://www.amazon.com/Promised-Land-Barack-Obama/dp/1524763160) published by _The Atlantic_. Which includes this thought from Obama about writing while he drafted his presidential memoirs:
+From an adapted excerpt of President Barack Obama’s new memoir, [A Promised Land](https://www.amazon.com/Promised-Land-Barack-Obama/dp/1524763160) published by _The Atlantic_ comes this thought from Obama about writing while he drafted his presidential memoirs:
 
 > I still like writing things out in longhand, finding that a computer gives even my roughest drafts too smooth a gloss and lends half-baked thoughts the mask of tidiness.
 
