@@ -1,5 +1,5 @@
 +++
-date = 2020-11-19T08:00:00Z
+date = 2020-11-19T08:20:00Z
 tags = ["readyplayerone"]
 target_url = "https://kotaku.com/google-is-bringing-stadia-to-ios-1845715251"
 title = "Google Is Bringing Stadia To iOS."
