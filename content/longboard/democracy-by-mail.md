@@ -5,4 +5,4 @@ target_url = "https://www.nytimes.com/interactive/2020/10/26/magazine/printing-m
 title = "Democracy by mail."
 
 +++
-A photo essay—the cover story of last week's New York Times Magazine—on the work behind mail-in ballots. From printing to counting. As always, the NYT crew creates a wonderful experience to tell the story.
+A New York Times Magazine photo essay on the work behind mail-in ballots—from printing to counting. As always, the NYT crew creates a wonderful experience to tell the story.
