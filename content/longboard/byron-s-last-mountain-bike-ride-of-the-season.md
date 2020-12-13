@@ -9,4 +9,4 @@ Sounds a bit too similar to a haunting Robert Frost story:
 
 > It’s below freezing. The front valve stuck. The tire is almost deflated before I noticed. By now, there’s maybe 4 psi in the tire. _I’m screwed_, I think. It’s freezing rain. The bead is gonna break away from the rim. I know it. If the tire blows, I’ll have to walk home, do I have enough layers on to stay warm? I’m worried.
 
-Thankfully nobody died of hypothermia but instead comes away from the experience with a lesson on "free air life."
+Thankfully nobody died of hypothermia but instead came away with a lesson in "free air life."
