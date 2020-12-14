@@ -2,7 +2,7 @@
 date = 2020-12-14T08:00:00Z
 description = ""
 tags = ["theaviator"]
-title = "Gabriel Fernandez. One of the few who used his lifetime doing what he loved."
+title = "Gabriel Fernandez. One of the few who lived doing what he loved."
 
 +++
 The weather was perfect for spectating that afternoon; scattered clouds, with a high of 81F degrees and a slight wind from the north. It was Sunday, September 16, 2011, and the last day of the Reno Air Races. More than one-hundred thousand people attended the event that year. Seating ranged from general grandstands to VIP box seats out on the tarmac for those wanting an unobstructed view.  The “track” is outlined with pylons—“sticks”—made from fifty-foot tall telephone poles with brightly painted drum barrels attached at the top. The pilots must fly on the outside of these drums or face penalties. Like most races, several classes hold races throughout the weekend. Each class has a set of requirements that includes everyone racing the same type of plane. The fastest, the “Unlimited Class,” features mostly planes from World War II but modified to race allowing them to fly more than 500 mph. Common aircraft in this class include F-8F Bearcats, Hawker Sea Fury, and the P-51 Mustang.
