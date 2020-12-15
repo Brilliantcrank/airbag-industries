@@ -1,5 +1,5 @@
 +++
-date = 2020-12-15T08:10:00Z
+date = 2020-12-15T08:15:00Z
 tags = ["rif"]
 target_url = "https://www.nytimes.com/2020/12/13/obituaries/anthony-veasna-so-dead.html?action=click&algo=bandit-all-surfaces&auth=login-email&block=trending_recirc&fellback=false&imp_id=280045086&impression_id=e8ad56c4-3e72-11eb-8679-07e1c26ad10e&index=4&login=email&pgtype=Article&region=footer&req_id=195788141&surface=most-popular&variant=1_bandit-all-surfaces_daysback_4"
 title = "The next best American author dies before his first book is published."
