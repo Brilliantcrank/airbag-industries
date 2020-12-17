@@ -1,5 +1,5 @@
 +++
-date = 2020-12-01T11:00:00Z
+date = 2020-12-17T11:00:00Z
 description = ""
 tags = ["dickey"]
 title = "The Feast of Nemesis."
