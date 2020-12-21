@@ -1,5 +1,5 @@
 +++
-date = 2020-12-01T14:00:00Z
+date = 2020-12-21T14:00:00Z
 tags = ["publishing"]
 target_url = "https://www.niemanlab.org/2020/12/blogging-is-back-but-better"
 title = "Time dust off Independents Day and prepare for 2.0."
