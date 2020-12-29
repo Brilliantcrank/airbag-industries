@@ -1,5 +1,5 @@
 ---
-title: A Giant Bag of Hot Air...
+title: About Airbag
 page_title: About
 description: A blunt voice in the world of interactive design.
 menu:
