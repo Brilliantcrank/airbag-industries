@@ -4,7 +4,7 @@ page_title: Airbag Radio
 menu:
   navlinks:
     name: Radio
-    weight: 5
+    weight: 4
     identifier: radio
 
 ---
