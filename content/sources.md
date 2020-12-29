@@ -35,7 +35,7 @@ Friends and aquaintances who keep writing. If you don't see your name on the lis
 * [Khoi Vinh](https://www.subtraction.com "Khoi Vinh") / Subtraction
 * [Mandy Brown](https://aworkinglibrary.com/writing/hard-way "Mandy Brown")
 * [Mark Boulton](https://markboulton.co.uk/journal/ "Mark Boulton")
-* [Matt Haughey](https://a.wholelottanothing.org "Matt Haughey") / A Whole Lotta Nothingbvbon
+* [Matt Haughey](https://a.wholelottanothing.org "Matt Haughey") / A Whole Lotta Nothing
 * [Mike Davidson](https://mikeindustries.com "Mike Davidson") / Industries
 * [Phil Coffman](https://philcoffman.com "Phil Coffman")
 * [Ryan Irelan](https://ryanirelan.com "Ryan Irelan")
