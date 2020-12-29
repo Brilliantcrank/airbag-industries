@@ -5,7 +5,7 @@ description: A blunt voice in the world.
 menu:
   navlinks:
     name: About
-    weight: 3
+    weight: 2
     identifier: about
 
 ---
