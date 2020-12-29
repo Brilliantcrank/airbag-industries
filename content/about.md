@@ -1,11 +1,11 @@
 ---
 title: About Airbag
 page_title: About
-description: A blunt voice in the world of interactive design.
+description: A blunt voice in the world.
 menu:
   navlinks:
     name: About
-    weight: 2
+    weight: 3
     identifier: about
 
 ---
