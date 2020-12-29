@@ -1,5 +1,5 @@
 ---
-title: Source Material
+title:                           
 page_title: Source Material
 menu:
   navlinks:
@@ -12,7 +12,7 @@ An ever-evolving list of journals, magazines, and news sources consumed for work
 
 **Following**
 
-Some of my friends never stopped writing and others are working their way back. 
+Some of my friends never stopped writing and others are working their way back. If you don't see your name on the list, please let me know. 
 
 * [Andy Baio](https://waxy.org "Andy Baio") / Waxy
 * [Austin Kleon](https://austinkleon.com "Austin Kleon")
@@ -35,8 +35,7 @@ Some of my friends never stopped writing and others are working their way back.
 * [Khoi Vinh](https://www.subtraction.com "Khoi Vinh") / Subtraction
 * [Mandy Brown](https://aworkinglibrary.com/writing/hard-way "Mandy Brown")
 * [Mark Boulton](https://markboulton.co.uk/journal/ "Mark Boulton")
-* [Matt Haughey](https://a.wholelottanothing.org "Matt Haughey") / A Whole Lotta Nothing
-* [Mike Davidson](https://mikeindustries.com/blog/archive/category/original "Mike Davidson") / Mike Industries
+* [Matt Haughey](https://a.wholelottanothing.org "Matt Haughey") / A Whole Lotta Nothingbvbon") / Mike Industries
 * [Phil Coffman](https://philcoffman.com "Phil Coffman")
 * [Ryan Irelan](https://ryanirelan.com "Ryan Irelan")
 * [Ryan Rumsey](https://www.ryanrumsey.com/words "Ryan Rumsey")
@@ -71,7 +70,6 @@ Some of my friends never stopped writing and others are working their way back.
 
 * [Ars Technica](https://arstechnica.com "Ars Technica")
 * [Delayed Gratification](https://www.slow-journalism.com/blog "Delayed Gratification")
-* [Foreign Policy](https://foreignpolicy.com "Foreign Policy")
 * [Grit City Magazine](https://gritcitymag.com "Grit City Magazine")
 * [New York Times](https://nytimes.com "New York Times")
 * [National Public Radio](https://www.npr.org "National Public Radio")
