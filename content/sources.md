@@ -1,5 +1,5 @@
 ---
-title:                           
+title: All of the Sources
 page_title: Source Material
 menu:
   navlinks:
