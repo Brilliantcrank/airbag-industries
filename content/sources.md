@@ -4,7 +4,7 @@ page_title: Source Material
 menu:
   navlinks:
     name: Sources
-    weight: 2
+    weight: 3
     identifier: sources
 
 ---
