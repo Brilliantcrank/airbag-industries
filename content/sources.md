@@ -35,7 +35,8 @@ Some of my friends never stopped writing and others are working their way back. 
 * [Khoi Vinh](https://www.subtraction.com "Khoi Vinh") / Subtraction
 * [Mandy Brown](https://aworkinglibrary.com/writing/hard-way "Mandy Brown")
 * [Mark Boulton](https://markboulton.co.uk/journal/ "Mark Boulton")
-* [Matt Haughey](https://a.wholelottanothing.org "Matt Haughey") / A Whole Lotta Nothingbvbon") / Mike Industries
+* [Matt Haughey](https://a.wholelottanothing.org "Matt Haughey") / A Whole Lotta Nothingbvbon
+* [Mike Davidson](https://mikeindustries.com "Mike Davidson") / Industries
 * [Phil Coffman](https://philcoffman.com "Phil Coffman")
 * [Ryan Irelan](https://ryanirelan.com "Ryan Irelan")
 * [Ryan Rumsey](https://www.ryanrumsey.com/words "Ryan Rumsey")
