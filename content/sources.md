@@ -12,7 +12,7 @@ An ever-evolving list of journals, magazines, and news sources consumed for work
 
 **Following**
 
-Some of my friends never stopped writing and others are working their way back. If you don't see your name on the list, please let me know. 
+Friends and aquaintances who keep writing. If you don't see your name on the list, please let me know. 
 
 * [Andy Baio](https://waxy.org "Andy Baio") / Waxy
 * [Austin Kleon](https://austinkleon.com "Austin Kleon")
