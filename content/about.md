@@ -19,7 +19,7 @@ The site features a single typeface, [FF Franziska](http://fffranziska.com "FF F
 
 This site currently uses a combination of Github, Hugo, and Netlify to store, manage, and serve the content. Forestry is used as a visual interface for editing the stories and links.
 
-**About the Brandname**
+**About the Name**
 
 The name came from the need to have a blog title starting with the letter “A” because, at the time, search engines (Google) did not exist. Instead, there were only directories (Yahoo, AltaVista) that were often listed in alphabetical order. Around the same time, there happened to be a lot of historical content on World War II as the fiftieth anniversary was around the corner, including new books and television programs on airships like the amazing [USS Macon](https://en.wikipedia.org/wiki/USS_Macon_(ZRS-5) "USS Macon")—the centerpiece of the iconic branding. Knowing that the content of the site would likely be driven by a lot of hot air, it seemed appropriate to call the site Airbag and feature the imagery of airships from long ago.
 
