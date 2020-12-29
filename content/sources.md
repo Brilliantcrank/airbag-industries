@@ -72,7 +72,7 @@ Friends and aquaintances who keep writing. If you don't see your name on the lis
 * [Delayed Gratification](https://www.slow-journalism.com/blog "Delayed Gratification")
 * [Drift](https://www.driftmag.com "Drift")
 * [Eye Magazine](http://www.eyemagazine.com/blog "Eye Magazine")
-* [Eighty Degrees](https://www.readeighty.com "Eighty Degrees")
+* [Eighty](https://www.readeighty.com "Eighty")
 * [Grit City](https://gritcitymag.com "Grit City Magazine")
 * [New York Times](https://nytimes.com "New York Times")
 * [National Public Radio](https://www.npr.org "National Public Radio")
