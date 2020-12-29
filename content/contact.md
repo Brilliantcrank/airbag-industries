@@ -4,7 +4,7 @@ page_title: Contact
 menu:
   navlinks:
     name: Contact
-    weight: 4
+    weight: 5
     identifier: contact
 
 ---
