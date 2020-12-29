@@ -1,9 +1,13 @@
-+++
-description = "Sources of information and inspiration."
-page_title = "Backlog"
-title = "Sources of information and inspiration."
+---
+title: Source Material
+page_title: Source Material
+menu:
+  navlinks:
+    name: Sources
+    weight: 7
+    identifier: sources
 
-+++
+---
 An ever-evolving list of journals, magazines, and news sources consumed for work and otherwise. I'm always looking for more interesting publications—especially magazines.
 
 **Following**
