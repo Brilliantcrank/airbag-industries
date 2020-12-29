@@ -48,7 +48,6 @@ Some of my friends never stopped writing and others are working their way back. 
 
 **Design**
 
-* [Eye Magazine](http://www.eyemagazine.com/blog "Eye Magazine")
 * [Society of Publication Designers](https://www.spd.org "Society of Publication Designers")
 * [Type Directors Club](https://www.tdc.org "Type Directors Club")
 
@@ -70,10 +69,17 @@ Some of my friends never stopped writing and others are working their way back. 
 
 * [Ars Technica](https://arstechnica.com "Ars Technica")
 * [Delayed Gratification](https://www.slow-journalism.com/blog "Delayed Gratification")
-* [Grit City Magazine](https://gritcitymag.com "Grit City Magazine")
+* [Drift](https://www.driftmag.com "Drift")
+* [Eye Magazine](http://www.eyemagazine.com/blog "Eye Magazine")
+* [Eighty Degrees](https://www.readeighty.com "Eighty Degrees")
+* [Grit City](https://gritcitymag.com "Grit City Magazine")
 * [New York Times](https://nytimes.com "New York Times")
 * [National Public Radio](https://www.npr.org "National Public Radio")
 * [Monocle](https://monocle.com "Monocle")
+* [Puget Sound Business Journal](https://www.bizjournals.com/seattle/ "Puget Sound Business Journal")
+* [Seattle Times](https://seattletimes.com "Seattle Times")
+* [Senet](https://senetmagazine.com "Senet")
 * [The Economist](https://www.economist.com "The Economist")
 * [The Guardian](https://www.theguardian.com/us "The Guardian")
+* [Washington Post](https://washingtonpost.com "Washington Post")
 * [Wired](https://wired.com "Wired")
