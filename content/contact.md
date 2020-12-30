@@ -8,4 +8,4 @@ menu:
     identifier: contact
 
 ---
-Hello. Got a question or a comment? PLease send it <a href="mailto:greg@airbagindustries.com?subject=Hello Airbag">via email</a> or hit me up on <a href="http://www.twitter.com/brilliantcrank">Twitter</a>.
+Got a question or a comment? Send it <a href="mailto:greg@airbagindustries.com?subject=Hello Airbag">via email</a> or hit me up on <a href="http://www.twitter.com/brilliantcrank">Twitter</a>.
