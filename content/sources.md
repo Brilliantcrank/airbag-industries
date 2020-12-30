@@ -42,10 +42,13 @@ Friends and aquaintances who keep writing. If you don't see your name on the lis
 * [Ryan Rumsey](https://www.ryanrumsey.com/words "Ryan Rumsey")
 * [Rob Weychert](https://v6.robweychert.com/blog/ "Rob Weychert")
 * [Sophie Shepherd](http://sophieshepherd.com "Sophie Shepherd")
+* [Scott Boms](https://scottboms.com/documenting "Scott Boms")
 * [Stephen Caver](https://www.stephencaver.com/journal/index.html "Stephen Caver")
 * [Tina Roth Eisenberg](https://www.swiss-miss.com/ "Swissmiss") / Swissmiss
 * [Trent Walton](https://trentwalton.com/category/notes/ "Trent Welton")
 * [Val Head](https://valhead.com/blog/ "Val Head")
+* [Vanni di Ponzano](https://bicilogic.com "Vanni di Ponzano") / Bicilogic
+* [Veerle Peters](https://veerle.duoh.com "Veerle Peters")
 
 **Design**
 
