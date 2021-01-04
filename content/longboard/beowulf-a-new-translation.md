@@ -1,5 +1,5 @@
 +++
-date = 2021-01-04T08:00:00Z
+date = 2021-01-04T10:00:00Z
 tags = ["rif"]
 target_url = "https://aworkinglibrary.com/reading/headley-beowulf"
 title = "Beowulf, a new translation."
