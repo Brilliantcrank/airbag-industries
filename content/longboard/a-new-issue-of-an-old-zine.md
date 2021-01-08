@@ -1,5 +1,5 @@
 +++
-date = 2021-01-09T03:08:00Z
+date = 2021-01-08T22:08:00Z
 tags = ["publishing"]
 target_url = "https://v6.robweychert.com/blog/2020/09/new-issue-old-zine/"
 title = "A new issue of an old zine."
