@@ -1,5 +1,5 @@
 +++
-date = 2021-01-01T19:01:00Z
+date = 2021-01-08T19:01:00Z
 tags = ["riso"]
 target_url = "http://www.eyemagazine.com/blog/post/risoholics-of-the-world-unite"
 title = "No Magic In RISO."
