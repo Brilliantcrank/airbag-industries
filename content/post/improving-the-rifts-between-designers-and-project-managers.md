@@ -2,7 +2,7 @@
 date = 2021-02-04T09:00:00Z
 description = ""
 tags = ["hardearnedadvice"]
-title = "Improving the rifts between designers and project managers."
+title = "Improving the rifts between designers and project or product managers."
 
 +++
 Last month my friend Brett Harned and I recorded a session of his podcast _Time Limit_. I heart this guy a ton, and I miss working with him daily. Brett and I recorded a limited session program called Sprints & Milestones. So, it felt good to get back behind the microphone to record this conversation.
