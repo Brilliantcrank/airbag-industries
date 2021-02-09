@@ -1,5 +1,5 @@
 +++
-date = 2021-02-01T10:00:00Z
+date = 2021-02-08T10:00:00Z
 tags = ["movabletype"]
 target_url = "https://cxl.com/blog/learned-cxl-blog/"
 title = "\"What I learned publishing 200+ blog posts.\""
