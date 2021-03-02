@@ -13,8 +13,8 @@ It’s nice to see the SND catch up to modern times and celebrate the fantastic 
 
 To demonstrate just how far SND has come in its evolution of acknowledging digital, I caught two projects that received awards, yet neither is primarily a journalistic story. The first is [Blacklight](https://themarkup.org/blacklight), a tool from [The Markup](https://themarkup.org) that scans websites for technology installed to track user behavior. The second is a typeface called [“Climate Crisis Font”](https://kampanjat.hs.fi/climatefont/index.html) designed to represent “the percentual situation of the Arctic ice pack” from 1979 to 2050. The font’s weights are arranged by decade degrade like melted ice as you get closer to the last based on data from the National Snow and Ice Data Center.
 
-Wow, editorial design has sure come a long way! 
+Wow, editorial design has sure come a long way!
 
 Seeing the breadth and depth of the work submitted to the SND awards is very exciting. It makes me happy to see such a big field of innovation and new methods for reporting the news and telling stories. Whereas just a few years ago, the possibility of making a career as an editorial designer looked bleak, now it would seem the doors have been blown open.
 
-One more thing. If you enjoyed reading this post and looking through the projects remember that journalism needs your support. Get your credit card out and become a subscriber. I pay good money to [five newspapers, ten magazines, public radio, and a few newsletters]() because the world would absolutely, completely, and utterly suck without solid journalism. Step up and do your part.
+One more thing. If you enjoyed reading this post and looking through the projects remember that journalism needs your support. Get your credit card out and become a subscriber. I pay good money to five newspapers, ten magazines, public radio, and a few newsletters because the world would absolutely, completely, and utterly suck without solid journalism. Step up and do your part.
