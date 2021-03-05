@@ -2,7 +2,7 @@
 date = 2021-03-05T10:00:00Z
 tags = ["utopia"]
 target_url = "https://www.wired.com/story/were-vaccinated-everyone-wants-to-visit-now-what/"
-title = "Once vaccinated are you free to hang out with other people."
+title = "Once vaccinated are you free to hang out with other people?"
 
 +++
 Nope.
