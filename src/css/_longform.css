@@ -61,6 +61,10 @@
   blockquote > p {
     @apply italic pl-12;
   }
+  
+  blockquote > p + p {
+    @apply mt-6;
+  }
 
 }
 
