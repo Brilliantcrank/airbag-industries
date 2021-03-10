@@ -1,12 +1,12 @@
 +++
-date = 2021-03-10T21:01:00Z
-description = "Making accessibility a feature, not a fix."
+date = 2021-03-10T21:05:00Z
+description = ""
 draft = true
 tags = ["wcag"]
 title = "Making accessibility a feature, not a fix."
 
 +++
-Please consider sharing [this story](https://medium.com/indeed-design/building-an-accessibility-library-e134e9012c17) far and wide because it’s important, and more of the digital industry needs to see this.
+Please consider [sharing this story far and wide](https://medium.com/indeed-design/building-an-accessibility-library-e134e9012c17) because it’s important, and more of the digital industry needs to see this.
 
 All-Star designer [Stephanie Hagadorn](https://www.linkedin.com/in/shagadorn/) shares a unique and super smart project her team created at Indeed to help build better products through accessibility requirements.
 
