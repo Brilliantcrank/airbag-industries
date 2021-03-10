@@ -1,6 +1,6 @@
 +++
 date = 2021-03-10T21:01:00Z
-description = ""
+description = "Making accessibility a feature, not a fix."
 tags = ["wcag"]
 title = "Making accessibility a feature, not a fix."
 
