@@ -1,5 +1,5 @@
 +++
-date = 2021-03-10T16:00:00Z
+date = 2021-03-10T18:00:00Z
 description = ""
 tags = ["wcag"]
 title = "\"Making accessibility a feature, not a fix.\""
