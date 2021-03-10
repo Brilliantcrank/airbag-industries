@@ -1,4 +1,4 @@
-/*! airbag-industries v1.0.0 | (c) 2020  | ISC License | git+https://stephencaver@github.com/Brilliantcrank/airbag-industries.git */
+/*! airbag-industries v1.0.0 | (c) 2021  | ISC License | git+https://stephencaver@github.com/Brilliantcrank/airbag-industries.git */
 $((function () {
   $('.js-arrow').each((function () {
     var arrow = $(this);
