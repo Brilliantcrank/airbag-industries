@@ -2,7 +2,7 @@
 date = 2021-03-10T18:05:00Z
 description = ""
 tags = ["wcag"]
-title = "Making accessibility a feature, not a fix."
+title = "Make accessibility a feature, not a fix."
 
 +++
 Please consider [sharing this story far and wide](https://medium.com/indeed-design/building-an-accessibility-library-e134e9012c17) because it’s important, and more of the digital industry needs to see this.
