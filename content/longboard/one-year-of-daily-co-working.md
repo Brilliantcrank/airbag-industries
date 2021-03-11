@@ -1,6 +1,5 @@
 +++
 date = 2021-03-11T22:00:00Z
-draft = true
 tags = ["utopia"]
 target_url = "https://plasticmind.com/friends/1-year-of-daily-coworking/"
 title = "One year of daily co-working."
