@@ -21,4 +21,4 @@ Much of the instructions from institutions like W3C are written for scientific, 
 
 The team at Indeed ultimately succeeded because they took the first step to clarify and interpret this lab coat language for into something easier to consume and grok. Improving awareness would have been a huge win, but continue reading to see how they created a tool that drove even better results.
 
-Update — I've heard from Stephanie and the team is working to get permission to release their tools in the Figma community.
+Update — I've heard from Stephanie and the team is working to get permission to release their tools in the Figma community. 
