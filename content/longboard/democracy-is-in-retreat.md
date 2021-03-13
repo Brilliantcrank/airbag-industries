@@ -1,6 +1,5 @@
 +++
 date = 2021-03-13T08:05:00Z
-draft = true
 tags = ["utopia"]
 target_url = "https://www.economist.com/graphic-detail/2021/03/11/democratic-institutions-continued-to-weaken-in-2020"
 title = "Democracy is in retreat."
@@ -10,4 +9,4 @@ title = "Democracy is in retreat."
 >
 > Even some of the world’s most durable democracies are struggling. America is classified by Freedom House as “free” but is no longer near the top of the class. Since 2016 the country has dropped 6 points. The report argues that the fact that Donald Trump’s calls to overturn November’s presidential election in America went “unchecked by most lawmakers from his own party” undermined basic democratic principles. India, the world’s most populous democracy, was downgraded from “free” to “partly free”. Under Narendra Modi, the prime minister, the country has elevated “narrow Hindu-nationalist interests” at the expense of “equal rights for all”, the report says.
 
-Fifteen years—that's hard to believe, but I'm not going to spend a minute arguing the data. That timing puts the US near the height of fighting in the Iraq civil war. Surely, that's not a coincidence and we have had a role in democracies decline. 
+Fifteen years—that's hard to believe, but I'm not going to spend a minute arguing the data. That timing puts the US near the height of fighting the civil war in Iraq. Surely, that's not a coincidence and we, the birth nation of democracy, have had a role in its decline. Anyone still celebrating Biden's victory is fooling themselves into thinking the worst is behind us. [More trouble may lie ahead.](https://foreignpolicy.com/2021/01/15/rise-fall-united-states-financial-empire-dollar-global-currency/)
