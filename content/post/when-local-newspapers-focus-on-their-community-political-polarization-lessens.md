@@ -18,7 +18,7 @@ Last year the local newspaper in Palm Springs, California, _The Desert Sun_, [dr
 >   
 > The result? More partisanship close to home.
 
-Instead, The Desert Sun focused discussing local issues from “traffic, development, downtown revitalization, schools, and other local issues you can’t read about on NYTimes.com.”
+Instead, _The Desert Sun_ focused discussing local issues from “traffic, development, downtown revitalization, schools, and other local issues you can’t read about on NYTimes.com.”
 
 The results are interesting.
 
