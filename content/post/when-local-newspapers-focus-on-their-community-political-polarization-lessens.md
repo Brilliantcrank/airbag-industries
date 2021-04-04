@@ -2,10 +2,10 @@
 date = 2021-04-04T08:00:00Z
 description = ""
 tags = ["staylocal"]
-title = "When local newspapers focus on their community, political polarization lessens."
+title = "When local newspaper focus opinion sections on their community, political polarization lessens."
 
 +++
-Last year the local newspaper in Palm Springs, California, The Desert Sun, dropped national politics from its editorial pages for one month. The publisher wanted to test the findings from university study that showed a correlation between national politics and an increase in polarization within the population. So, they abstained from any form of publishing opinion pieces at the national level. From the editor:
+Last year the local newspaper in Palm Springs, California, _The Desert Sun_, [dropped national politics from its editorial pages for one month](https://www.niemanlab.org/2021/04/maybe-just-shut-up-about-national-politics-if-you-want-to-reduce-polarization/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NiemanJournalismLab+%28Nieman+Journalism+Lab%29). The publisher wanted to test the findings from university study that showed a correlation between national politics and an increase in polarization within the population. So, they abstained from any form of publishing opinion pieces at the national level. From the editor:
 
 > That means no columns, no cartoons and no letters about the president, Congress, the Supreme Court, etc. Have a burning opinion about any of those things? Save it up, we’ll get back to that in August.
 >
@@ -15,15 +15,17 @@ Last year the local newspaper in Palm Springs, California, The Desert Sun, dropp
 >
 > We all know that national news coverage these days has an intense focus on the partisan war in Washington. According to the research study, published in the Journal of Communication, folks who have lost their local newspaper or have given up on it turn to national news outlets. Then, they apply their (increasingly hardened) feelings about national politics to their local city council or state legislature.
 >
+>   
 > The result? More partisanship close to home.
 
 Instead, The Desert Sun focused discussing local issues from “traffic, development, downtown revitalization, schools, and other local issues you can’t read about on NYTimes.com.”
 
-The results are interesting. 
+The results are interesting.
 
 > Some topics moved from also-rans to mainstays; local arts moved from 4 percent to 28 percent of published letters to the editor. Editorials and op-eds focused much more on education and environmental issues. The share of pieces that mentioned either the Democratic or Republican Party fell by 60 percent.
 >
-> One unexpected change: When the subject matter got more local, the authors writing became more corporate. Before the experiment, about three-quarters of op-eds had been written by opinion journalists. Moving to local dropped that to one-third. Who filled the gap? Executives from local companies and local elected officials, mostly. In a way, that makes sense: There isn’t a pool of local opinion journalists waiting to be pulled into service, and more specialized local topic matter favored people whose jobs connect with those topics in some way. 
+>   
+> One unexpected change: When the subject matter got more local, the authors writing became more corporate. Before the experiment, about three-quarters of op-eds had been written by opinion journalists. Moving to local dropped that to one-third. Who filled the gap? Executives from local companies and local elected officials, mostly. In a way, that makes sense: There isn’t a pool of local opinion journalists waiting to be pulled into service, and more specialized local topic matter favored people whose jobs connect with those topics in some way.
 
 And according to the report, web traffic to the opinions page doubled during the time of the experiment. When is the last time you read about traffic to a newspaper website doubling?
 
