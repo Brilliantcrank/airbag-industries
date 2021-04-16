@@ -19,4 +19,4 @@ The administration of the shot took seconds and was painless. The second shot wa
 
 Neither of us got sick, but it does feel like a truck ran into my arm. And we're both exhausted. I suspect that a good chunk of this weekend will be spent napping. If that's the only side effect, then we'll take it. And I know there is a high probability that this won't be the last shot we'll have to get to wipe COVID off the map, but at least we're on our way to defeat this as we have for polio and smallpox.
 
-In two weeks, the vaccine will be in full effect, and we'll be free again to move about the country. I need to see some palm trees soon.
+In two weeks, the vaccine will be in full effect, and we'll be free again to move about the country. And just in time because I need to see palm trees soon.
