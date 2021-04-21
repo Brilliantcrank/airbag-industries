@@ -1,6 +1,6 @@
 +++
 date = 2021-04-20T08:00:00Z
-tags = []
+tags = ["futbol"]
 target_url = "https://foreignpolicy.com/2021/04/20/european-football-soccer-super-league/"
 title = "European Super League looks to be here to stay."
 
