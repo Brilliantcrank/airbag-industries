@@ -5,4 +5,6 @@ target_url = "https://www.masterclass.com/classes/david-carson-teaches-graphic-d
 title = "David Carson has a Masterclass."
 
 +++
-Ah man, where was this amazing resource thirty years ago? Better late than never and I can't wait to get in and absorb everything. Also, I love that he's able to skateboard around his studio—new life goal registered.
+Learn new perspective in graphic design from David-effing-Carson for fifteen dollars? Uh, yes please. Totally looking forward to this class.
+
+Also, I love that he's able to skateboard around his studio—new life goals registered.
