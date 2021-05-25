@@ -5,7 +5,7 @@ tags = ["jell"]
 title = "Without alignment, teams will always make bad decisions that sometimes kill people."
 
 +++
-When I mentor or coach people, I try to impress upon everyone the importance of communication alignment. If two people, two teams, two nations. etc., aren’t using the same language problems will occur. It’s not a matter of if, but when and how severe. Without alignment, people will naturally try to interpret what they hear into their language and understanding. Make it worse by communicating using methods that inhibit the ability to observe body language makes matters worse.
+When I mentor or coach people, I try to impress upon everyone the importance of communication alignment. If two people, two teams, two nations. etc., aren’t using the same language problems will occur. It’s not a matter of if, but when and how severe. Without alignment, people will naturally try to interpret what they hear into their language and understanding. By communicating using methods that inhibit the ability to observe body language makes matters worse.
 
 Such was the case between two groups trying to determine how to stop the spread of COVID-19. As written by Megan Molteni for [Wired magazine](https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill):
 
@@ -32,4 +32,4 @@ You can do this easily. Begin by asking questions about one another. Start with 
 
 It might not be obvious, so I’ll add that it takes some vulnerability to make the conversation honest, engaging, and meaningful. But, someone has to start, so it may as well be you. There are no bonus points for transparency. It’s a requirement. The purpose of this exchange is to gain clarity around language while also developing some empathy for one another.
 
-A little investment in time, honesty, and vulnerability go a long, long way. Once a team has developed connections between the members, they will function as one unit versus function as one part or one half of a unit. Your mileage may vary, but I assure you an exercise like this is a lot better than hoping to groups of strangers will get together and jell.
+A little investment in time, honesty, and vulnerability go a long, long way. Once a team has developed connections between the members, they will function as one unit versus function as one part or one half of a unit. Your mileage may vary, but I assure you an exercise like this is a lot better than hoping two groups of strangers will get together and jell.
