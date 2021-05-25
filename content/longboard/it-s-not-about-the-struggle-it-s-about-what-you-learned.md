@@ -1,6 +1,6 @@
 +++
 date = 2021-05-25T12:01:00Z
-tags = []
+tags = ["writing"]
 target_url = "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/"
 title = "It’s not about the struggle, it’s about what you learned."
 
