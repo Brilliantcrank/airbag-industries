@@ -23,4 +23,6 @@ Changing the day created a three-day weekend which has had the adverse effect of
 
 Right now, on the spot, I’m not exactly sure what word I’d use instead, but “meaningful” comes to mind. So have a Meaningful Memorial Day. It doesn’t have a ring to it, but the whole damn point is to turn your jet ski off for a minute and remember the generations who were called to serve and did so with honor and valor. The men and women who fought so that decades later we did not have to do the same.
 
-Today, I’d like to remember Sherriell Storey Sr., James Voigts, and James Fernandez for their service and sacrifice. And as I have learned, when one is deployed, all are deployed. I’d like to remember their families and the pain they surely endured, not knowing if their husbands and fathers would return home.
+Today, I’d like to remember Sherriell Storey Sr., James Voigts, and James Fernandez for their service and sacrifice. And as I have learned, when one is deployed, all are deployed. I'd like to remember their families and the pain they surely endured, not knowing if their husbands and fathers would return home.
+
+Take a minute today and remember those who served, hug your family, and be well.
