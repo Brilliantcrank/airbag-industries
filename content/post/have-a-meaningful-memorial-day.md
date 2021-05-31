@@ -7,7 +7,7 @@ title = "Have a Meaningful Memorial Day."
 +++
 Today those of us in the United States celebrate Memorial Day. A day set aside to remember those who lost their lives serving their country in the military. But, for many, it is also a time to remember everyone who has served their country through military duty.
 
-Around this time of the year, it is common to wish someone a Happy Memorial Day. This morning as I thought about my relatives who served, I thought about that phrase and wonder why we use it. Memorial Day is many things, but "happy" is not one of them. So I  spent some of this morning reading about the origins of Memorial Day and the intent behind making it a national holiday.
+Around this time of the year, it is common to wish someone a Happy Memorial Day. This morning as I thought about my relatives who served, I thought about that phrase and wonder why we use it. Memorial Day is many things, but "happy" is not one of them. So I  spent some of this morning reading about the origins of Memorial Day and the intent behind making it a national holiday. 
 
 [The first Memorial Day](https://history.com/news/memorial-day-civil-war-slavery-charleston) (or Decoration Day as it was initially called) took place on May 1, 1865, in Charleston, South Carolina. [Charleston is also where the American Civil War began](https://www.senate.gov/artandhistory/history/minute/Civil_War_Begins.htm) on the morning of April 12, 1861. The Confederate Army attacked Fort Sumter in Charleston Harbor. Forty-eight hours later, the Union Army surrendered and was taken as the first prisoners of the war.
 
