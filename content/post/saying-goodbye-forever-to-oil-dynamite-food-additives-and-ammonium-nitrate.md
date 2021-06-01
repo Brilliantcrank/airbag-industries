@@ -17,6 +17,6 @@ These situations have gone through my head each and every time she said goodbye 
 
 As of today, where the sun sets in the sky, On the Day of our Lord, June 1, 2021, Stardate 99015.22, the Rocket Scientist no longer works in the oil business. She will no longer help create cereal that remains crunchy after an hour in milk. No more beer brewing, dynamite making, or trips to that absolute shit hole known as Gary, Indiana. And she sure as hell will never again travel 26 hours to Kenai, Alaska and back just to have a four-hour meeting in person because the old white guys don’t know how to work Zoom (true story). Those days are now behind us—Forver. Piss-off!
 
-On a side note: Last week, she cleaned out her office, and now we have a pair of full-mask respirators, fire-proof coveralls, and a pair of steel-toed Doc Martins in the house. Add a three-legged dog, a sawed-off shotgun, and a dusty half-bottle of bourbon, and we’re ready for the next post-war apocalypse.
-
 More data provided in the future about her next chapter, but for now, I’m so thankful that she didn’t have to walk through that door this morning and head for danger.
+
+On a side note: Last week, she cleaned out her office, and now we have a pair of full-mask respirators, fire-proof coveralls, and a pair of steel-toed Doc Martins in the house. Add a three-legged dog, a sawed-off shotgun, and a dusty half-bottle of bourbon, and we’re ready for the next post-war apocalypse.
