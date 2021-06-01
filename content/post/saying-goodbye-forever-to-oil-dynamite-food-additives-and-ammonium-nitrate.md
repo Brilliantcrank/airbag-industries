@@ -19,4 +19,4 @@ As of today, where the sun sits in the sky, On the Day of our Lord, June 1, 2021
 
 More data will be provided in the future about her next chapter, but for now, I’m so glad  that she didn’t have to walk through that door this morning and head for danger.
 
-On a side note: Last week, she cleaned out her office, and now we have a pair of full-mask respirators, fire-proof coveralls, and a pair of steel-toed Doc Martins in the house. Add a three-legged dog, a sawed-off shotgun, and a dusty half-bottle of bourbon, and we’re ready for the next post-war apocalypse.
+On a side note: Last week, she cleaned out her office, and now we have a pair of full-mask respirators, fire-proof coveralls, and a pair of steel-toed Doc Martens in the house. Add a three-legged dog, a sawed-off shotgun, and a dusty half-bottle of bourbon, and we’re ready for the next post-war apocalypse.
