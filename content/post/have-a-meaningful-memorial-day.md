@@ -21,7 +21,7 @@ Six hundred thousand and twenty lives were lost in the Civil War. It didn’t ta
 
 Changing the day created a three-day weekend which has had the adverse effect of directing the focus of Memorial Day away remembrance to that of an unofficial start of summer. And that, I suppose, is how the word “happy” crept into an otherwise, intentionally solemn day. For whatever reason, we label all of our holidays as “happy” except for Christmas thanks to Bing Crosby.
 
-Right now, on the spot, I’m not exactly sure what word I’d use instead, but “meaningful” comes to mind. So have a Meaningful Memorial Day. It doesn’t have a ring to it, but the whole damn point is to turn your jet ski off for a minute and remember the generations who were called to serve and did so with honor and valor. The men and women who fought so that decades later we did not have to do the same.
+Right now, on the spot, I’m not exactly sure what word I’d use instead, but “meaningful” comes to mind. So have a Meaningful Memorial Day. It doesn’t have a ring to it, but the whole damn point is to turn off your jet ski for a minute and remember the generations who were called to serve and did so with honor and valor. The men and women who fought so that decades later we did not have to do the same.
 
 Today, we are taking time to reflect on Calvin Hubbard, Sherriell Storey Sr., James Voigts, and James Fernandez for their service, sacrifice, and commitment to their country. And as I have learned, when one is deployed, all are deployed. So we also take time to think about their families and the pain they surely endured, not knowing if their husbands and fathers would return home.
 
