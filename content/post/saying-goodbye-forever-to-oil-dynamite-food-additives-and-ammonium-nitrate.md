@@ -2,7 +2,7 @@
 date = 2021-06-01T08:00:00Z
 description = ""
 tags = ["byebye"]
-title = "Saying goodbye forever to oil, dynamite, food additives, and ammonium nitrate."
+title = "Saying goodbye forever to oil, beer, food additives, and ammonium nitrate."
 
 +++
 Ammonium nitrate is some seriously horrible stuff. Especially when [handled](https://www.youtube.com/watch?v=jzDC3iKbTzY) or [stored](https://www.youtube.com/watch?v=93tV6-0Ugwk) improperly, it explodes and destroys like a small atomic weapon. And it is just one of many hazardous chemicals and materials that my wife has worked to prevent from harming or killing people for the last ten years. When my wife leaves for work, whether it's in China, Iowa, or just down the street, I said goodbye knowing there was a chance she might not come back.
