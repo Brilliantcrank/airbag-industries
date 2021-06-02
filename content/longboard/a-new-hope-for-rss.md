@@ -1,6 +1,6 @@
 +++
 date = 2021-06-02T12:00:00Z
-tags = []
+tags = ["markasread"]
 target_url = "https://www.theverge.com/2021/5/20/22445284/google-rss-chrome-android-feature-test"
 title = "A new hope for RSS?"
 
