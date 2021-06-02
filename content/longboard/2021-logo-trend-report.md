@@ -17,4 +17,4 @@ Interesting synthesis from Bill Gardner (author of the LogoLounge book series) a
 >
 > Old school etched logos came back with a vengeance but were retooled to reproduce digitally.
 
-The big theme I see in this year’s report is "change." The need for humans to change their situation, outside the home and away from technology. The need for companies to finally embrace digital transformation, including how they show up in the marketplace. Take ABC, for example, who are [altering their iconic logo](https://www.underconsideration.com/brandnew/archives/to_a_b_c_ontinued.php) to be “optimal for all digital, social, and emerging applications.”
+The big theme I see in this year’s report is "change." The need for humans to change their situation, outside the home and away from technology. The need for companies to finally embrace digital transformation, including how they show up in the marketplace. Take ABC, for example, who are [altering their iconic logo](https://www.underconsideration.com/brandnew/archives/to_a_b_c_ontinued.php) to be “optimal for all digital, social, and emerging applications.” 
