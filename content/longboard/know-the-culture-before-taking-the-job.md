@@ -5,11 +5,11 @@ target_url = "https://daringfireball.net/linked/2021/06/04/apple-remote-work"
 title = "Know the culture before taking the job."
 
 +++
-The fight to retain work-from-home privileges has just begun. I am surprised by the group of Apple employees resisting coming back to work three days a week. Their culture has a symbiotic relationship to place for a long time. This was most certainly the case at 1 Infinite Loop and I have to imagine it’s even more so at Apple Park.
+The fight to retain work-from-home privileges has just begun. I am surprised by the group of Apple employees resisting coming back to work three days a week. Their culture has a symbiotic relationship to place for a long time. This was most certainly the case at 1 Infinite Loop and I have to imagine it’s even more so at Apple Park. 
 
-I can hear John now as if he’s reading his post: 
+I can hear John now as if he’s reading his post:
 
-> Who are these people who took jobs at Apple not knowing the company’s on-site culture? Do they think Apple built a new $4 billion campus on a lark? Three days a week on-site and two days remote is a *huge* change for Apple.
+> Who are these people who took jobs at Apple not knowing the company’s on-site culture? Do they think Apple built a new $4 billion campus on a lark? Three days a week on-site and two days remote is a _huge_ change for Apple.
 >
 > Companies are not democracies, but the employees writing these letters sure seem to think Apple is one. It’s not, and if it were, the company would sink in a snap. Apple’s new “three days on-site” policy wasn’t a request for comments—it was a decision—and Tim Cook’s company-wide letter already leaves room for individual teams to adjust it to their own needs.
 
