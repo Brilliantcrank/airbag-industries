@@ -1,5 +1,5 @@
 +++
-date = 2021-06-07T21:00:00Z
+date = 2021-06-07T16:02:00Z
 tags = ["glasselavators"]
 target_url = "https://daringfireball.net/linked/2021/06/04/apple-remote-work"
 title = "Know the culture before taking the job."
