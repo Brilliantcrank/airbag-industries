@@ -1,5 +1,5 @@
 +++
-date = 2021-06-01T10:00:00Z
+date = 2021-06-07T10:00:00Z
 tags = ["spotaneitywins"]
 target_url = "https://blackphoebe.com/msjen/2021/05/reservations-2x/"
 title = "Ms. Jen has \"reservations about reservations.\""
