@@ -1,5 +1,5 @@
 +++
-date = 2021-06-01T09:00:00Z
+date = 2021-06-10T09:00:00Z
 tags = ["details"]
 target_url = "https://markboulton.co.uk/journal/finsihed/"
 title = "Finsihed."
