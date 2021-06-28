@@ -1,6 +1,5 @@
 +++
 date = 2021-06-28T08:00:00Z
-draft = true
 tags = ["itwastheheatofthemoment"]
 target_url = "https://www.openculture.com/2021/06/the-story-of-the-minidisc.html"
 title = "The story of Sony MiniDisc."
