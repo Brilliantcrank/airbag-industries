@@ -5,4 +5,4 @@ target_url = "https://money.yahoo.com/video/atari-ceo-launching-own-crypto-17302
 title = "Atari is developing a crypto-currency for gaming."
 
 +++
-Tokens will be used for blockchain based games, Atari NFTs, and betting on e-sports. The casino action is kinda interesting. I wonder how that will tie in to the new [Atari hotel coming to Las Vegas.](https://atarihotels.com/news/gsd-group-partners-with-global-design-firm-gensler/)
+Tokens will be used for blockchain based games, Atari NFTs, and betting on e-sports. The gambling action is kinda interesting. I wonder how that will tie in to the new [Atari hotel coming to Las Vegas.](https://atarihotels.com/news/gsd-group-partners-with-global-design-firm-gensler/)
