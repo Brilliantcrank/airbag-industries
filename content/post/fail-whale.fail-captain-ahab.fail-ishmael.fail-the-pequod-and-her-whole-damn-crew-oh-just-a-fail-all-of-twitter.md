@@ -7,7 +7,7 @@ title = "Fail whale. Fail Captain Ahab. Fail Ishmael. Fail the Pequod and her wh
 +++
 So my Twitter account has been hacked and stolen. Seven days ago, I filed a report suggesting that my account had been hacked because I could no longer login, nor could I change my password. Three days later, Twitter replied with a scripted email that read,
 
-> Hello,
+> Hello, 
 >
 > We had a look at your account, and it appears that everything is now resolved!
 >
