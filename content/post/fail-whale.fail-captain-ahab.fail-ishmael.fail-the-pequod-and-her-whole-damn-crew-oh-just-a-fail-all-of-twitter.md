@@ -2,7 +2,7 @@
 date = 2021-07-04T07:00:00Z
 description = "My Twitter account of fifteen years has been hacked and stolen."
 tags = ["asshats"]
-title = "Fail whale. Fail Captain Ahab. Fail Ishmael. Fail the Pequod and her whole damn crew! Oh, just @\#$% a !@\#$%, fail all of Twitter!"
+title = "Fail whale. Fail Captain Ahab. Fail Ishmael. Fail the Pequod and her whole damn crew! Oh, just @&$% a %!&@$, fail all of Twitter!"
 
 +++
 So my Twitter account has been hacked and stolen. Seven days ago, I filed a report suggesting that my account had been hacked because I could no longer login, nor could I change my password. Three days later, Twitter replied with a scripted email that read,
