@@ -1,5 +1,5 @@
 +++
-date = 2021-08-03T08:00:00Z
+date = 2021-07-08T08:00:00Z
 tags = ["design"]
 target_url = "https://web.dev/new-responsive/"
 title = "The new responsive."
