@@ -5,7 +5,7 @@ target_url = "https://www.vice.com/en/article/dyv4zq/the-vinyl-boom-is-pushing-o
 title = "Vinyl sales grew by 30% in 2020."
 
 +++
-Apparently a good chunk of America decided to cosplay High Fidelity John Cusack during the quarantine.
+Apparently a good chunk of America decided to cosplay High Fidelity John Cusack during the quarantine. 
 
 > During the pandemic, vinyl exploded, growing 28.7 percent in 2020 according to the [Record Industry Association of America](https://www.digitalmusicnews.com/wp-content/uploads/2021/02/RIAA-2020-Year-End-Music-Industry-Revenue-Report.pdf). While vinyl has been on an upward trajectory since the mid-aughts, 2020 marked the first time [vinyl beat out CDs in total revenues](https://www.riaa.com/wp-content/uploads/2020/09/Mid-Year-2020-RIAA-Revenue-Statistics.pdf) since the 1980s. Due to the pandemic, music fans have spent money on turntables instead of concert tickets, some factories couldn't maintain their production capacity due to social distancing measures and labor shortages, and artists and labels who held off on releasing albums during the pandemic are all releasing LPs this year.
 >
